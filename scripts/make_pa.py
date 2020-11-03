@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("electionnight/pa/live_results.csv")
+df = pd.read_csv("../electionnight/pa/live_results.csv")
 
 df2 = pd.crosstab(df["County Name"], df["Candidate Name"], df["Votes"], aggfunc="sum").reset_index()
 
@@ -31,9 +31,9 @@ else:
 
 statewide = pd.DataFrame([["STATEWIDE", results["ballotscast_2020"].sum(), results["registered_2020"].sum(), results["ballotscast_2020"].sum()/results["registered_2020"].sum(), results["biden_2020"].sum(), results["presvotes_2020"].sum(), statewide_bidenpct_2020, results["trump_2020"].sum(), statewide_trumppct_2020]], columns = ['county', 'ballotscast_2020', 'registered_2020', 'turnout_2020', 'biden_2020', 'presvotes_2020', 'bidenpct_2020', 'trump_2020', 'trumppct_2020'])
 
-results.append(statewide).fillna(0).to_csv("electionnight/pa/results_2020.csv", index=False)
+results.append(statewide).fillna(0).to_csv("../electionnight/pa/results_2020.csv", index=False)
 
-results_2016 = pd.read_csv("electionnight/pa/results_2016.csv").set_index("county")
-results_2020 = pd.read_csv("electionnight/pa/results_2020.csv").set_index("county")
+results_2016 = pd.read_csv("../electionnight/pa/results_2016.csv").set_index("county")
+results_2020 = pd.read_csv("../electionnight/pa/results_2020.csv").set_index("county")
 results = pd.concat([results_2016, results_2020], axis=1)
-results.to_csv("electionnight/pa/results.csv")
+results.to_csv("../electionnight/pa/results.csv")
