@@ -1,6 +1,7 @@
 #!/bin/bash
 wget -q -O ../electionnight/nc/results_pct_20201103.zip https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2020_11_03/results_pct_20201103.zip
-unzip ../electionnight/nc/results_pct_20201103.zip -d ../electionnight/nc/live_results.txt 
+unzip -o ../electionnight/nc/results_pct_20201103.zip -d ../electionnight/nc/
+mv ../electionnight/nc/results_pct_20201103.txt ../electionnight/nc/live_results.txt
 rm ../electionnight/nc/results_pct_20201103.zip 
 
 newfile='../electionnight/nc/live_results.txt'
