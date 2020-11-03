@@ -20,10 +20,10 @@ results["ballotscast_2020"] = df2.sum(axis=1)
 results["registered_2020"] = pd.Series([190433, 16933, 124653, 17742, 452424, 1266991, 8709, 152142, 117092, 164745, 231708, 44239, 17819, 10595, 664211, 232238, 91916, 8485, 31155, 12516, 7097, 10829, 8098, 13111, 19122, 146893, 66317, 934346, 11489, 124586, 29857, 10236, 4568, 264691, 489187, 217454, 30099, 4601, 11758, 273427, 264614, 118472, 1564297, 56910, 72223, 150654, 22394, 866460, 239027, 1020222, 393392, 711462, 471241, 50692, 145810, 340092, 335172, 210059, 223640, 105612, 27728, 12779, 7718, 398530, 22909, 58057, 17191])
 
 results["turnout_2020"] = results["ballotscast_2020"]/results["registered_2020"]
-#results["biden_2020"] = df2["Biden"]
-results["biden_2020"] = df2["Clinton"] #remove this and replace with above on election night
-#results["presvotes_2020"] = df2["Trump"] + df2["Biden"] + df2["Jorgensen"] + df2["De La Fuente"] + df2["La Riva"] + df2["Hawkins"] + df2["Blakenship"]
-results["presvotes_2020"] = df2["Clinton"] + df2["Castle"] + df2["Johnson"] + df2["Trump"] + df2["De La Fuente"] + df2["Stein"] #remove this and replace with above on election night
+results["biden_2020"] = df2["Biden"]
+#results["biden_2020"] = df2["Clinton"] #remove this and replace with above on election night
+results["presvotes_2020"] = df2["Trump"] + df2["Biden"] + df2["Jorgensen"] + df2["De La Fuente"] + df2["La Riva"] + df2["Hawkins"] + df2["Blakenship"]
+#results["presvotes_2020"] = df2["Clinton"] + df2["Castle"] + df2["Johnson"] + df2["Trump"] + df2["De La Fuente"] + df2["Stein"] #remove this and replace with above on election night
 results["bidenpct_2020"] = results["biden_2020"]/results["presvotes_2020"]
 results["trump_2020"] = df2["Trump"]
 results["trumppct_2020"] = results["trump_2020"]/results["presvotes_2020"]
