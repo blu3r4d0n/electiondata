@@ -1,11 +1,11 @@
 import pandas as pd
 
-df = pd.read_csv("../electionnight/fl/live_results.txt", sep="\t", usecols = ["PartyCode", "RaceName", "CountyName", "CanNameLast", "CanVotes"])
+df = pd.read_csv("../electionnight/fl/live_results.txt", sep="\t", usecols = ["PartyCode", "RaceName", "CountyName", "CanNameFirst", "CanVotes"])
 
 #get results for US President
 df = df[(df.RaceName=="President of the United States")]
 
-df2 = pd.crosstab(index=df.CountyName, columns=df.CanNameLast, values=df.CanVotes, aggfunc="sum").reset_index()
+df2 = pd.crosstab(index=df.CountyName, columns=df.CanNameFirst, values=df.CanVotes, aggfunc="sum").reset_index()
 
 results = pd.DataFrame()
 
