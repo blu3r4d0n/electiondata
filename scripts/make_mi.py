@@ -51,6 +51,6 @@ results.append(statewide).fillna(0).reset_index().rename(columns={'index':'count
 results_2016 = pd.read_csv("../electionnight/mi/results_2016.csv").set_index("county")
 results_2020 = pd.read_csv("../electionnight/mi/results_2020.csv").set_index("county")
 results = pd.concat([results_2016, results_2020], axis=1)
-results = results.as_type({"ballotscast_2020":int,"registered_2020":int,"turnout_2020":float,"biden_2020":int,"presvotes_2020":int,"bidenpct_2020":float,"trump_2020":int,"trumppct_2020":float})
+results = results.astype({"ballotscast_2020":int,"registered_2020":int,"turnout_2020":float,"biden_2020":int,"presvotes_2020":int,"bidenpct_2020":float,"trump_2020":int,"trumppct_2020":float})
 
 results.to_csv("../electionnight/mi/results.csv")
