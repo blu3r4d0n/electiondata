@@ -8,6 +8,7 @@ cmp --silent $newfile $oldfile || changed=true
 if [ $changed ];
 then 
 python make_pa.py
+cp ../electionnight/pa/live_results.csv ../electionnight/pa/olddata.csv
 var="pa_$(date '+%Y-%m-%dT%H:%M')"
 (git add ../electionnight/pa/* && git commit -m $var && git push)
 fi
