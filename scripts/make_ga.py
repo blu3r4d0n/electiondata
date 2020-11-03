@@ -1,10 +1,10 @@
 import pandas as pd
 
 #get results for ballots cast
-df1 = pd.read_excel("../electionnight/ga/live_results.xlsx", sheet_name=1)
+#df1 = pd.read_excel("../electionnight/ga/live_results.xlsx", sheet_name=1)
 
 #get results for US President
-df2 = pd.read_excel("../electionnight/ga/live_results.xlsx", sheet_name=2, skiprows=2, usecols=[0, 1, 6, 11, 17], names=["County", "Registered Voters", "Trump Total Votes", "Biden Total Votes", "Pres Total Votes"])
+df2 = pd.read_excel("../electionnight/ga/live_results.xlsx", sheet_name=1, skiprows=2, usecols=[0, 5, 10, 16], names=["County", "Trump Total Votes", "Biden Total Votes", "Pres Total Votes"])
 
 results = pd.DataFrame()
 
@@ -12,10 +12,10 @@ results["county"] = df2["County"].str.title()
 
 results.replace({"Dekalb":"DeKalb", "Mcduffie":"McDuffie", "Mcintosh":"McIntosh"}, inplace=True)
 
-results["ballotscast_2020"] = df1["Ballots Cast"]
+#this is an undercount because they are not reporting it
+results["ballotscast_2020"] = df2["Pres Total Votes"]
 
-results["registered_2020"] = df1["Registered Voters"]
-#results["registered_2020"] = df2["Registered Voters"]
+results["registered_2020"] = pd.Series([11440, 4801, 6726, 2258, 26742, 12905, 55694, 74380, 9892, 11317, 108126, 7558, 11302, 11170, 30651, 44737, 16570, 17195, 3187, 35141, 6328, 83866, 45785, 6562, 202999, 3943, 14183, 190605, 76848, 2053, 194338, 4345, 537659, 25165, 25087, 107656, 10650, 102262, 8536, 12560, 11682, 21557, 16726, 547802, 11464, 5966, 61402, 101613, 7340, 2170, 44372, 12330, 13844, 6148, 20399, 92427, 60749, 164279, 15170, 808742, 22315, 2040, 61947, 36431, 15441, 14197, 582917, 28318, 128535, 5835, 20692, 25690, 16942, 7772, 172241, 105587, 6124, 52010, 10434, 8495, 11350, 5075, 5610, 20406, 12872, 5496, 32874, 22930, 35970, 6182, 9683, 75535, 22412, 7079, 20737, 4922, 15083, 9320, 15336, 3920, 13481, 21151, 5467, 14843, 22340, 132029, 79098, 30051, 10848, 115297, 18164, 23820, 12735, 13825, 24256, 5712, 16000, 1553, 13074, 4338, 135428, 65573, 2890, 9610, 5937, 46088, 18078, 2909, 18033, 4567, 1246, 12216, 5405, 6076, 6625, 30218, 24551, 16227, 10189, 4248, 43169, 5604, 6308, 19235, 18187, 43050, 70129, 20580, 3789, 12994, 18164, 1713, 3169, 20630, 54779, 4562, 6836, 6484, 13847])
 
 results["turnout_2020"] = results["ballotscast_2020"]/results["registered_2020"]
 results["biden_2020"] = df2["Biden Total Votes"]
