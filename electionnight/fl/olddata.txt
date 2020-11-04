@@ -9,7 +9,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	CHA	Charlotte	   	 	68	68	Pence	Trump	 / 	73202
 11/03/2020	REP	Republican Party	PRE	President of the United States	CIT	Citrus	   	 	31	31	Pence	Trump	 / 	65230
 11/03/2020	REP	Republican Party	PRE	President of the United States	CLA	Clay	   	 	47	42	Pence	Trump	 / 	83575
-11/03/2020	REP	Republican Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Pence	Trump	 / 	127980
+11/03/2020	REP	Republican Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Pence	Trump	 / 	128820
 11/03/2020	REP	Republican Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Pence	Trump	 / 	23819
 11/03/2020	REP	Republican Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	857	Pence	Trump	 / 	529716
 11/03/2020	REP	Republican Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Pence	Trump	 / 	8292
@@ -76,7 +76,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	CHA	Charlotte	   	 	68	68	Harris	Biden	 / 	42240
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	CIT	Citrus	   	 	31	31	Harris	Biden	 / 	27049
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	CLA	Clay	   	 	47	42	Harris	Biden	 / 	37511
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Harris	Biden	 / 	76622
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Harris	Biden	 / 	77529
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Harris	Biden	 / 	8900
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	857	Harris	Biden	 / 	613086
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Harris	Biden	 / 	4249
@@ -143,7 +143,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	CHA	Charlotte	   	 	68	68	Cohen	Jorgensen	 / 	564
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	CIT	Citrus	   	 	31	31	Cohen	Jorgensen	 / 	548
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	CLA	Clay	   	 	47	42	Cohen	Jorgensen	 / 	1235
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Cohen	Jorgensen	 / 	869
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Cohen	Jorgensen	 / 	887
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Cohen	Jorgensen	 / 	224
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	857	Cohen	Jorgensen	 / 	3274
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Cohen	Jorgensen	 / 	52
@@ -210,7 +210,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	CHA	Charlotte	   	 	68	68	Richardson	De La Fuente	 / 	49
 11/03/2020	REF	Reform Party	PRE	President of the United States	CIT	Citrus	   	 	31	31	Richardson	De La Fuente	 / 	42
 11/03/2020	REF	Reform Party	PRE	President of the United States	CLA	Clay	   	 	47	42	Richardson	De La Fuente	 / 	44
-11/03/2020	REF	Reform Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Richardson	De La Fuente	 / 	61
+11/03/2020	REF	Reform Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Richardson	De La Fuente	 / 	64
 11/03/2020	REF	Reform Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Richardson	De La Fuente	 / 	12
 11/03/2020	REF	Reform Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	857	Richardson	De La Fuente	 / 	594
 11/03/2020	REF	Reform Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Richardson	De La Fuente	 / 	12
@@ -277,7 +277,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	CHA	Charlotte	   	 	68	68	Freeman	La Riva	 / 	32
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	CIT	Citrus	   	 	31	31	Freeman	La Riva	 / 	30
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	CLA	Clay	   	 	47	42	Freeman	La Riva	 / 	53
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	CLL	Collier	   	 	60	60	Freeman	La Riva	 / 	48
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	CLL	Collier	   	 	60	60	Freeman	La Riva	 / 	49
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	CLM	Columbia	   	 	22	22	Freeman	La Riva	 / 	20
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DAD	Miami-Dade	   	 	866	857	Freeman	La Riva	 / 	569
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DES	Desoto	   	 	15	15	Freeman	La Riva	 / 	11
@@ -344,7 +344,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	CHA	Charlotte	   	 	68	68	Walker	Hawkins	 / 	127
 11/03/2020	GRE	Green Party	PRE	President of the United States	CIT	Citrus	   	 	31	31	Walker	Hawkins	 / 	86
 11/03/2020	GRE	Green Party	PRE	President of the United States	CLA	Clay	   	 	47	42	Walker	Hawkins	 / 	146
-11/03/2020	GRE	Green Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Walker	Hawkins	 / 	181
+11/03/2020	GRE	Green Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Walker	Hawkins	 / 	186
 11/03/2020	GRE	Green Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Walker	Hawkins	 / 	28
 11/03/2020	GRE	Green Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	857	Walker	Hawkins	 / 	1268
 11/03/2020	GRE	Green Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Walker	Hawkins	 / 	8
@@ -411,7 +411,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	CHA	Charlotte	   	 	68	68	Mohr	Blankenship	 / 	45
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	CIT	Citrus	   	 	31	31	Mohr	Blankenship	 / 	49
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	CLA	Clay	   	 	47	42	Mohr	Blankenship	 / 	56
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Mohr	Blankenship	 / 	38
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Mohr	Blankenship	 / 	39
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Mohr	Blankenship	 / 	8
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	857	Mohr	Blankenship	 / 	291
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Mohr	Blankenship	 / 	4
@@ -1069,9 +1069,9 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 18	MRT	Martin	018	 	28	28	Miller	K.	W.	1990
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 18	PAL	Palm Beach	018	 	254	248	Miller	K.	W.	3675
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 18	STL	St. Lucie	018	 	64	64	Miller	K.	W.	3993
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 19	CLL	Collier	019	 	35	35	Donalds	Byron		68996
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 19	CLL	Collier	019	 	35	35	Donalds	Byron		69156
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 19	LEE	Lee	019	 	112	112	Donalds	Byron		202140
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 19	CLL	Collier	019	 	35	35	Banyai	Cindy	Lyn	36471
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 19	CLL	Collier	019	 	35	35	Banyai	Cindy	Lyn	36573
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 19	LEE	Lee	019	 	112	112	Banyai	Cindy	Lyn	134847
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 19	CLL	Collier	019	 	35	35	Post	Patrick		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 19	LEE	Lee	019	 	112	112	Post	Patrick		0
@@ -1499,9 +1499,9 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 78	LEE	Lee	078	 	35	35	Williams	Shawn	Michael	38728
 11/03/2020	REP	Republican Party	STR	State Representative, District 79	LEE	Lee	079	 	28	28	Roach	Spencer		46157
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 79	LEE	Lee	079	 	28	28	Fornear	Danika		29891
-11/03/2020	REP	Republican Party	STR	State Representative, District 80	CLL	Collier	080	 	24	24	Melo	Lauren	Uhlich	46795
+11/03/2020	REP	Republican Party	STR	State Representative, District 80	CLL	Collier	080	 	24	24	Melo	Lauren	Uhlich	47385
 11/03/2020	REP	Republican Party	STR	State Representative, District 80	HEN	Hendry	080	 	10	10	Melo	Lauren	Uhlich	7426
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 80	CLL	Collier	080	 	24	24	Novosad	Laura		24986
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 80	CLL	Collier	080	 	24	24	Novosad	Laura		25773
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 80	HEN	Hendry	080	 	10	10	Novosad	Laura		4945
 11/03/2020	REP	Republican Party	STR	State Representative, District 81	PAL	Palm Beach	081	 	71	69	Banionis	Saulis		35063
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 81	PAL	Palm Beach	081	 	71	69	Skidmore	Kelly		51200
@@ -1543,13 +1543,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	STR	State Representative, District 104	BRO	Broward	104	 	41	41	Navarini	George		36638
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 104	BRO	Broward	104	 	41	41	Bartleman	Robin		50373
 11/03/2020	REP	Republican Party	STR	State Representative, District 105	BRO	Broward	105	 	3	3	Borrero	David		3562
-11/03/2020	REP	Republican Party	STR	State Representative, District 105	CLL	Collier	105	 	11	11	Borrero	David		13083
+11/03/2020	REP	Republican Party	STR	State Representative, District 105	CLL	Collier	105	 	11	11	Borrero	David		13135
 11/03/2020	REP	Republican Party	STR	State Representative, District 105	DAD	Miami-Dade	105	 	33	32	Borrero	David		21623
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 105	BRO	Broward	105	 	3	3	Porras	Maureen		5929
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 105	CLL	Collier	105	 	11	11	Porras	Maureen		9891
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 105	CLL	Collier	105	 	11	11	Porras	Maureen		9923
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 105	DAD	Miami-Dade	105	 	33	32	Porras	Maureen		17133
-11/03/2020	REP	Republican Party	STR	State Representative, District 106	CLL	Collier	106	 	38	38	Rommel	Bob		69572
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 106	CLL	Collier	106	 	38	38	McFadden	Sara		35919
+11/03/2020	REP	Republican Party	STR	State Representative, District 106	CLL	Collier	106	 	38	38	Rommel	Bob		69723
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 106	CLL	Collier	106	 	38	38	McFadden	Sara		36026
 11/03/2020	REP	Republican Party	STR	State Representative, District 110	DAD	Miami-Dade	110	 	36	35	Rizo	Alex		33905
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 110	DAD	Miami-Dade	110	 	36	35	Collazo	Annette		22757
 11/03/2020	REP	Republican Party	STR	State Representative, District 111	DAD	Miami-Dade	111	 	49	48	Avila	Bryan		32339
@@ -1581,7 +1581,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CHA	Charlotte	   	1	68	68	Yes	Carlos	G.	72110
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CIT	Citrus	   	1	31	31	Yes	Carlos	G.	59862
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLA	Clay	   	1	47	42	Yes	Carlos	G.	74992
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLL	Collier	   	1	60	60	Yes	Carlos	G.	130922
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLL	Collier	   	1	60	60	Yes	Carlos	G.	132032
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLM	Columbia	   	1	22	22	Yes	Carlos	G.	19332
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DAD	Miami-Dade	   	1	860	851	Yes	Carlos	G.	667309
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DES	Desoto	   	1	15	15	Yes	Carlos	G.	8051
@@ -1648,7 +1648,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CHA	Charlotte	   	1	68	68	No	Carlos	G.	28364
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CIT	Citrus	   	1	31	31	No	Carlos	G.	22231
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLA	Clay	   	1	47	42	No	Carlos	G.	33619
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLL	Collier	   	1	60	60	No	Carlos	G.	43326
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLL	Collier	   	1	60	60	No	Carlos	G.	43768
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLM	Columbia	   	1	22	22	No	Carlos	G.	9880
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DAD	Miami-Dade	   	1	860	851	No	Carlos	G.	336366
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DES	Desoto	   	1	15	15	No	Carlos	G.	3201
@@ -2090,7 +2090,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	WAL	Walton	001	6	21	21	No	Adam	S.	10130
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	WAS	Washington	001	6	12	12	No	Adam	S.	3393
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	CHA	Charlotte	002	1	68	68	Yes	Drew		73020
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	CLL	Collier	002	1	60	60	Yes	Drew		134848
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	CLL	Collier	002	1	60	60	Yes	Drew		135939
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	DES	Desoto	002	1	15	15	Yes	Drew		8107
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	GLA	Glades	002	1	13	13	Yes	Drew		3414
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	HAR	Hardee	002	1	12	12	Yes	Drew		5427
@@ -2104,7 +2104,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	POL	Polk	002	1	167	167	Yes	Drew		213280
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	SAR	Sarasota	002	1	101	101	Yes	Drew		150641
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	CHA	Charlotte	002	1	68	68	No	Drew		25338
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	CLL	Collier	002	1	60	60	No	Drew		39017
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	CLL	Collier	002	1	60	60	No	Drew		39477
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	DES	Desoto	002	1	15	15	No	Drew		3023
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	GLA	Glades	002	1	13	13	No	Drew		1210
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	HAR	Hardee	002	1	12	12	No	Drew		2201
@@ -2118,7 +2118,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	POL	Polk	002	1	167	167	No	Drew		88671
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	SAR	Sarasota	002	1	101	101	No	Drew		66288
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	CHA	Charlotte	002	2	68	68	Yes	Morris		72082
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	CLL	Collier	002	2	60	60	Yes	Morris		135022
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	CLL	Collier	002	2	60	60	Yes	Morris		136082
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	DES	Desoto	002	2	15	15	Yes	Morris		7752
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	GLA	Glades	002	2	13	13	Yes	Morris		3210
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	HAR	Hardee	002	2	12	12	Yes	Morris		4888
@@ -2132,7 +2132,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	POL	Polk	002	2	167	167	Yes	Morris		207612
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	SAR	Sarasota	002	2	101	101	Yes	Morris		151928
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	CHA	Charlotte	002	2	68	68	No	Morris		25290
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	CLL	Collier	002	2	60	60	No	Morris		37479
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	CLL	Collier	002	2	60	60	No	Morris		37953
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	DES	Desoto	002	2	15	15	No	Morris		3277
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	GLA	Glades	002	2	13	13	No	Morris		1380
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	HAR	Hardee	002	2	12	12	No	Morris		2573
@@ -2146,7 +2146,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	POL	Polk	002	2	167	167	No	Morris		93266
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	SAR	Sarasota	002	2	101	101	No	Morris		63805
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	CHA	Charlotte	002	3	68	68	Yes	Daniel	H.	72028
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	CLL	Collier	002	3	60	60	Yes	Daniel	H.	133948
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	CLL	Collier	002	3	60	60	Yes	Daniel	H.	135007
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	DES	Desoto	002	3	15	15	Yes	Daniel	H.	7997
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	GLA	Glades	002	3	13	13	Yes	Daniel	H.	3342
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	HAR	Hardee	002	3	12	12	Yes	Daniel	H.	5211
@@ -2160,7 +2160,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	POL	Polk	002	3	167	167	Yes	Daniel	H.	210557
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	SAR	Sarasota	002	3	101	101	Yes	Daniel	H.	149470
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	CHA	Charlotte	002	3	68	68	No	Daniel	H.	25382
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	CLL	Collier	002	3	60	60	No	Daniel	H.	37713
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	CLL	Collier	002	3	60	60	No	Daniel	H.	38188
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	DES	Desoto	002	3	15	15	No	Daniel	H.	2991
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	GLA	Glades	002	3	13	13	No	Daniel	H.	1242
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	HAR	Hardee	002	3	12	12	No	Daniel	H.	2200
@@ -2174,7 +2174,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	POL	Polk	002	3	167	167	No	Daniel	H.	87607
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	SAR	Sarasota	002	3	101	101	No	Daniel	H.	65324
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	CHA	Charlotte	002	4	68	68	Yes	Andrea	Teves	74525
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	CLL	Collier	002	4	60	60	Yes	Andrea	Teves	138805
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	CLL	Collier	002	4	60	60	Yes	Andrea	Teves	139961
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	DES	Desoto	002	4	15	15	Yes	Andrea	Teves	8217
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	GLA	Glades	002	4	13	13	Yes	Andrea	Teves	3411
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	HAR	Hardee	002	4	12	12	Yes	Andrea	Teves	5415
@@ -2188,7 +2188,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	POL	Polk	002	4	167	167	Yes	Andrea	Teves	221834
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	SAR	Sarasota	002	4	101	101	Yes	Andrea	Teves	157258
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	CHA	Charlotte	002	4	68	68	No	Andrea	Teves	22994
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	CLL	Collier	002	4	60	60	No	Andrea	Teves	32371
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	CLL	Collier	002	4	60	60	No	Andrea	Teves	32741
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	DES	Desoto	002	4	15	15	No	Andrea	Teves	2766
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	GLA	Glades	002	4	13	13	No	Andrea	Teves	1173
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	HAR	Hardee	002	4	12	12	No	Andrea	Teves	2027
@@ -2437,7 +2437,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CHA	Charlotte			68	68	Yes for Approval	 	 	97359
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CIT	Citrus			31	31	Yes for Approval	 	 	77357
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLA	Clay			47	42	Yes for Approval	 	 	103877
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLL	Collier			60	60	Yes for Approval	 	 	161995
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLL	Collier			60	60	Yes for Approval	 	 	163295
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLM	Columbia			22	22	Yes for Approval	 	 	27931
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DAD	Miami-Dade			860	851	Yes for Approval	 	 	814858
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DES	Desoto			15	15	Yes for Approval	 	 	10668
@@ -2504,7 +2504,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CHA	Charlotte			68	68	No for Rejection	 	 	14883
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CIT	Citrus			31	31	No for Rejection	 	 	12310
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLA	Clay			47	42	No for Rejection	 	 	14444
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLL	Collier			60	60	No for Rejection	 	 	34893
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLL	Collier			60	60	No for Rejection	 	 	35267
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLM	Columbia			22	22	No for Rejection	 	 	3458
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DAD	Miami-Dade			860	851	No for Rejection	 	 	240874
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DES	Desoto			15	15	No for Rejection	 	 	1525
@@ -2571,7 +2571,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CHA	Charlotte			68	68	Yes for Approval	 	 	59227
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CIT	Citrus			31	31	Yes for Approval	 	 	42951
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLA	Clay			47	42	Yes for Approval	 	 	55384
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLL	Collier			60	60	Yes for Approval	 	 	104586
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLL	Collier			60	60	Yes for Approval	 	 	105594
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLM	Columbia			22	22	Yes for Approval	 	 	14122
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DAD	Miami-Dade			860	851	Yes for Approval	 	 	747292
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DES	Desoto			15	15	Yes for Approval	 	 	5635
@@ -2638,7 +2638,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CHA	Charlotte			68	68	No for Rejection	 	 	54268
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CIT	Citrus			31	31	No for Rejection	 	 	44466
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLA	Clay			47	42	No for Rejection	 	 	62971
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLL	Collier			60	60	No for Rejection	 	 	84086
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLL	Collier			60	60	No for Rejection	 	 	84693
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLM	Columbia			22	22	No for Rejection	 	 	17617
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DAD	Miami-Dade			860	851	No for Rejection	 	 	312395
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DES	Desoto			15	15	No for Rejection	 	 	6603
@@ -2705,7 +2705,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CHA	Charlotte			68	68	Yes for Approval	 	 	62178
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CIT	Citrus			31	31	Yes for Approval	 	 	49647
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLA	Clay			47	42	Yes for Approval	 	 	67950
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLL	Collier			60	60	Yes for Approval	 	 	90531
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLL	Collier			60	60	Yes for Approval	 	 	91475
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLM	Columbia			22	22	Yes for Approval	 	 	18248
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DAD	Miami-Dade			860	851	Yes for Approval	 	 	601639
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DES	Desoto			15	15	Yes for Approval	 	 	6829
@@ -2772,7 +2772,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CHA	Charlotte			68	68	No for Rejection	 	 	46764
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CIT	Citrus			31	31	No for Rejection	 	 	36476
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLA	Clay			47	42	No for Rejection	 	 	48514
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLL	Collier			60	60	No for Rejection	 	 	92913
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLL	Collier			60	60	No for Rejection	 	 	93517
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLM	Columbia			22	22	No for Rejection	 	 	12929
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DAD	Miami-Dade			860	851	No for Rejection	 	 	431865
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DES	Desoto			15	15	No for Rejection	 	 	4839
@@ -2839,7 +2839,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CHA	Charlotte			68	68	Yes for Approval	 	 	51179
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CIT	Citrus			31	31	Yes for Approval	 	 	41800
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLA	Clay			47	42	Yes for Approval	 	 	63756
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLL	Collier			60	60	Yes for Approval	 	 	91027
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLL	Collier			60	60	Yes for Approval	 	 	91928
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLM	Columbia			22	22	Yes for Approval	 	 	17248
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DAD	Miami-Dade			860	851	Yes for Approval	 	 	469784
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DES	Desoto			15	15	Yes for Approval	 	 	6009
@@ -2906,7 +2906,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CHA	Charlotte			68	68	No for Rejection	 	 	56140
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CIT	Citrus			31	31	No for Rejection	 	 	43587
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLA	Clay			47	42	No for Rejection	 	 	52924
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLL	Collier			60	60	No for Rejection	 	 	92130
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLL	Collier			60	60	No for Rejection	 	 	92783
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLM	Columbia			22	22	No for Rejection	 	 	13777
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DAD	Miami-Dade			860	851	No for Rejection	 	 	574786
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DES	Desoto			15	15	No for Rejection	 	 	5449
@@ -2973,7 +2973,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CHA	Charlotte			68	68	Yes for Approval	 	 	81910
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CIT	Citrus			31	31	Yes for Approval	 	 	63219
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLA	Clay			47	42	Yes for Approval	 	 	82812
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLL	Collier			60	60	Yes for Approval	 	 	154355
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLL	Collier			60	60	Yes for Approval	 	 	155622
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLM	Columbia			22	22	Yes for Approval	 	 	22259
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DAD	Miami-Dade			860	851	Yes for Approval	 	 	772737
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DES	Desoto			15	15	Yes for Approval	 	 	8155
@@ -3040,7 +3040,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CHA	Charlotte			68	68	No for Rejection	 	 	25798
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CIT	Citrus			31	31	No for Rejection	 	 	22733
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLA	Clay			47	42	No for Rejection	 	 	27531
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLL	Collier			60	60	No for Rejection	 	 	38347
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLL	Collier			60	60	No for Rejection	 	 	38704
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLM	Columbia			22	22	No for Rejection	 	 	8544
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DAD	Miami-Dade			860	851	No for Rejection	 	 	266140
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DES	Desoto			15	15	No for Rejection	 	 	3286
@@ -3107,7 +3107,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CHA	Charlotte			68	68	Yes for Approval	 	 	101111
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CIT	Citrus			31	31	Yes for Approval	 	 	79598
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLA	Clay			47	42	Yes for Approval	 	 	105502
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLL	Collier			60	60	Yes for Approval	 	 	180356
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLL	Collier			60	60	Yes for Approval	 	 	181897
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLM	Columbia			22	22	Yes for Approval	 	 	28239
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DAD	Miami-Dade			860	851	Yes for Approval	 	 	952642
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DES	Desoto			15	15	Yes for Approval	 	 	10353
@@ -3174,7 +3174,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CHA	Charlotte			68	68	No for Rejection	 	 	9299
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CIT	Citrus			31	31	No for Rejection	 	 	9375
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLA	Clay			47	42	No for Rejection	 	 	11519
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLL	Collier			60	60	No for Rejection	 	 	14864
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLL	Collier			60	60	No for Rejection	 	 	14980
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLM	Columbia			22	22	No for Rejection	 	 	3119
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DAD	Miami-Dade			860	851	No for Rejection	 	 	106928
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DES	Desoto			15	15	No for Rejection	 	 	1233
