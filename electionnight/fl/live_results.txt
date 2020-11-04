@@ -14,7 +14,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Pence	Trump	 / 	532409
 11/03/2020	REP	Republican Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Pence	Trump	 / 	8292
 11/03/2020	REP	Republican Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Pence	Trump	 / 	6757
-11/03/2020	REP	Republican Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Pence	Trump	 / 	233301
+11/03/2020	REP	Republican Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Pence	Trump	 / 	233316
 11/03/2020	REP	Republican Party	PRE	President of the United States	ESC	Escambia	   	 	80	80	Pence	Trump	 / 	96573
 11/03/2020	REP	Republican Party	PRE	President of the United States	FLA	Flagler	   	 	26	26	Pence	Trump	 / 	42991
 11/03/2020	REP	Republican Party	PRE	President of the United States	FRA	Franklin	   	 	8	8	Pence	Trump	 / 	4675
@@ -81,7 +81,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Harris	Biden	 / 	617201
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Harris	Biden	 / 	4249
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Harris	Biden	 / 	1364
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Harris	Biden	 / 	251927
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Harris	Biden	 / 	251952
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	ESC	Escambia	   	 	80	80	Harris	Biden	 / 	70824
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	FLA	Flagler	   	 	26	26	Harris	Biden	 / 	28124
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	FRA	Franklin	   	 	8	8	Harris	Biden	 / 	2118
@@ -935,10 +935,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 3	MRN	Marion	003	 	51	51	Christensen	Adam		27114
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 3	PUT	Putnam	003	 	35	35	Christensen	Adam		10820
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 3	UNI	Union	003	 	8	8	Christensen	Adam		1150
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 4	DUV	Duval	004	 	124	124	Rutherford	John	H.	169540
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 4	DUV	Duval	004	 	124	124	Rutherford	John	H.	169551
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 4	NAS	Nassau	004	 	15	15	Rutherford	John	H.	41992
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 4	STJ	St. Johns	004	 	44	44	Rutherford	John	H.	96549
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 4	DUV	Duval	004	 	124	124	Deegan	Donna		125199
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 4	DUV	Duval	004	 	124	124	Deegan	Donna		125206
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 4	NAS	Nassau	004	 	15	15	Deegan	Donna		16201
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 4	STJ	St. Johns	004	 	44	44	Deegan	Donna		54672
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 4	DUV	Duval	004	 	124	124	Koniz	Gary	L.	0
@@ -946,7 +946,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 4	STJ	St. Johns	004	 	44	44	Koniz	Gary	L.	0
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	BAK	Baker	005	 	9	9	Adler	Gary		11329
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	CLM	Columbia	005	 	9	9	Adler	Gary		1757
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	DUV	Duval	005	 	105	105	Adler	Gary		63068
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	DUV	Duval	005	 	105	105	Adler	Gary		63074
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	GAD	Gadsden	005	 	25	25	Adler	Gary		6872
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	HAM	Hamilton	005	 	8	8	Adler	Gary		3576
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	JEF	Jefferson	005	 	16	16	Adler	Gary		3836
@@ -954,7 +954,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	MAD	Madison	005	 	11	11	Adler	Gary		5258
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	BAK	Baker	005	 	9	9	Lawson	Al		2476
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	CLM	Columbia	005	 	9	9	Lawson	Al		2029
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	DUV	Duval	005	 	105	105	Lawson	Al		127027
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	DUV	Duval	005	 	105	105	Lawson	Al		127045
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	GAD	Gadsden	005	 	25	25	Lawson	Al		16770
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	HAM	Hamilton	005	 	8	8	Lawson	Al		2128
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	JEF	Jefferson	005	 	16	16	Lawson	Al		3796
@@ -1314,16 +1314,16 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	CLM	Columbia	010	 	22	22	Aboujaoude	Rock		7673
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	HAM	Hamilton	010	 	8	8	Aboujaoude	Rock		1768
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	SUW	Suwannee	010	 	16	16	Aboujaoude	Rock		3884
-11/03/2020	REP	Republican Party	STR	State Representative, District 11	DUV	Duval	011	 	24	24	Byrd	Cord		34131
+11/03/2020	REP	Republican Party	STR	State Representative, District 11	DUV	Duval	011	 	24	24	Byrd	Cord		34133
 11/03/2020	REP	Republican Party	STR	State Representative, District 11	NAS	Nassau	011	 	15	15	Byrd	Cord		42174
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 11	DUV	Duval	011	 	24	24	Hicks	Joshua		20543
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 11	DUV	Duval	011	 	24	24	Hicks	Joshua		20544
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 11	NAS	Nassau	011	 	15	15	Hicks	Joshua		15090
-11/03/2020	REP	Republican Party	STR	State Representative, District 12	DUV	Duval	012	 	29	29	Yarborough	Clay		51602
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 12	DUV	Duval	012	 	29	29	Blimie	Emmanuel		34305
-11/03/2020	REP	Republican Party	STR	State Representative, District 15	DUV	Duval	015	 	39	39	Duggan	Wyman		45302
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 15	DUV	Duval	015	 	39	39	Thomas	Tammyette		38899
-11/03/2020	REP	Republican Party	STR	State Representative, District 16	DUV	Duval	016	 	38	38	Fischer	Jason		59467
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 16	DUV	Duval	016	 	38	38	Marcus	Ben		43814
+11/03/2020	REP	Republican Party	STR	State Representative, District 12	DUV	Duval	012	 	29	29	Yarborough	Clay		51603
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 12	DUV	Duval	012	 	29	29	Blimie	Emmanuel		34310
+11/03/2020	REP	Republican Party	STR	State Representative, District 15	DUV	Duval	015	 	39	39	Duggan	Wyman		45303
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 15	DUV	Duval	015	 	39	39	Thomas	Tammyette		38902
+11/03/2020	REP	Republican Party	STR	State Representative, District 16	DUV	Duval	016	 	38	38	Fischer	Jason		59473
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 16	DUV	Duval	016	 	38	38	Marcus	Ben		43815
 11/03/2020	REP	Republican Party	STR	State Representative, District 17	STJ	St. Johns	017	 	42	42	Stevenson	Cyndi		97885
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 17	STJ	St. Johns	017	 	42	42	Rogers	Dave		46665
 11/03/2020	REP	Republican Party	STR	State Representative, District 18	CLA	Clay	018	 	33	33	Garrison	Sam		64729
@@ -1586,7 +1586,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DAD	Miami-Dade	   	1	860	860	Yes	Carlos	G.	670510
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DES	Desoto	   	1	15	15	Yes	Carlos	G.	8051
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DIX	Dixie	   	1	10	10	Yes	Carlos	G.	4524
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DUV	Duval	   	1	199	199	Yes	Carlos	G.	262526
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DUV	Duval	   	1	199	199	Yes	Carlos	G.	262548
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	ESC	Escambia	   	1	80	80	Yes	Carlos	G.	99403
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	FLA	Flagler	   	1	25	25	Yes	Carlos	G.	41889
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	FRA	Franklin	   	1	8	8	Yes	Carlos	G.	3771
@@ -1653,7 +1653,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DAD	Miami-Dade	   	1	860	860	No	Carlos	G.	338937
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DES	Desoto	   	1	15	15	No	Carlos	G.	3201
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DIX	Dixie	   	1	10	10	No	Carlos	G.	2578
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DUV	Duval	   	1	199	199	No	Carlos	G.	172705
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DUV	Duval	   	1	199	199	No	Carlos	G.	172720
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	ESC	Escambia	   	1	80	80	No	Carlos	G.	50634
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	FLA	Flagler	   	1	25	25	No	Carlos	G.	17310
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	FRA	Franklin	   	1	8	8	No	Carlos	G.	1994
@@ -1713,7 +1713,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	CLA	Clay	001	1	47	47	Yes	Joseph		79143
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	CLM	Columbia	001	1	22	22	Yes	Joseph		19758
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DIX	Dixie	001	1	10	10	Yes	Joseph		4579
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DUV	Duval	001	1	199	199	Yes	Joseph		297823
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DUV	Duval	001	1	199	199	Yes	Joseph		297848
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	ESC	Escambia	001	1	80	80	Yes	Joseph		106901
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	FRA	Franklin	001	1	8	8	Yes	Joseph		3988
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	GAD	Gadsden	001	1	25	25	Yes	Joseph		16207
@@ -1745,7 +1745,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	CLA	Clay	001	1	47	47	No	Joseph		29846
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	CLM	Columbia	001	1	22	22	No	Joseph		9134
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DIX	Dixie	001	1	10	10	No	Joseph		2513
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DUV	Duval	001	1	199	199	No	Joseph		134532
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DUV	Duval	001	1	199	199	No	Joseph		134545
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	ESC	Escambia	001	1	80	80	No	Joseph		43215
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	FRA	Franklin	001	1	8	8	No	Joseph		1742
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	GAD	Gadsden	001	1	25	25	No	Joseph		5895
@@ -1777,7 +1777,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	CLA	Clay	001	2	47	47	Yes	Scott		76965
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	CLM	Columbia	001	2	22	22	Yes	Scott		19452
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DIX	Dixie	001	2	10	10	Yes	Scott		4637
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DUV	Duval	001	2	199	199	Yes	Scott		268899
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DUV	Duval	001	2	199	199	Yes	Scott		268922
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	ESC	Escambia	001	2	80	80	Yes	Scott		101812
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	FRA	Franklin	001	2	8	8	Yes	Scott		3787
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	GAD	Gadsden	001	2	25	25	Yes	Scott		14171
@@ -1809,7 +1809,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	CLA	Clay	001	2	47	47	No	Scott		31479
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	CLM	Columbia	001	2	22	22	No	Scott		8966
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DIX	Dixie	001	2	10	10	No	Scott		2429
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DUV	Duval	001	2	199	199	No	Scott		159998
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DUV	Duval	001	2	199	199	No	Scott		160013
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	ESC	Escambia	001	2	80	80	No	Scott		47448
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	FRA	Franklin	001	2	8	8	No	Scott		1872
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	GAD	Gadsden	001	2	25	25	No	Scott		7640
@@ -1841,7 +1841,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	CLA	Clay	001	3	47	47	Yes	Rachel		77658
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	CLM	Columbia	001	3	22	22	Yes	Rachel		19760
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DIX	Dixie	001	3	10	10	Yes	Rachel		4667
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DUV	Duval	001	3	199	199	Yes	Rachel		274279
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DUV	Duval	001	3	199	199	Yes	Rachel		274305
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	ESC	Escambia	001	3	80	80	Yes	Rachel		103815
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	FRA	Franklin	001	3	8	8	Yes	Rachel		3764
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	GAD	Gadsden	001	3	25	25	Yes	Rachel		14482
@@ -1873,7 +1873,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	CLA	Clay	001	3	47	47	No	Rachel		30678
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	CLM	Columbia	001	3	22	22	No	Rachel		8823
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DIX	Dixie	001	3	10	10	No	Rachel		2387
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DUV	Duval	001	3	199	199	No	Rachel		154274
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DUV	Duval	001	3	199	199	No	Rachel		154285
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	ESC	Escambia	001	3	80	80	No	Rachel		45565
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	FRA	Franklin	001	3	8	8	No	Rachel		1900
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	GAD	Gadsden	001	3	25	25	No	Rachel		7262
@@ -1905,7 +1905,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	CLA	Clay	001	4	47	47	Yes	Tim		75019
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	CLM	Columbia	001	4	22	22	Yes	Tim		19142
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DIX	Dixie	001	4	10	10	Yes	Tim		4506
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DUV	Duval	001	4	199	199	Yes	Tim		259722
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DUV	Duval	001	4	199	199	Yes	Tim		259742
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	ESC	Escambia	001	4	80	80	Yes	Tim		100020
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	FRA	Franklin	001	4	8	8	Yes	Tim		3670
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	GAD	Gadsden	001	4	25	25	Yes	Tim		13871
@@ -1937,7 +1937,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	CLA	Clay	001	4	47	47	No	Tim		33015
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	CLM	Columbia	001	4	22	22	No	Tim		9350
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DIX	Dixie	001	4	10	10	No	Tim		2530
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DUV	Duval	001	4	199	199	No	Tim		167775
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DUV	Duval	001	4	199	199	No	Tim		167793
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	ESC	Escambia	001	4	80	80	No	Tim		49049
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	FRA	Franklin	001	4	8	8	No	Tim		1984
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	GAD	Gadsden	001	4	25	25	No	Tim		7851
@@ -1969,7 +1969,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	CLA	Clay	001	5	47	47	Yes	Clay		76109
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	CLM	Columbia	001	5	22	22	Yes	Clay		19746
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DIX	Dixie	001	5	10	10	Yes	Clay		4664
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DUV	Duval	001	5	199	199	Yes	Clay		271852
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DUV	Duval	001	5	199	199	Yes	Clay		271873
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	ESC	Escambia	001	5	80	80	Yes	Clay		102945
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	FRA	Franklin	001	5	8	8	Yes	Clay		3805
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	GAD	Gadsden	001	5	25	25	Yes	Clay		15058
@@ -2001,7 +2001,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	CLA	Clay	001	5	47	47	No	Clay		32078
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	CLM	Columbia	001	5	22	22	No	Clay		8924
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DIX	Dixie	001	5	10	10	No	Clay		2412
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DUV	Duval	001	5	199	199	No	Clay		156383
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DUV	Duval	001	5	199	199	No	Clay		156400
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	ESC	Escambia	001	5	80	80	No	Clay		45868
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	FRA	Franklin	001	5	8	8	No	Clay		1852
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	GAD	Gadsden	001	5	25	25	No	Clay		6706
@@ -2033,7 +2033,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	CLA	Clay	001	6	47	47	Yes	Adam	S.	76198
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	CLM	Columbia	001	6	22	22	Yes	Adam	S.	19572
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DIX	Dixie	001	6	10	10	Yes	Adam	S.	4615
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DUV	Duval	001	6	199	199	Yes	Adam	S.	263584
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DUV	Duval	001	6	199	199	Yes	Adam	S.	263604
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	ESC	Escambia	001	6	80	80	Yes	Adam	S.	100001
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	FRA	Franklin	001	6	8	8	Yes	Adam	S.	3737
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	GAD	Gadsden	001	6	25	25	Yes	Adam	S.	14171
@@ -2065,7 +2065,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	CLA	Clay	001	6	47	47	No	Adam	S.	31886
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	CLM	Columbia	001	6	22	22	No	Adam	S.	8997
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DIX	Dixie	001	6	10	10	No	Adam	S.	2363
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DUV	Duval	001	6	199	199	No	Adam	S.	164941
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DUV	Duval	001	6	199	199	No	Adam	S.	164957
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	ESC	Escambia	001	6	80	80	No	Adam	S.	48412
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	FRA	Franklin	001	6	8	8	No	Adam	S.	1935
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	GAD	Gadsden	001	6	25	25	No	Adam	S.	7623
@@ -2442,7 +2442,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DAD	Miami-Dade			860	860	Yes for Approval	 	 	819374
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DES	Desoto			15	15	Yes for Approval	 	 	10668
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DIX	Dixie			10	10	Yes for Approval	 	 	7066
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DUV	Duval			199	199	Yes for Approval	 	 	382621
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DUV	Duval			199	199	Yes for Approval	 	 	382658
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	ESC	Escambia			80	80	Yes for Approval	 	 	136414
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	FLA	Flagler			25	25	Yes for Approval	 	 	53475
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	FRA	Franklin			8	8	Yes for Approval	 	 	5396
@@ -2509,7 +2509,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DAD	Miami-Dade			860	860	No for Rejection	 	 	242417
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DES	Desoto			15	15	No for Rejection	 	 	1525
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DIX	Dixie			10	10	No for Rejection	 	 	709
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DUV	Duval			199	199	No for Rejection	 	 	93439
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DUV	Duval			199	199	No for Rejection	 	 	93446
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	ESC	Escambia			80	80	No for Rejection	 	 	25069
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	FLA	Flagler			25	25	No for Rejection	 	 	12992
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	FRA	Franklin			8	8	No for Rejection	 	 	1165
@@ -2576,7 +2576,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DAD	Miami-Dade			860	860	Yes for Approval	 	 	751866
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DES	Desoto			15	15	Yes for Approval	 	 	5635
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DIX	Dixie			10	10	Yes for Approval	 	 	2970
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DUV	Duval			199	199	Yes for Approval	 	 	279128
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DUV	Duval			199	199	Yes for Approval	 	 	279159
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	ESC	Escambia			80	80	Yes for Approval	 	 	90724
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	FLA	Flagler			25	25	Yes for Approval	 	 	39315
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	FRA	Franklin			8	8	Yes for Approval	 	 	3172
@@ -2643,7 +2643,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DAD	Miami-Dade			860	860	No for Rejection	 	 	313922
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DES	Desoto			15	15	No for Rejection	 	 	6603
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DIX	Dixie			10	10	No for Rejection	 	 	4883
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DUV	Duval			199	199	No for Rejection	 	 	201094
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DUV	Duval			199	199	No for Rejection	 	 	201105
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	ESC	Escambia			80	80	No for Rejection	 	 	70729
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	FLA	Flagler			25	25	No for Rejection	 	 	27818
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	FRA	Franklin			8	8	No for Rejection	 	 	3434
@@ -2710,7 +2710,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DAD	Miami-Dade			860	860	Yes for Approval	 	 	605658
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DES	Desoto			15	15	Yes for Approval	 	 	6829
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DIX	Dixie			10	10	Yes for Approval	 	 	3749
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DUV	Duval			199	199	Yes for Approval	 	 	275131
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DUV	Duval			199	199	Yes for Approval	 	 	275160
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ESC	Escambia			80	80	Yes for Approval	 	 	100730
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	FLA	Flagler			25	25	Yes for Approval	 	 	34426
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	FRA	Franklin			8	8	Yes for Approval	 	 	3520
@@ -2777,7 +2777,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DAD	Miami-Dade			860	860	No for Rejection	 	 	433811
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DES	Desoto			15	15	No for Rejection	 	 	4839
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DIX	Dixie			10	10	No for Rejection	 	 	3688
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DUV	Duval			199	199	No for Rejection	 	 	195539
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DUV	Duval			199	199	No for Rejection	 	 	195552
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ESC	Escambia			80	80	No for Rejection	 	 	57984
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	FLA	Flagler			25	25	No for Rejection	 	 	30549
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	FRA	Franklin			8	8	No for Rejection	 	 	2860
@@ -2844,7 +2844,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DAD	Miami-Dade			860	860	Yes for Approval	 	 	472580
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DES	Desoto			15	15	Yes for Approval	 	 	6009
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DIX	Dixie			10	10	Yes for Approval	 	 	3777
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DUV	Duval			199	199	Yes for Approval	 	 	221144
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DUV	Duval			199	199	Yes for Approval	 	 	221168
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	ESC	Escambia			80	80	Yes for Approval	 	 	85369
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	FLA	Flagler			25	25	Yes for Approval	 	 	29424
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	FRA	Franklin			8	8	Yes for Approval	 	 	2833
@@ -2911,7 +2911,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DAD	Miami-Dade			860	860	No for Rejection	 	 	577903
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DES	Desoto			15	15	No for Rejection	 	 	5449
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DIX	Dixie			10	10	No for Rejection	 	 	3577
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DUV	Duval			199	199	No for Rejection	 	 	236657
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DUV	Duval			199	199	No for Rejection	 	 	236673
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	ESC	Escambia			80	80	No for Rejection	 	 	75080
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	FLA	Flagler			25	25	No for Rejection	 	 	35168
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	FRA	Franklin			8	8	No for Rejection	 	 	3391
@@ -2978,7 +2978,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DAD	Miami-Dade			860	860	Yes for Approval	 	 	777267
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DES	Desoto			15	15	Yes for Approval	 	 	8155
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DIX	Dixie			10	10	Yes for Approval	 	 	5139
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DUV	Duval			199	199	Yes for Approval	 	 	332448
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DUV	Duval			199	199	Yes for Approval	 	 	332475
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ESC	Escambia			80	80	Yes for Approval	 	 	115404
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	FLA	Flagler			25	25	Yes for Approval	 	 	48258
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	FRA	Franklin			8	8	Yes for Approval	 	 	4440
@@ -3045,7 +3045,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DAD	Miami-Dade			860	860	No for Rejection	 	 	267495
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DES	Desoto			15	15	No for Rejection	 	 	3286
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DIX	Dixie			10	10	No for Rejection	 	 	2293
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DUV	Duval			199	199	No for Rejection	 	 	122054
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DUV	Duval			199	199	No for Rejection	 	 	122065
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ESC	Escambia			80	80	No for Rejection	 	 	41188
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	FLA	Flagler			25	25	No for Rejection	 	 	15867
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	FRA	Franklin			8	8	No for Rejection	 	 	1864
@@ -3112,7 +3112,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DAD	Miami-Dade			860	860	Yes for Approval	 	 	958072
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DES	Desoto			15	15	Yes for Approval	 	 	10353
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DIX	Dixie			10	10	Yes for Approval	 	 	6737
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DUV	Duval			199	199	Yes for Approval	 	 	416326
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DUV	Duval			199	199	Yes for Approval	 	 	416360
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	ESC	Escambia			80	80	Yes for Approval	 	 	143203
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	FLA	Flagler			25	25	Yes for Approval	 	 	60432
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	FRA	Franklin			8	8	Yes for Approval	 	 	5766
@@ -3179,7 +3179,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DAD	Miami-Dade			860	860	No for Rejection	 	 	107488
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DES	Desoto			15	15	No for Rejection	 	 	1233
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DIX	Dixie			10	10	No for Rejection	 	 	852
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DUV	Duval			199	199	No for Rejection	 	 	48060
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DUV	Duval			199	199	No for Rejection	 	 	48065
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	ESC	Escambia			80	80	No for Rejection	 	 	17568
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	FLA	Flagler			25	25	No for Rejection	 	 	5293
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	FRA	Franklin			8	8	No for Rejection	 	 	682
