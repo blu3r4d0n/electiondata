@@ -65,7 +65,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	VOL	Volusia	   	 	125	125	Pence	Trump	 / 	173544
 11/03/2020	REP	Republican Party	PRE	President of the United States	WAK	Wakulla	   	 	12	12	Pence	Trump	 / 	12868
 11/03/2020	REP	Republican Party	PRE	President of the United States	WAL	Walton	   	 	21	21	Pence	Trump	 / 	32924
-11/03/2020	REP	Republican Party	PRE	President of the United States	WAS	Washington	   	 	12	12	Pence	Trump	 / 	9869
+11/03/2020	REP	Republican Party	PRE	President of the United States	WAS	Washington	   	 	12	12	Pence	Trump	 / 	9870
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	ALA	Alachua	   	 	63	63	Harris	Biden	 / 	89527
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	BAK	Baker	   	 	9	9	Harris	Biden	 / 	2037
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	BAY	Bay	   	 	44	44	Harris	Biden	 / 	25538
@@ -903,7 +903,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	SUW	Suwannee	002	 	16	16	Dunn	Neal		17947
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	TAY	Taylor	002	 	14	14	Dunn	Neal		8512
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	WAK	Wakulla	002	 	12	12	Dunn	Neal		14506
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	WAS	Washington	002	 	12	12	Dunn	Neal		10611
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	WAS	Washington	002	 	12	12	Dunn	Neal		10612
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	BAY	Bay	002	 	44	44	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	CAL	Calhoun	002	 	11	11	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	CLM	Columbia	002	 	19	19	O'Connor	Kim		0
@@ -1704,7 +1704,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	VOL	Volusia	   	1	125	125	No	Carlos	G.	79388
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	WAK	Wakulla	   	1	12	12	No	Carlos	G.	5179
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	WAL	Walton	   	1	21	21	No	Carlos	G.	11148
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	WAS	Washington	   	1	12	12	No	Carlos	G.	3557
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	WAS	Washington	   	1	12	12	No	Carlos	G.	3558
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	ALA	Alachua	001	1	63	63	Yes	Joseph		84891
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	BAK	Baker	001	1	9	9	Yes	Joseph		8239
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	BAY	Bay	001	1	44	44	Yes	Joseph		57568
@@ -1768,7 +1768,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	UNI	Union	001	1	8	8	No	Joseph		1935
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	WAK	Wakulla	001	1	12	12	No	Joseph		4509
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	WAL	Walton	001	1	21	21	No	Joseph		10056
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	WAS	Washington	001	1	12	12	No	Joseph		3414
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	WAS	Washington	001	1	12	12	No	Joseph		3415
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	ALA	Alachua	001	2	63	63	Yes	Scott		73794
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	BAK	Baker	001	2	9	9	Yes	Scott		8355
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	BAY	Bay	001	2	44	44	Yes	Scott		56502
@@ -1832,7 +1832,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	UNI	Union	001	2	8	8	No	Scott		1881
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	WAK	Wakulla	001	2	12	12	No	Scott		4897
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	WAL	Walton	001	2	21	21	No	Scott		9996
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	WAS	Washington	001	2	12	12	No	Scott		3401
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	WAS	Washington	001	2	12	12	No	Scott		3402
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	ALA	Alachua	001	3	63	63	Yes	Rachel		70006
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	BAK	Baker	001	3	9	9	Yes	Rachel		8407
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	BAY	Bay	001	3	44	44	Yes	Rachel		57146
@@ -1896,7 +1896,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	UNI	Union	001	3	8	8	No	Rachel		1874
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	WAK	Wakulla	001	3	12	12	No	Rachel		4842
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	WAL	Walton	001	3	21	21	No	Rachel		9706
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	WAS	Washington	001	3	12	12	No	Rachel		3301
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	WAS	Washington	001	3	12	12	No	Rachel		3302
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	ALA	Alachua	001	4	63	63	Yes	Tim		67836
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	BAK	Baker	001	4	9	9	Yes	Tim		8227
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	BAY	Bay	001	4	44	44	Yes	Tim		55293
@@ -1960,7 +1960,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	UNI	Union	001	4	8	8	No	Tim		1938
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	WAK	Wakulla	001	4	12	12	No	Tim		5137
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	WAL	Walton	001	4	21	21	No	Tim		10579
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	WAS	Washington	001	4	12	12	No	Tim		3481
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	WAS	Washington	001	4	12	12	No	Tim		3482
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	ALA	Alachua	001	5	63	63	Yes	Clay		72797
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	BAK	Baker	001	5	9	9	Yes	Clay		8163
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	BAY	Bay	001	5	44	44	Yes	Clay		55731
@@ -2024,7 +2024,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	UNI	Union	001	5	8	8	No	Clay		1892
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	WAK	Wakulla	001	5	12	12	No	Clay		4762
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	WAL	Walton	001	5	21	21	No	Clay		10314
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	WAS	Washington	001	5	12	12	No	Clay		3390
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	WAS	Washington	001	5	12	12	No	Clay		3391
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	ALA	Alachua	001	6	63	63	Yes	Adam	S.	68059
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	BAK	Baker	001	6	9	9	Yes	Adam	S.	8403
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	BAY	Bay	001	6	44	44	Yes	Adam	S.	56495
@@ -2088,7 +2088,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	UNI	Union	001	6	8	8	No	Adam	S.	1881
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	WAK	Wakulla	001	6	12	12	No	Adam	S.	4958
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	WAL	Walton	001	6	21	21	No	Adam	S.	10130
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	WAS	Washington	001	6	12	12	No	Adam	S.	3393
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	WAS	Washington	001	6	12	12	No	Adam	S.	3394
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	CHA	Charlotte	002	1	68	68	Yes	Drew		73020
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	CLL	Collier	002	1	60	60	Yes	Drew		135939
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	DES	Desoto	002	1	15	15	Yes	Drew		8107
@@ -2493,7 +2493,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	VOL	Volusia			125	125	Yes for Approval	 	 	234783
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	WAK	Wakulla			12	12	Yes for Approval	 	 	14859
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	WAL	Walton			21	21	Yes for Approval	 	 	37537
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	WAS	Washington			12	12	Yes for Approval	 	 	10596
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	WAS	Washington			12	12	Yes for Approval	 	 	10597
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	ALA	Alachua			63	63	No for Rejection	 	 	49373
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	BAK	Baker			9	9	No for Rejection	 	 	1244
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	BAY	Bay			44	44	No for Rejection	 	 	11069
@@ -2694,7 +2694,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	VOL	Volusia			125	125	No for Rejection	 	 	126781
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	WAK	Wakulla			12	12	No for Rejection	 	 	10802
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	WAL	Walton			21	21	No for Rejection	 	 	23296
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	WAS	Washington			12	12	No for Rejection	 	 	7338
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	WAS	Washington			12	12	No for Rejection	 	 	7339
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ALA	Alachua			63	63	Yes for Approval	 	 	69067
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	BAK	Baker			9	9	Yes for Approval	 	 	6407
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	BAY	Bay			44	44	Yes for Approval	 	 	50629
@@ -2761,7 +2761,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	VOL	Volusia			125	125	Yes for Approval	 	 	144036
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	WAK	Wakulla			12	12	Yes for Approval	 	 	9206
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	WAL	Walton			21	21	Yes for Approval	 	 	23513
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	WAS	Washington			12	12	Yes for Approval	 	 	6269
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	WAS	Washington			12	12	Yes for Approval	 	 	6270
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ALA	Alachua			63	63	No for Rejection	 	 	67796
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	BAK	Baker			9	9	No for Rejection	 	 	6859
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	BAY	Bay			44	44	No for Rejection	 	 	37453
@@ -2962,7 +2962,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	VOL	Volusia			125	125	No for Rejection	 	 	140283
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	WAK	Wakulla			12	12	No for Rejection	 	 	8821
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	WAL	Walton			21	21	No for Rejection	 	 	19035
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	WAS	Washington			12	12	No for Rejection	 	 	4701
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	WAS	Washington			12	12	No for Rejection	 	 	4702
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ALA	Alachua			63	63	Yes for Approval	 	 	93646
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	BAK	Baker			9	9	Yes for Approval	 	 	9384
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	BAY	Bay			44	44	Yes for Approval	 	 	65001
@@ -3029,7 +3029,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	VOL	Volusia			125	125	Yes for Approval	 	 	193690
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	WAK	Wakulla			12	12	Yes for Approval	 	 	11874
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	WAL	Walton			21	21	Yes for Approval	 	 	29914
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	WAS	Washington			12	12	Yes for Approval	 	 	8298
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	WAS	Washington			12	12	Yes for Approval	 	 	8299
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ALA	Alachua			63	63	No for Rejection	 	 	39010
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	BAK	Baker			9	9	No for Rejection	 	 	3793
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	BAY	Bay			44	44	No for Rejection	 	 	21697
@@ -3163,7 +3163,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	VOL	Volusia			125	125	Yes for Approval	 	 	239142
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	WAK	Wakulla			12	12	Yes for Approval	 	 	15306
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	WAL	Walton			21	21	Yes for Approval	 	 	37571
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	WAS	Washington			12	12	Yes for Approval	 	 	10505
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	WAS	Washington			12	12	Yes for Approval	 	 	10506
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	ALA	Alachua			63	63	No for Rejection	 	 	21986
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	BAK	Baker			9	9	No for Rejection	 	 	1448
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	BAY	Bay			44	44	No for Rejection	 	 	8385
