@@ -10,7 +10,7 @@ results = pd.DataFrame()
 
 results["county"] = df["County Name"].str.title()
 
-results["ballotscast_2020"] = df["Ballots Counted"]
+results["ballotscast_2020"] = df['Biden'] + df['Boddie'] + df['Carroll'] + df['Hawkins'] + df['Hoefling'] + df['Hunter'] + df['Jorgensen'] + df['Simmons'] + df['Trump'] + df['Wells']
 
 results["registered_2020"] = df["Registered Voters"]
 
