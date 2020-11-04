@@ -4,7 +4,7 @@ unzip -o ../electionnight/ga/detailxls.zip -d ../electionnight/ga/
 mv ../electionnight/ga/detail.xls ../electionnight/ga/live_results.xls
 rm ../electionnight/ga/detailxls.zip 
 
-libreoffice --headless --convert-to xlsx ../electionnight/mi/live_results.xls --outdir ../electionnight/ga/ 
+libreoffice --headless --convert-to xlsx ../electionnight/ga/live_results.xls --outdir ../electionnight/ga/ 
 newfile='../electionnight/ga/live_results.xlsx'
 oldfile='../electionnight/ga/olddata.xlsx'
 cmp --silent $newfile $oldfile || changed=true
