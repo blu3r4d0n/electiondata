@@ -57,7 +57,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Pence	Trump	 / 	147127
 11/03/2020	REP	Republican Party	PRE	President of the United States	SEM	Seminole	   	 	91	91	Pence	Trump	 / 	125035
 11/03/2020	REP	Republican Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Pence	Trump	 / 	110886
-11/03/2020	REP	Republican Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Pence	Trump	 / 	86697
+11/03/2020	REP	Republican Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Pence	Trump	 / 	86710
 11/03/2020	REP	Republican Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Pence	Trump	 / 	62753
 11/03/2020	REP	Republican Party	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Pence	Trump	 / 	16387
 11/03/2020	REP	Republican Party	PRE	President of the United States	TAY	Taylor	   	 	14	14	Pence	Trump	 / 	7725
@@ -124,7 +124,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Harris	Biden	 / 	118858
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SEM	Seminole	   	 	91	91	Harris	Biden	 / 	132213
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Harris	Biden	 / 	63808
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Harris	Biden	 / 	83910
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Harris	Biden	 / 	83943
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Harris	Biden	 / 	29326
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Harris	Biden	 / 	4480
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	TAY	Taylor	   	 	14	14	Harris	Biden	 / 	2288
@@ -1062,13 +1062,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 17	SAR	Sarasota	017	 	51	51	Murray	Theodore	"Pink Tie"	1274
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 18	MRT	Martin	018	 	28	28	Mast	Brian		64838
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 18	PAL	Palm Beach	018	 	254	241	Mast	Brian		97450
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 18	STL	St. Lucie	018	 	64	64	Mast	Brian		88543
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 18	STL	St. Lucie	018	 	64	64	Mast	Brian		88560
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 18	MRT	Martin	018	 	28	28	Keith	Pam		31189
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 18	PAL	Palm Beach	018	 	254	241	Keith	Pam		75678
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 18	STL	St. Lucie	018	 	64	64	Keith	Pam		78010
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 18	STL	St. Lucie	018	 	64	64	Keith	Pam		78047
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 18	MRT	Martin	018	 	28	28	Miller	K.	W.	1990
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 18	PAL	Palm Beach	018	 	254	241	Miller	K.	W.	3636
-11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 18	STL	St. Lucie	018	 	64	64	Miller	K.	W.	3988
+11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 18	STL	St. Lucie	018	 	64	64	Miller	K.	W.	3993
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 19	CLL	Collier	019	 	35	34	Donalds	Byron		69068
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 19	LEE	Lee	019	 	112	112	Donalds	Byron		202140
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 19	CLL	Collier	019	 	35	34	Banyai	Cindy	Lyn	36526
@@ -1242,10 +1242,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 23	SAR	Sarasota	023	 	101	101	Kaplan	Robert		5451
 11/03/2020	REP	Republican Party	STS	State Senator, District 25	MRT	Martin	025	 	28	28	Harrell	Gayle		64556
 11/03/2020	REP	Republican Party	STS	State Senator, District 25	PAL	Palm Beach	025	 	40	38	Harrell	Gayle		13149
-11/03/2020	REP	Republican Party	STS	State Senator, District 25	STL	St. Lucie	025	 	64	64	Harrell	Gayle		89432
+11/03/2020	REP	Republican Party	STS	State Senator, District 25	STL	St. Lucie	025	 	64	64	Harrell	Gayle		89455
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 25	MRT	Martin	025	 	28	28	Balderramos Robinson	Corinna		31122
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 25	PAL	Palm Beach	025	 	40	38	Balderramos Robinson	Corinna		8662
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 25	STL	St. Lucie	025	 	64	64	Balderramos Robinson	Corinna		77525
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 25	STL	St. Lucie	025	 	64	64	Balderramos Robinson	Corinna		77562
 11/03/2020	REP	Republican Party	STS	State Senator, District 27	LEE	Lee	027	 	103	103	Rodrigues	Ray		176085
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 27	LEE	Lee	027	 	103	103	Brown	Rachel		114980
 11/03/2020	REP	Republican Party	STS	State Senator, District 29	BRO	Broward	029	 	42	42	Norton	Brian		28983
@@ -1431,13 +1431,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 53	BRE	Brevard	053	 	37	37	Moore	Phil		44081
 11/03/2020	WRI	Write-in	STR	State Representative, District 53	BRE	Brevard	053	 	37	37	Unger	Thomas	Patrick	0
 11/03/2020	REP	Republican Party	STR	State Representative, District 54	IND	Indian River	054	 	35	35	Grall	Erin		62977
-11/03/2020	REP	Republican Party	STR	State Representative, District 54	STL	St. Lucie	054	 	7	7	Grall	Erin		6286
+11/03/2020	REP	Republican Party	STR	State Representative, District 54	STL	St. Lucie	054	 	7	7	Grall	Erin		6287
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 54	IND	Indian River	054	 	35	35	Griffiths	Albert	M.	31411
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 54	STL	St. Lucie	054	 	7	7	Griffiths	Albert	M.	4402
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 54	STL	St. Lucie	054	 	7	7	Griffiths	Albert	M.	4408
 11/03/2020	REP	Republican Party	STR	State Representative, District 55	GLA	Glades	055	 	13	13	Tuck	Kaylee		3748
 11/03/2020	REP	Republican Party	STR	State Representative, District 55	HIG	Highlands	055	 	25	25	Tuck	Kaylee		34638
 11/03/2020	REP	Republican Party	STR	State Representative, District 55	OKE	Okeechobee	055	 	11	11	Tuck	Kaylee		11433
-11/03/2020	REP	Republican Party	STR	State Representative, District 55	STL	St. Lucie	055	 	4	4	Tuck	Kaylee		2030
+11/03/2020	REP	Republican Party	STR	State Representative, District 55	STL	St. Lucie	055	 	4	4	Tuck	Kaylee		2031
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 55	GLA	Glades	055	 	13	13	Tripp	Linda		1353
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 55	HIG	Highlands	055	 	25	25	Tripp	Linda		16148
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 55	OKE	Okeechobee	055	 	11	11	Tripp	Linda		4129
@@ -1510,11 +1510,11 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 82	MRT	Martin	082	 	19	19	Ackerly	Elisa	Edwards	18022
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 82	PAL	Palm Beach	082	 	60	57	Ackerly	Elisa	Edwards	16764
 11/03/2020	REP	Republican Party	STR	State Representative, District 83	MRT	Martin	083	 	12	12	Overdorf	Toby		25453
-11/03/2020	REP	Republican Party	STR	State Representative, District 83	STL	St. Lucie	083	 	17	17	Overdorf	Toby		33476
+11/03/2020	REP	Republican Party	STR	State Representative, District 83	STL	St. Lucie	083	 	17	17	Overdorf	Toby		33482
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 83	MRT	Martin	083	 	12	12	Bernier	Edgar	"EJ"	13507
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 83	STL	St. Lucie	083	 	17	17	Bernier	Edgar	"EJ"	32446
-11/03/2020	REP	Republican Party	STR	State Representative, District 84	STL	St. Lucie	084	 	36	36	Trabulsy	Dana		46301
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 84	STL	St. Lucie	084	 	36	36	Hogan Johnson	Delores		41061
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 83	STL	St. Lucie	083	 	17	17	Bernier	Edgar	"EJ"	32461
+11/03/2020	REP	Republican Party	STR	State Representative, District 84	STL	St. Lucie	084	 	36	36	Trabulsy	Dana		46312
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 84	STL	St. Lucie	084	 	36	36	Hogan Johnson	Delores		41081
 11/03/2020	REP	Republican Party	STR	State Representative, District 85	PAL	Palm Beach	085	 	168	159	Roth	Rick		59600
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 85	PAL	Palm Beach	085	 	168	159	Carroll	Jim		45977
 11/03/2020	REP	Republican Party	STR	State Representative, District 86	PAL	Palm Beach	086	 	115	109	Kufdakis Rivera	Susan	M.	37260
@@ -1629,7 +1629,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAR	Sarasota	   	1	101	101	Yes	Carlos	G.	147242
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SEM	Seminole	   	1	91	91	Yes	Carlos	G.	138007
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STJ	St. Johns	   	1	48	48	Yes	Carlos	G.	109725
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STL	St. Lucie	   	1	64	64	Yes	Carlos	G.	99186
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STL	St. Lucie	   	1	64	64	Yes	Carlos	G.	99217
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUM	Sumter	   	1	26	26	Yes	Carlos	G.	60320
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUW	Suwannee	   	1	16	16	Yes	Carlos	G.	12446
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	TAY	Taylor	   	1	14	14	Yes	Carlos	G.	5902
@@ -1696,7 +1696,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAR	Sarasota	   	1	101	101	No	Carlos	G.	73347
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SEM	Seminole	   	1	91	91	No	Carlos	G.	82823
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STJ	St. Johns	   	1	48	48	No	Carlos	G.	38251
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STL	St. Lucie	   	1	64	64	No	Carlos	G.	50317
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STL	St. Lucie	   	1	64	64	No	Carlos	G.	50338
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUM	Sumter	   	1	26	26	No	Carlos	G.	17989
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUW	Suwannee	   	1	16	16	No	Carlos	G.	6353
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	TAY	Taylor	   	1	14	14	No	Carlos	G.	3129
@@ -2226,37 +2226,37 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	MRT	Martin	004	1	28	28	Yes	Alan	O.	62470
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	OKE	Okeechobee	004	1	11	11	Yes	Alan	O.	10270
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	PAL	Palm Beach	004	1	871	827	Yes	Alan	O.	400881
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	STL	St. Lucie	004	1	64	64	Yes	Alan	O.	99758
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	STL	St. Lucie	004	1	64	64	Yes	Alan	O.	99788
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	BRO	Broward	004	1	577	577	No	Alan	O.	310076
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	IND	Indian River	004	1	35	35	No	Alan	O.	22352
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	MRT	Martin	004	1	28	28	No	Alan	O.	20343
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	OKE	Okeechobee	004	1	11	11	No	Alan	O.	3818
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	PAL	Palm Beach	004	1	871	827	No	Alan	O.	225342
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	STL	St. Lucie	004	1	64	64	No	Alan	O.	48864
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	STL	St. Lucie	004	1	64	64	No	Alan	O.	48889
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	BRO	Broward	004	2	577	577	Yes	Mark	W.	488782
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	IND	Indian River	004	2	35	35	Yes	Mark	W.	56436
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	MRT	Martin	004	2	28	28	Yes	Mark	W.	61659
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	OKE	Okeechobee	004	2	11	11	Yes	Mark	W.	10113
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	PAL	Palm Beach	004	2	871	827	Yes	Mark	W.	388477
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	STL	St. Lucie	004	2	64	64	Yes	Mark	W.	98434
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	STL	St. Lucie	004	2	64	64	Yes	Mark	W.	98462
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	BRO	Broward	004	2	577	577	No	Mark	W.	316905
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	IND	Indian River	004	2	35	35	No	Mark	W.	22852
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	MRT	Martin	004	2	28	28	No	Mark	W.	20786
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	OKE	Okeechobee	004	2	11	11	No	Mark	W.	3907
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	PAL	Palm Beach	004	2	871	827	No	Mark	W.	232271
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	STL	St. Lucie	004	2	64	64	No	Mark	W.	50065
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Mark W. Klingensmith be retained in Office?	STL	St. Lucie	004	2	64	64	No	Mark	W.	50091
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	BRO	Broward	004	3	577	577	Yes	Martha	C.	613292
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	IND	Indian River	004	3	35	35	Yes	Martha	C.	61153
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	MRT	Martin	004	3	28	28	Yes	Martha	C.	64903
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	OKE	Okeechobee	004	3	11	11	Yes	Martha	C.	10277
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	PAL	Palm Beach	004	3	871	827	Yes	Martha	C.	495929
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	STL	St. Lucie	004	3	64	64	Yes	Martha	C.	104518
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	STL	St. Lucie	004	3	64	64	Yes	Martha	C.	104561
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	BRO	Broward	004	3	577	577	No	Martha	C.	193006
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	IND	Indian River	004	3	35	35	No	Martha	C.	17963
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	MRT	Martin	004	3	28	28	No	Martha	C.	17568
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	OKE	Okeechobee	004	3	11	11	No	Martha	C.	3751
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	PAL	Palm Beach	004	3	871	827	No	Martha	C.	125986
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	STL	St. Lucie	004	3	64	64	No	Martha	C.	43856
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Martha C. Warner be retained in Office?	STL	St. Lucie	004	3	64	64	No	Martha	C.	43869
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	BRE	Brevard	005	1	171	171	Yes	Kerry	I.	221856
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	CIT	Citrus	005	1	31	31	Yes	Kerry	I.	61430
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	FLA	Flagler	005	1	25	25	Yes	Kerry	I.	44110
@@ -2485,7 +2485,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAR	Sarasota			101	101	Yes for Approval	 	 	197205
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SEM	Seminole			91	91	Yes for Approval	 	 	182418
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STJ	St. Johns			48	48	Yes for Approval	 	 	136429
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STL	St. Lucie			64	64	Yes for Approval	 	 	136967
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STL	St. Lucie			64	64	Yes for Approval	 	 	137002
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUM	Sumter			26	26	Yes for Approval	 	 	76296
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUW	Suwannee			16	16	Yes for Approval	 	 	18364
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	TAY	Taylor			14	14	Yes for Approval	 	 	8549
@@ -2552,7 +2552,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAR	Sarasota			101	101	No for Rejection	 	 	58404
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SEM	Seminole			91	91	No for Rejection	 	 	60076
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STJ	St. Johns			48	48	No for Rejection	 	 	31289
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STL	St. Lucie			64	64	No for Rejection	 	 	28607
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STL	St. Lucie			64	64	No for Rejection	 	 	28629
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUM	Sumter			26	26	No for Rejection	 	 	12265
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUW	Suwannee			16	16	No for Rejection	 	 	2144
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	TAY	Taylor			14	14	No for Rejection	 	 	1123
@@ -2619,7 +2619,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAR	Sarasota			101	101	Yes for Approval	 	 	149549
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SEM	Seminole			91	91	Yes for Approval	 	 	148115
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STJ	St. Johns			48	48	Yes for Approval	 	 	84084
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STL	St. Lucie			64	64	Yes for Approval	 	 	97638
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STL	St. Lucie			64	64	Yes for Approval	 	 	97681
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUM	Sumter			26	26	Yes for Approval	 	 	50090
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUW	Suwannee			16	16	Yes for Approval	 	 	7739
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	TAY	Taylor			14	14	Yes for Approval	 	 	4281
@@ -2686,7 +2686,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAR	Sarasota			101	101	No for Rejection	 	 	106808
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SEM	Seminole			91	91	No for Rejection	 	 	97919
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STJ	St. Johns			48	48	No for Rejection	 	 	85289
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STL	St. Lucie			64	64	No for Rejection	 	 	69563
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STL	St. Lucie			64	64	No for Rejection	 	 	69580
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUM	Sumter			26	26	No for Rejection	 	 	38514
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUW	Suwannee			16	16	No for Rejection	 	 	12785
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	TAY	Taylor			14	14	No for Rejection	 	 	5457
@@ -2753,7 +2753,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAR	Sarasota			101	101	Yes for Approval	 	 	128141
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SEM	Seminole			91	91	Yes for Approval	 	 	132014
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STJ	St. Johns			48	48	Yes for Approval	 	 	84187
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STL	St. Lucie			64	64	Yes for Approval	 	 	89048
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STL	St. Lucie			64	64	Yes for Approval	 	 	89089
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUM	Sumter			26	26	Yes for Approval	 	 	44504
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUW	Suwannee			16	16	Yes for Approval	 	 	10006
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	TAY	Taylor			14	14	Yes for Approval	 	 	5252
@@ -2820,7 +2820,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAR	Sarasota			101	101	No for Rejection	 	 	122558
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SEM	Seminole			91	91	No for Rejection	 	 	108113
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STJ	St. Johns			48	48	No for Rejection	 	 	82655
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STL	St. Lucie			64	64	No for Rejection	 	 	70901
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STL	St. Lucie			64	64	No for Rejection	 	 	70917
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUM	Sumter			26	26	No for Rejection	 	 	40460
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUW	Suwannee			16	16	No for Rejection	 	 	9965
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	TAY	Taylor			14	14	No for Rejection	 	 	4304
@@ -2887,7 +2887,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAR	Sarasota			101	101	Yes for Approval	 	 	107250
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SEM	Seminole			91	91	Yes for Approval	 	 	105155
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STJ	St. Johns			48	48	Yes for Approval	 	 	82171
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STL	St. Lucie			64	64	Yes for Approval	 	 	80244
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STL	St. Lucie			64	64	Yes for Approval	 	 	80277
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUM	Sumter			26	26	Yes for Approval	 	 	42472
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUW	Suwannee			16	16	Yes for Approval	 	 	10170
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	TAY	Taylor			14	14	Yes for Approval	 	 	5295
@@ -2954,7 +2954,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAR	Sarasota			101	101	No for Rejection	 	 	139993
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SEM	Seminole			91	91	No for Rejection	 	 	134985
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STJ	St. Johns			48	48	No for Rejection	 	 	83108
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STL	St. Lucie			64	64	No for Rejection	 	 	78243
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STL	St. Lucie			64	64	No for Rejection	 	 	78267
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUM	Sumter			26	26	No for Rejection	 	 	41687
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUW	Suwannee			16	16	No for Rejection	 	 	9669
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	TAY	Taylor			14	14	No for Rejection	 	 	4138
@@ -3021,7 +3021,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAR	Sarasota			101	101	Yes for Approval	 	 	196678
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SEM	Seminole			91	91	Yes for Approval	 	 	175306
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STJ	St. Johns			48	48	Yes for Approval	 	 	118465
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STL	St. Lucie			64	64	Yes for Approval	 	 	122167
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STL	St. Lucie			64	64	Yes for Approval	 	 	122212
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUM	Sumter			26	26	Yes for Approval	 	 	60852
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUW	Suwannee			16	16	Yes for Approval	 	 	13619
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	TAY	Taylor			14	14	Yes for Approval	 	 	6711
@@ -3088,7 +3088,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAR	Sarasota			101	101	No for Rejection	 	 	51997
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SEM	Seminole			91	91	No for Rejection	 	 	60141
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STJ	St. Johns			48	48	No for Rejection	 	 	44875
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STL	St. Lucie			64	64	No for Rejection	 	 	37828
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STL	St. Lucie			64	64	No for Rejection	 	 	37841
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUM	Sumter			26	26	No for Rejection	 	 	23118
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUW	Suwannee			16	16	No for Rejection	 	 	5887
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	TAY	Taylor			14	14	No for Rejection	 	 	2502
@@ -3155,7 +3155,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAR	Sarasota			101	101	Yes for Approval	 	 	234359
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SEM	Seminole			91	91	Yes for Approval	 	 	219607
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STJ	St. Johns			48	48	Yes for Approval	 	 	150981
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STL	St. Lucie			64	64	Yes for Approval	 	 	144439
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STL	St. Lucie			64	64	Yes for Approval	 	 	144494
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUM	Sumter			26	26	Yes for Approval	 	 	76136
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUW	Suwannee			16	16	Yes for Approval	 	 	17919
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	TAY	Taylor			14	14	Yes for Approval	 	 	8629
@@ -3222,7 +3222,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAR	Sarasota			101	101	No for Rejection	 	 	19391
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SEM	Seminole			91	91	No for Rejection	 	 	23735
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STJ	St. Johns			48	48	No for Rejection	 	 	15465
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STL	St. Lucie			64	64	No for Rejection	 	 	17840
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STL	St. Lucie			64	64	No for Rejection	 	 	17843
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUM	Sumter			26	26	No for Rejection	 	 	9242
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUW	Suwannee			16	16	No for Rejection	 	 	2309
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	TAY	Taylor			14	14	No for Rejection	 	 	957
