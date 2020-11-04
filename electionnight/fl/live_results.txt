@@ -15,7 +15,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	DES	Desoto	   	 	15	0	Pence	Trump	 / 	8292
 11/03/2020	REP	Republican Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Pence	Trump	 / 	6757
 11/03/2020	REP	Republican Party	PRE	President of the United States	DUV	Duval	   	 	199	195	Pence	Trump	 / 	232221
-11/03/2020	REP	Republican Party	PRE	President of the United States	ESC	Escambia	   	 	80	78	Pence	Trump	 / 	95399
+11/03/2020	REP	Republican Party	PRE	President of the United States	ESC	Escambia	   	 	80	80	Pence	Trump	 / 	95831
 11/03/2020	REP	Republican Party	PRE	President of the United States	FLA	Flagler	   	 	26	26	Pence	Trump	 / 	42991
 11/03/2020	REP	Republican Party	PRE	President of the United States	FRA	Franklin	   	 	8	8	Pence	Trump	 / 	4675
 11/03/2020	REP	Republican Party	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Pence	Trump	 / 	7461
@@ -35,7 +35,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Pence	Trump	 / 	3126
 11/03/2020	REP	Republican Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Pence	Trump	 / 	125687
 11/03/2020	REP	Republican Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Pence	Trump	 / 	229708
-11/03/2020	REP	Republican Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Pence	Trump	 / 	56975
+11/03/2020	REP	Republican Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Pence	Trump	 / 	57187
 11/03/2020	REP	Republican Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Pence	Trump	 / 	16721
 11/03/2020	REP	Republican Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Pence	Trump	 / 	2846
 11/03/2020	REP	Republican Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Pence	Trump	 / 	5570
@@ -50,10 +50,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	OSC	Osceola	   	 	101	13	Pence	Trump	 / 	59021
 11/03/2020	REP	Republican Party	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Pence	Trump	 / 	323955
 11/03/2020	REP	Republican Party	PRE	President of the United States	PAS	Pasco	   	 	111	111	Pence	Trump	 / 	178152
-11/03/2020	REP	Republican Party	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Pence	Trump	 / 	273993
+11/03/2020	REP	Republican Party	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Pence	Trump	 / 	275043
 11/03/2020	REP	Republican Party	PRE	President of the United States	POL	Polk	   	 	167	167	Pence	Trump	 / 	189631
 11/03/2020	REP	Republican Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Pence	Trump	 / 	25496
-11/03/2020	REP	Republican Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Pence	Trump	 / 	74039
+11/03/2020	REP	Republican Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Pence	Trump	 / 	75153
 11/03/2020	REP	Republican Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Pence	Trump	 / 	147127
 11/03/2020	REP	Republican Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Pence	Trump	 / 	124605
 11/03/2020	REP	Republican Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Pence	Trump	 / 	110886
@@ -82,7 +82,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DES	Desoto	   	 	15	0	Harris	Biden	 / 	4249
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Harris	Biden	 / 	1364
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DUV	Duval	   	 	199	195	Harris	Biden	 / 	250597
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	ESC	Escambia	   	 	80	78	Harris	Biden	 / 	69962
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	ESC	Escambia	   	 	80	80	Harris	Biden	 / 	70086
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	FLA	Flagler	   	 	26	26	Harris	Biden	 / 	28124
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	FRA	Franklin	   	 	8	8	Harris	Biden	 / 	2118
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Harris	Biden	 / 	16139
@@ -102,7 +102,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Harris	Biden	 / 	507
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Harris	Biden	 / 	83273
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Harris	Biden	 / 	155011
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Harris	Biden	 / 	102692
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Harris	Biden	 / 	102829
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Harris	Biden	 / 	6189
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Harris	Biden	 / 	693
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Harris	Biden	 / 	3743
@@ -117,10 +117,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	OSC	Osceola	   	 	101	13	Harris	Biden	 / 	84883
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Harris	Biden	 / 	421041
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	PAS	Pasco	   	 	111	111	Harris	Biden	 / 	117445
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Harris	Biden	 / 	275293
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Harris	Biden	 / 	276113
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	POL	Polk	   	 	167	167	Harris	Biden	 / 	139794
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Harris	Biden	 / 	10512
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Harris	Biden	 / 	25926
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Harris	Biden	 / 	26201
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Harris	Biden	 / 	118858
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Harris	Biden	 / 	131553
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Harris	Biden	 / 	63808
@@ -149,7 +149,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DES	Desoto	   	 	15	0	Cohen	Jorgensen	 / 	52
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Cohen	Jorgensen	 / 	27
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DUV	Duval	   	 	199	195	Cohen	Jorgensen	 / 	4713
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	ESC	Escambia	   	 	80	78	Cohen	Jorgensen	 / 	2088
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	ESC	Escambia	   	 	80	80	Cohen	Jorgensen	 / 	2095
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	FLA	Flagler	   	 	26	26	Cohen	Jorgensen	 / 	358
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	FRA	Franklin	   	 	8	8	Cohen	Jorgensen	 / 	27
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Cohen	Jorgensen	 / 	96
@@ -169,7 +169,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Cohen	Jorgensen	 / 	14
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Cohen	Jorgensen	 / 	1381
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Cohen	Jorgensen	 / 	1945
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Cohen	Jorgensen	 / 	1322
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Cohen	Jorgensen	 / 	1327
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Cohen	Jorgensen	 / 	130
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Cohen	Jorgensen	 / 	14
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Cohen	Jorgensen	 / 	32
@@ -184,10 +184,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	OSC	Osceola	   	 	101	13	Cohen	Jorgensen	 / 	711
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Cohen	Jorgensen	 / 	2856
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	PAS	Pasco	   	 	111	111	Cohen	Jorgensen	 / 	2202
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Cohen	Jorgensen	 / 	4163
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Cohen	Jorgensen	 / 	4201
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	POL	Polk	   	 	167	167	Cohen	Jorgensen	 / 	2429
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Cohen	Jorgensen	 / 	223
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Cohen	Jorgensen	 / 	1431
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Cohen	Jorgensen	 / 	1486
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Cohen	Jorgensen	 / 	1460
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Cohen	Jorgensen	 / 	2189
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Cohen	Jorgensen	 / 	1412
@@ -216,7 +216,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	DES	Desoto	   	 	15	0	Richardson	De La Fuente	 / 	12
 11/03/2020	REF	Reform Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Richardson	De La Fuente	 / 	5
 11/03/2020	REF	Reform Party	PRE	President of the United States	DUV	Duval	   	 	199	195	Richardson	De La Fuente	 / 	319
-11/03/2020	REF	Reform Party	PRE	President of the United States	ESC	Escambia	   	 	80	78	Richardson	De La Fuente	 / 	102
+11/03/2020	REF	Reform Party	PRE	President of the United States	ESC	Escambia	   	 	80	80	Richardson	De La Fuente	 / 	102
 11/03/2020	REF	Reform Party	PRE	President of the United States	FLA	Flagler	   	 	26	26	Richardson	De La Fuente	 / 	30
 11/03/2020	REF	Reform Party	PRE	President of the United States	FRA	Franklin	   	 	8	8	Richardson	De La Fuente	 / 	4
 11/03/2020	REF	Reform Party	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Richardson	De La Fuente	 / 	8
@@ -236,7 +236,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Richardson	De La Fuente	 / 	1
 11/03/2020	REF	Reform Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Richardson	De La Fuente	 / 	120
 11/03/2020	REF	Reform Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Richardson	De La Fuente	 / 	179
-11/03/2020	REF	Reform Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Richardson	De La Fuente	 / 	96
+11/03/2020	REF	Reform Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Richardson	De La Fuente	 / 	97
 11/03/2020	REF	Reform Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Richardson	De La Fuente	 / 	14
 11/03/2020	REF	Reform Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Richardson	De La Fuente	 / 	2
 11/03/2020	REF	Reform Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Richardson	De La Fuente	 / 	3
@@ -251,10 +251,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	OSC	Osceola	   	 	101	13	Richardson	De La Fuente	 / 	127
 11/03/2020	REF	Reform Party	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Richardson	De La Fuente	 / 	334
 11/03/2020	REF	Reform Party	PRE	President of the United States	PAS	Pasco	   	 	111	111	Richardson	De La Fuente	 / 	193
-11/03/2020	REF	Reform Party	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Richardson	De La Fuente	 / 	296
+11/03/2020	REF	Reform Party	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Richardson	De La Fuente	 / 	301
 11/03/2020	REF	Reform Party	PRE	President of the United States	POL	Polk	   	 	167	167	Richardson	De La Fuente	 / 	193
 11/03/2020	REF	Reform Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Richardson	De La Fuente	 / 	14
-11/03/2020	REF	Reform Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Richardson	De La Fuente	 / 	56
+11/03/2020	REF	Reform Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Richardson	De La Fuente	 / 	58
 11/03/2020	REF	Reform Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Richardson	De La Fuente	 / 	101
 11/03/2020	REF	Reform Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Richardson	De La Fuente	 / 	135
 11/03/2020	REF	Reform Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Richardson	De La Fuente	 / 	101
@@ -283,7 +283,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DES	Desoto	   	 	15	0	Freeman	La Riva	 / 	11
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DIX	Dixie	   	 	10	10	Freeman	La Riva	 / 	2
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DUV	Duval	   	 	199	195	Freeman	La Riva	 / 	328
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	ESC	Escambia	   	 	80	78	Freeman	La Riva	 / 	134
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	ESC	Escambia	   	 	80	80	Freeman	La Riva	 / 	134
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	FLA	Flagler	   	 	26	26	Freeman	La Riva	 / 	29
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	FRA	Franklin	   	 	8	8	Freeman	La Riva	 / 	8
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Freeman	La Riva	 / 	10
@@ -303,7 +303,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Freeman	La Riva	 / 	1
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LAK	Lake	   	 	104	104	Freeman	La Riva	 / 	96
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LEE	Lee	   	 	127	127	Freeman	La Riva	 / 	171
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LEO	Leon	   	 	156	151	Freeman	La Riva	 / 	117
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LEO	Leon	   	 	156	156	Freeman	La Riva	 / 	118
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LEV	Levy	   	 	13	13	Freeman	La Riva	 / 	7
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LIB	Liberty	   	 	8	8	Freeman	La Riva	 / 	2
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	MAD	Madison	   	 	11	11	Freeman	La Riva	 / 	4
@@ -318,7 +318,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	OSC	Osceola	   	 	101	13	Freeman	La Riva	 / 	113
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Freeman	La Riva	 / 	310
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	PAS	Pasco	   	 	111	111	Freeman	La Riva	 / 	163
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Freeman	La Riva	 / 	305
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Freeman	La Riva	 / 	306
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	POL	Polk	   	 	167	167	Freeman	La Riva	 / 	208
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	PUT	Putnam	   	 	35	35	Freeman	La Riva	 / 	20
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Freeman	La Riva	 / 	43
@@ -350,7 +350,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	DES	Desoto	   	 	15	0	Walker	Hawkins	 / 	8
 11/03/2020	GRE	Green Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Walker	Hawkins	 / 	5
 11/03/2020	GRE	Green Party	PRE	President of the United States	DUV	Duval	   	 	199	195	Walker	Hawkins	 / 	752
-11/03/2020	GRE	Green Party	PRE	President of the United States	ESC	Escambia	   	 	80	78	Walker	Hawkins	 / 	239
+11/03/2020	GRE	Green Party	PRE	President of the United States	ESC	Escambia	   	 	80	80	Walker	Hawkins	 / 	242
 11/03/2020	GRE	Green Party	PRE	President of the United States	FLA	Flagler	   	 	26	26	Walker	Hawkins	 / 	69
 11/03/2020	GRE	Green Party	PRE	President of the United States	FRA	Franklin	   	 	8	8	Walker	Hawkins	 / 	12
 11/03/2020	GRE	Green Party	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Walker	Hawkins	 / 	21
@@ -370,7 +370,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Walker	Hawkins	 / 	2
 11/03/2020	GRE	Green Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Walker	Hawkins	 / 	254
 11/03/2020	GRE	Green Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Walker	Hawkins	 / 	425
-11/03/2020	GRE	Green Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Walker	Hawkins	 / 	263
+11/03/2020	GRE	Green Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Walker	Hawkins	 / 	264
 11/03/2020	GRE	Green Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Walker	Hawkins	 / 	25
 11/03/2020	GRE	Green Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Walker	Hawkins	 / 	2
 11/03/2020	GRE	Green Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Walker	Hawkins	 / 	13
@@ -385,10 +385,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	OSC	Osceola	   	 	101	13	Walker	Hawkins	 / 	226
 11/03/2020	GRE	Green Party	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Walker	Hawkins	 / 	829
 11/03/2020	GRE	Green Party	PRE	President of the United States	PAS	Pasco	   	 	111	111	Walker	Hawkins	 / 	453
-11/03/2020	GRE	Green Party	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Walker	Hawkins	 / 	887
+11/03/2020	GRE	Green Party	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Walker	Hawkins	 / 	895
 11/03/2020	GRE	Green Party	PRE	President of the United States	POL	Polk	   	 	167	167	Walker	Hawkins	 / 	395
 11/03/2020	GRE	Green Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Walker	Hawkins	 / 	50
-11/03/2020	GRE	Green Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Walker	Hawkins	 / 	111
+11/03/2020	GRE	Green Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Walker	Hawkins	 / 	112
 11/03/2020	GRE	Green Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Walker	Hawkins	 / 	267
 11/03/2020	GRE	Green Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Walker	Hawkins	 / 	398
 11/03/2020	GRE	Green Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Walker	Hawkins	 / 	210
@@ -417,7 +417,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	DES	Desoto	   	 	15	0	Mohr	Blankenship	 / 	4
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Mohr	Blankenship	 / 	4
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	DUV	Duval	   	 	199	195	Mohr	Blankenship	 / 	214
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	ESC	Escambia	   	 	80	78	Mohr	Blankenship	 / 	90
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	ESC	Escambia	   	 	80	80	Mohr	Blankenship	 / 	90
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	FLA	Flagler	   	 	26	26	Mohr	Blankenship	 / 	20
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	FRA	Franklin	   	 	8	8	Mohr	Blankenship	 / 	3
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Mohr	Blankenship	 / 	9
@@ -437,7 +437,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Mohr	Blankenship	 / 	2
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Mohr	Blankenship	 / 	79
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Mohr	Blankenship	 / 	115
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Mohr	Blankenship	 / 	71
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Mohr	Blankenship	 / 	71
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Mohr	Blankenship	 / 	13
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Mohr	Blankenship	 / 	1
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Mohr	Blankenship	 / 	5
@@ -452,10 +452,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	OSC	Osceola	   	 	101	13	Mohr	Blankenship	 / 	59
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Mohr	Blankenship	 / 	171
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	PAS	Pasco	   	 	111	111	Mohr	Blankenship	 / 	136
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Mohr	Blankenship	 / 	197
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Mohr	Blankenship	 / 	198
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	POL	Polk	   	 	167	167	Mohr	Blankenship	 / 	129
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Mohr	Blankenship	 / 	20
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Mohr	Blankenship	 / 	53
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Mohr	Blankenship	 / 	54
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Mohr	Blankenship	 / 	68
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Mohr	Blankenship	 / 	101
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Mohr	Blankenship	 / 	44
@@ -484,7 +484,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	DES	Desoto	   	 	15	0	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DIX	Dixie	   	 	10	10	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DUV	Duval	   	 	199	195	Patel	Carroll	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	78	Patel	Carroll	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	80	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FLA	Flagler	   	 	26	26	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FRA	Franklin	   	 	8	8	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Patel	Carroll	 / 	0
@@ -504,7 +504,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Patel	Carroll	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Patel	Carroll	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Patel	Carroll	 / 	0
@@ -519,7 +519,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	OSC	Osceola	   	 	101	13	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAS	Pasco	   	 	111	111	Patel	Carroll	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Patel	Carroll	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	POL	Polk	   	 	167	167	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Patel	Carroll	 / 	0
@@ -551,7 +551,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	DES	Desoto	   	 	15	0	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DIX	Dixie	   	 	10	10	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DUV	Duval	   	 	199	195	Howard	Howard	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	78	Howard	Howard	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	80	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FLA	Flagler	   	 	26	26	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FRA	Franklin	   	 	8	8	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Howard	Howard	 / 	0
@@ -571,7 +571,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Howard	Howard	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Howard	Howard	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Howard	Howard	 / 	0
@@ -586,7 +586,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	OSC	Osceola	   	 	101	13	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAS	Pasco	   	 	111	111	Howard	Howard	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Howard	Howard	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	POL	Polk	   	 	167	167	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Howard	Howard	 / 	0
@@ -618,7 +618,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	DES	Desoto	   	 	15	0	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DIX	Dixie	   	 	10	10	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DUV	Duval	   	 	199	195	Pope	Laboch	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	78	Pope	Laboch	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	80	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FLA	Flagler	   	 	26	26	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FRA	Franklin	   	 	8	8	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Pope	Laboch	 / 	0
@@ -638,7 +638,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Pope	Laboch	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Pope	Laboch	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Pope	Laboch	 / 	0
@@ -653,7 +653,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	OSC	Osceola	   	 	101	13	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAS	Pasco	   	 	111	111	Pope	Laboch	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Pope	Laboch	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	POL	Polk	   	 	167	167	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Pope	Laboch	 / 	0
@@ -685,7 +685,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	DES	Desoto	   	 	15	0	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DIX	Dixie	   	 	10	10	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DUV	Duval	   	 	199	195	Nixon	Simmons	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	78	Nixon	Simmons	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	80	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FLA	Flagler	   	 	26	26	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FRA	Franklin	   	 	8	8	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Nixon	Simmons	 / 	0
@@ -705,7 +705,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Nixon	Simmons	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Nixon	Simmons	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Nixon	Simmons	 / 	0
@@ -720,7 +720,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	OSC	Osceola	   	 	101	13	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAS	Pasco	   	 	111	111	Nixon	Simmons	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Nixon	Simmons	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	POL	Polk	   	 	167	167	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Nixon	Simmons	 / 	0
@@ -752,7 +752,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	DES	Desoto	   	 	15	0	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DIX	Dixie	   	 	10	10	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DUV	Duval	   	 	199	195	Tolbert	Walls-Windhauser	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	78	Tolbert	Walls-Windhauser	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	80	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FLA	Flagler	   	 	26	26	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FRA	Franklin	   	 	8	8	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Tolbert	Walls-Windhauser	 / 	0
@@ -772,7 +772,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Tolbert	Walls-Windhauser	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Tolbert	Walls-Windhauser	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Tolbert	Walls-Windhauser	 / 	0
@@ -787,7 +787,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	OSC	Osceola	   	 	101	13	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAS	Pasco	   	 	111	111	Tolbert	Walls-Windhauser	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Tolbert	Walls-Windhauser	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	POL	Polk	   	 	167	167	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Tolbert	Walls-Windhauser	 / 	0
@@ -819,7 +819,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	DES	Desoto	   	 	15	0	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DIX	Dixie	   	 	10	10	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	DUV	Duval	   	 	199	195	Wells	Wells	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	78	Wells	Wells	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	ESC	Escambia	   	 	80	80	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FLA	Flagler	   	 	26	26	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	FRA	Franklin	   	 	8	8	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	GAD	Gadsden	   	 	25	25	Wells	Wells	 / 	0
@@ -839,7 +839,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Wells	Wells	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Wells	Wells	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Wells	Wells	 / 	0
@@ -854,7 +854,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	OSC	Osceola	   	 	101	13	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAL	Palm Beach	   	 	872	828	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PAS	Pasco	   	 	111	111	Wells	Wells	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	297	Wells	Wells	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	PIN	Pinellas	   	 	301	301	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	POL	Polk	   	 	167	167	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Wells	Wells	 / 	0
@@ -870,20 +870,20 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	WAK	Wakulla	   	 	12	12	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	WAL	Walton	   	 	21	21	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	WAS	Washington	   	 	12	12	Wells	Wells	 / 	0
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 1	ESC	Escambia	001	 	80	78	Gaetz	Matt		91867
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 1	ESC	Escambia	001	 	80	80	Gaetz	Matt		92277
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 1	HOL	Holmes	001	 	6	6	Gaetz	Matt		4990
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 1	OKA	Okaloosa	001	 	52	50	Gaetz	Matt		77119
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 1	SAN	Santa Rosa	001	 	41	41	Gaetz	Matt		71824
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 1	SAN	Santa Rosa	001	 	41	41	Gaetz	Matt		72907
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 1	WAL	Walton	001	 	21	21	Gaetz	Matt		32094
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 1	ESC	Escambia	001	 	80	78	Ehr	Phil		72597
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 1	ESC	Escambia	001	 	80	80	Ehr	Phil		72730
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 1	HOL	Holmes	001	 	6	6	Ehr	Phil		587
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 1	OKA	Okaloosa	001	 	52	50	Ehr	Phil		34232
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 1	SAN	Santa Rosa	001	 	41	41	Ehr	Phil		27728
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 1	SAN	Santa Rosa	001	 	41	41	Ehr	Phil		28028
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 1	WAL	Walton	001	 	21	21	Ehr	Phil		10505
-11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 1	ESC	Escambia	001	 	80	78	Oram	Albert		2197
+11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 1	ESC	Escambia	001	 	80	80	Oram	Albert		2209
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 1	HOL	Holmes	001	 	6	6	Oram	Albert		89
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 1	OKA	Okaloosa	001	 	52	50	Oram	Albert		1820
-11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 1	SAN	Santa Rosa	001	 	41	41	Oram	Albert		1256
+11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 1	SAN	Santa Rosa	001	 	41	41	Oram	Albert		1284
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 1	WAL	Walton	001	 	21	21	Oram	Albert		423
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	BAY	Bay	002	 	44	43	Dunn	Neal		76881
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	CAL	Calhoun	002	 	11	11	Dunn	Neal		5658
@@ -896,7 +896,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	JAC	Jackson	002	 	14	14	Dunn	Neal		18232
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	JEF	Jefferson	002	 	3	3	Dunn	Neal		586
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LAF	Lafayette	002	 	5	5	Dunn	Neal		3304
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LEO	Leon	002	 	66	64	Dunn	Neal		47086
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LEO	Leon	002	 	66	66	Dunn	Neal		47086
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LEV	Levy	002	 	13	13	Dunn	Neal		18926
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LIB	Liberty	002	 	8	8	Dunn	Neal		2973
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	MRN	Marion	002	 	21	21	Dunn	Neal		24876
@@ -915,7 +915,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	JAC	Jackson	002	 	14	14	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	JEF	Jefferson	002	 	3	3	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LAF	Lafayette	002	 	5	5	O'Connor	Kim		0
-11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LEO	Leon	002	 	66	64	O'Connor	Kim		0
+11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LEO	Leon	002	 	66	66	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LEV	Levy	002	 	13	13	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LIB	Liberty	002	 	8	8	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	MRN	Marion	002	 	21	21	O'Connor	Kim		0
@@ -950,7 +950,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	GAD	Gadsden	005	 	25	25	Adler	Gary		6872
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	HAM	Hamilton	005	 	8	8	Adler	Gary		3576
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	JEF	Jefferson	005	 	16	16	Adler	Gary		3836
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	LEO	Leon	005	 	90	87	Adler	Gary		21363
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	LEO	Leon	005	 	90	90	Adler	Gary		21558
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	MAD	Madison	005	 	11	11	Adler	Gary		5255
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	BAK	Baker	005	 	9	9	Lawson	Al		2476
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	CLM	Columbia	005	 	9	9	Lawson	Al		2029
@@ -958,7 +958,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	GAD	Gadsden	005	 	25	25	Lawson	Al		16770
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	HAM	Hamilton	005	 	8	8	Lawson	Al		2128
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	JEF	Jefferson	005	 	16	16	Lawson	Al		3796
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	LEO	Leon	005	 	90	87	Lawson	Al		60308
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	LEO	Leon	005	 	90	90	Lawson	Al		60464
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	MAD	Madison	005	 	11	11	Lawson	Al		3985
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 6	FLA	Flagler	006	 	26	26	Waltz	Michael		43294
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 6	LAK	Lake	006	 	26	26	Waltz	Michael		32262
@@ -1012,13 +1012,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 11	SUM	Sumter	011	 	26	26	Cottrell	Dana	Marie	26783
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 12	HIL	Hillsborough	012	 	8	7	Bilirakis	Gus	Michael	5532
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 12	PAS	Pasco	012	 	111	111	Bilirakis	Gus	Michael	187336
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 12	PIN	Pinellas	012	 	60	59	Bilirakis	Gus	Michael	90171
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 12	PIN	Pinellas	012	 	60	60	Bilirakis	Gus	Michael	90284
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 12	HIL	Hillsborough	012	 	8	7	Walker	Kimberly		3179
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 12	PAS	Pasco	012	 	111	111	Walker	Kimberly		107316
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 12	PIN	Pinellas	012	 	60	59	Walker	Kimberly		56103
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 13	PIN	Pinellas	013	 	241	238	Luna	Anna	Paulina	188850
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 13	PIN	Pinellas	013	 	241	238	Crist	Charlie		213491
-11/03/2020	WRI	Write-in	USR	Representative in Congress, District 13	PIN	Pinellas	013	 	241	238	Curnow	Jacob		0
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 12	PIN	Pinellas	012	 	60	60	Walker	Kimberly		56177
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 13	PIN	Pinellas	013	 	241	241	Luna	Anna	Paulina	189812
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 13	PIN	Pinellas	013	 	241	241	Crist	Charlie		214240
+11/03/2020	WRI	Write-in	USR	Representative in Congress, District 13	PIN	Pinellas	013	 	241	241	Curnow	Jacob		0
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 14	HIL	Hillsborough	014	 	209	206	Quinn	Christine	Y.	146549
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 14	HIL	Hillsborough	014	 	209	206	Castor	Kathy		221706
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 15	HIL	Hillsborough	015	 	109	107	Franklin	Scott		98940
@@ -1139,19 +1139,19 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STA	State Attorney, 17th Judicial Circuit	BRO	Broward	017	 	577	577	Pryor	Harold	Fernandez	576348
 11/03/2020	DEM	Democratic Party	PUB	Public Defender, 17th Judicial Circuit	BRO	Broward	017	 	577	577	Weekes	Gordon		688109
 11/03/2020	WRI	Write-in	PUB	Public Defender, 17th Judicial Circuit	BRO	Broward	017	 	577	577	Ross	Brion		0
-11/03/2020	REP	Republican Party	STS	State Senator, District 1	ESC	Escambia	001	 	80	78	Broxson	Douglas	V.	98220
+11/03/2020	REP	Republican Party	STS	State Senator, District 1	ESC	Escambia	001	 	80	80	Broxson	Douglas	V.	98652
 11/03/2020	REP	Republican Party	STS	State Senator, District 1	OKA	Okaloosa	001	 	11	10	Broxson	Douglas	V.	7249
-11/03/2020	REP	Republican Party	STS	State Senator, District 1	SAN	Santa Rosa	001	 	41	41	Broxson	Douglas	V.	75062
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 1	ESC	Escambia	001	 	80	78	Butler	Karen	M.	66802
+11/03/2020	REP	Republican Party	STS	State Senator, District 1	SAN	Santa Rosa	001	 	41	41	Broxson	Douglas	V.	76178
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 1	ESC	Escambia	001	 	80	80	Butler	Karen	M.	66928
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 1	OKA	Okaloosa	001	 	11	10	Butler	Karen	M.	4150
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 1	SAN	Santa Rosa	001	 	41	41	Butler	Karen	M.	24817
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 1	SAN	Santa Rosa	001	 	41	41	Butler	Karen	M.	25099
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	CAL	Calhoun	003	 	11	11	Preston	Marva	Harris	4881
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	FRA	Franklin	003	 	8	8	Preston	Marva	Harris	4453
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	GAD	Gadsden	003	 	25	25	Preston	Marva	Harris	7851
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	GUL	Gulf	003	 	10	10	Preston	Marva	Harris	5994
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	HAM	Hamilton	003	 	8	8	Preston	Marva	Harris	3822
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	JEF	Jefferson	003	 	16	16	Preston	Marva	Harris	4519
-11/03/2020	REP	Republican Party	STS	State Senator, District 3	LEO	Leon	003	 	156	151	Preston	Marva	Harris	59433
+11/03/2020	REP	Republican Party	STS	State Senator, District 3	LEO	Leon	003	 	156	156	Preston	Marva	Harris	59650
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	LIB	Liberty	003	 	8	8	Preston	Marva	Harris	2521
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	MAD	Madison	003	 	11	11	Preston	Marva	Harris	5520
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	TAY	Taylor	003	 	14	14	Preston	Marva	Harris	7544
@@ -1162,7 +1162,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	GUL	Gulf	003	 	10	10	Ausley	Loranne		1911
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	HAM	Hamilton	003	 	8	8	Ausley	Loranne		1858
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	JEF	Jefferson	003	 	16	16	Ausley	Loranne		3822
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	LEO	Leon	003	 	156	151	Ausley	Loranne		98635
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	LEO	Leon	003	 	156	156	Ausley	Loranne		98769
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	LIB	Liberty	003	 	8	8	Ausley	Loranne		850
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	MAD	Madison	003	 	11	11	Ausley	Loranne		3643
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	TAY	Taylor	003	 	14	14	Ausley	Loranne		2348
@@ -1221,9 +1221,9 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 17	BRE	Brevard	017	 	101	101	Snyder	Phillip		8718
 11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 17	IND	Indian River	017	 	35	35	Snyder	Phillip		2346
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 19	HIL	Hillsborough	019	 	113	111	Rouson	Darryl	Ervin	119938
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 19	PIN	Pinellas	019	 	51	50	Rouson	Darryl	Ervin	52323
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 19	PIN	Pinellas	019	 	51	51	Rouson	Darryl	Ervin	52482
 11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 19	HIL	Hillsborough	019	 	113	111	Paylan	Christina		62242
-11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 19	PIN	Pinellas	019	 	51	50	Paylan	Christina		16325
+11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 19	PIN	Pinellas	019	 	51	51	Paylan	Christina		16390
 11/03/2020	REP	Republican Party	STS	State Senator, District 20	HIL	Hillsborough	020	 	80	79	Burgess	Danny		57798
 11/03/2020	REP	Republican Party	STS	State Senator, District 20	PAS	Pasco	020	 	38	38	Burgess	Danny		62111
 11/03/2020	REP	Republican Party	STS	State Senator, District 20	POL	Polk	020	 	11	11	Burgess	Danny		20358
@@ -1267,16 +1267,16 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 39	MON	Monroe	039	 	33	33	Fernandez	Javier	E.	19305
 11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 39	DAD	Miami-Dade	039	 	160	147	Alfonso	Celso	D.	2533
 11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 39	MON	Monroe	039	 	33	33	Alfonso	Celso	D.	1024
-11/03/2020	REP	Republican Party	STR	State Representative, District 1	ESC	Escambia	001	 	38	37	Salzman	Michelle		56514
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 1	ESC	Escambia	001	 	38	37	Mathis	Franscine	C.	30041
-11/03/2020	REP	Republican Party	STR	State Representative, District 2	ESC	Escambia	002	 	43	42	Andrade	Alex		42292
+11/03/2020	REP	Republican Party	STR	State Representative, District 1	ESC	Escambia	001	 	38	38	Salzman	Michelle		56957
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 1	ESC	Escambia	001	 	38	38	Mathis	Franscine	C.	30151
+11/03/2020	REP	Republican Party	STR	State Representative, District 2	ESC	Escambia	002	 	43	43	Andrade	Alex		42292
 11/03/2020	REP	Republican Party	STR	State Representative, District 2	SAN	Santa Rosa	002	 	3	3	Andrade	Alex		7055
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 2	ESC	Escambia	002	 	43	42	Krumel	Dianne		35915
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 2	ESC	Escambia	002	 	43	43	Krumel	Dianne		35915
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 2	SAN	Santa Rosa	002	 	3	3	Krumel	Dianne		3045
 11/03/2020	REP	Republican Party	STR	State Representative, District 3	OKA	Okaloosa	003	 	10	9	Williamson	Jayer		12225
-11/03/2020	REP	Republican Party	STR	State Representative, District 3	SAN	Santa Rosa	003	 	38	38	Williamson	Jayer		67178
+11/03/2020	REP	Republican Party	STR	State Representative, District 3	SAN	Santa Rosa	003	 	38	38	Williamson	Jayer		68289
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 3	OKA	Okaloosa	003	 	10	9	Hoover	Angela	L.	2748
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 3	SAN	Santa Rosa	003	 	38	38	Hoover	Angela	L.	21709
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 3	SAN	Santa Rosa	003	 	38	38	Hoover	Angela	L.	21987
 11/03/2020	REP	Republican Party	STR	State Representative, District 4	OKA	Okaloosa	004	 	47	46	Maney	Patt		69285
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 4	OKA	Okaloosa	004	 	47	46	Plante	John		26486
 11/03/2020	WRI	Write-in	STR	State Representative, District 4	OKA	Okaloosa	004	 	47	46	Lawrence	Lance		0
@@ -1287,7 +1287,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	GUL	Gulf	007	 	10	10	Shoaf	Jason		6339
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	JEF	Jefferson	007	 	16	16	Shoaf	Jason		4669
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	LAF	Lafayette	007	 	5	5	Shoaf	Jason		3090
-11/03/2020	REP	Republican Party	STR	State Representative, District 7	LEO	Leon	007	 	5	4	Shoaf	Jason		2721
+11/03/2020	REP	Republican Party	STR	State Representative, District 7	LEO	Leon	007	 	5	5	Shoaf	Jason		2721
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	LIB	Liberty	007	 	8	8	Shoaf	Jason		2680
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	MAD	Madison	007	 	11	11	Shoaf	Jason		5576
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	TAY	Taylor	007	 	14	14	Shoaf	Jason		7787
@@ -1297,13 +1297,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	GUL	Gulf	007	 	10	10	Khan	Taymour		1587
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	JEF	Jefferson	007	 	16	16	Khan	Taymour		3567
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	LAF	Lafayette	007	 	5	5	Khan	Taymour		456
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	LEO	Leon	007	 	5	4	Khan	Taymour		1480
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	LEO	Leon	007	 	5	5	Khan	Taymour		1480
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	LIB	Liberty	007	 	8	8	Khan	Taymour		607
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	MAD	Madison	007	 	11	11	Khan	Taymour		3467
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	TAY	Taylor	007	 	14	14	Khan	Taymour		2026
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	WAK	Wakulla	007	 	12	12	Khan	Taymour		4607
-11/03/2020	REP	Republican Party	STR	State Representative, District 9	LEO	Leon	009	 	99	96	Kallinger	Jim		42725
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 9	LEO	Leon	009	 	99	96	Tant	Allison		58575
+11/03/2020	REP	Republican Party	STR	State Representative, District 9	LEO	Leon	009	 	99	99	Kallinger	Jim		42725
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 9	LEO	Leon	009	 	99	99	Tant	Allison		58575
 11/03/2020	REP	Republican Party	STR	State Representative, District 10	ALA	Alachua	010	 	2	0	Brannan	Chuck		2361
 11/03/2020	REP	Republican Party	STR	State Representative, District 10	BAK	Baker	010	 	9	9	Brannan	Chuck		12001
 11/03/2020	REP	Republican Party	STR	State Representative, District 10	CLM	Columbia	010	 	22	22	Brannan	Chuck		24220
@@ -1464,19 +1464,19 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 62	HIL	Hillsborough	062	 	37	36	Valdes	Susan	L.	37890
 11/03/2020	NPA	No Party Affiliation	STR	State Representative, District 62	HIL	Hillsborough	062	 	37	36	Rodriguez-Person	Laurie		3122
 11/03/2020	REP	Republican Party	STR	State Representative, District 64	HIL	Hillsborough	064	 	39	38	Koster	Traci		37477
-11/03/2020	REP	Republican Party	STR	State Representative, District 64	PIN	Pinellas	064	 	12	11	Koster	Traci		18086
+11/03/2020	REP	Republican Party	STR	State Representative, District 64	PIN	Pinellas	064	 	12	12	Koster	Traci		18109
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 64	HIL	Hillsborough	064	 	39	38	Harrington	Jessica		32722
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 64	PIN	Pinellas	064	 	12	11	Harrington	Jessica		14365
-11/03/2020	REP	Republican Party	STR	State Representative, District 65	PIN	Pinellas	065	 	45	44	Sprowls	Chris		63563
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 65	PIN	Pinellas	065	 	45	44	Johnson	Kelly		40375
-11/03/2020	REP	Republican Party	STR	State Representative, District 66	PIN	Pinellas	066	 	56	55	DiCeglie	Nick		55351
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 66	PIN	Pinellas	066	 	56	55	Plantamura	Patricia	M.	39134
-11/03/2020	REP	Republican Party	STR	State Representative, District 67	PIN	Pinellas	067	 	52	51	Latvala	Chris		46631
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 67	PIN	Pinellas	067	 	52	51	Douglas	Dawn		35093
-11/03/2020	REP	Republican Party	STR	State Representative, District 68	PIN	Pinellas	068	 	48	47	Tito	Matt		42438
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 68	PIN	Pinellas	068	 	48	47	Diamond	Ben		49498
-11/03/2020	REP	Republican Party	STR	State Representative, District 69	PIN	Pinellas	069	 	63	62	Chaney	Linda		51071
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 69	PIN	Pinellas	069	 	63	62	Webb	Jennifer	N.	46278
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 64	PIN	Pinellas	064	 	12	12	Harrington	Jessica		14382
+11/03/2020	REP	Republican Party	STR	State Representative, District 65	PIN	Pinellas	065	 	45	45	Sprowls	Chris		63636
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 65	PIN	Pinellas	065	 	45	45	Johnson	Kelly		40431
+11/03/2020	REP	Republican Party	STR	State Representative, District 66	PIN	Pinellas	066	 	56	56	DiCeglie	Nick		55827
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 66	PIN	Pinellas	066	 	56	56	Plantamura	Patricia	M.	39296
+11/03/2020	REP	Republican Party	STR	State Representative, District 67	PIN	Pinellas	067	 	52	52	Latvala	Chris		46802
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 67	PIN	Pinellas	067	 	52	52	Douglas	Dawn		35212
+11/03/2020	REP	Republican Party	STR	State Representative, District 68	PIN	Pinellas	068	 	48	48	Tito	Matt		42596
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 68	PIN	Pinellas	068	 	48	48	Diamond	Ben		49676
+11/03/2020	REP	Republican Party	STR	State Representative, District 69	PIN	Pinellas	069	 	63	63	Chaney	Linda		51216
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 69	PIN	Pinellas	069	 	63	63	Webb	Jennifer	N.	46405
 11/03/2020	REP	Republican Party	STR	State Representative, District 71	MAN	Manatee	071	 	33	33	Robinson	Will		43072
 11/03/2020	REP	Republican Party	STR	State Representative, District 71	SAR	Sarasota	071	 	12	12	Robinson	Will		7923
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 71	MAN	Manatee	071	 	33	33	Mele	Andy		28742
@@ -1587,7 +1587,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DES	Desoto	   	1	15	0	Yes	Carlos	G.	8051
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DIX	Dixie	   	1	10	10	Yes	Carlos	G.	4524
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DUV	Duval	   	1	199	195	Yes	Carlos	G.	261275
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	ESC	Escambia	   	1	80	78	Yes	Carlos	G.	98272
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	ESC	Escambia	   	1	80	80	Yes	Carlos	G.	98597
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	FLA	Flagler	   	1	25	25	Yes	Carlos	G.	41889
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	FRA	Franklin	   	1	8	8	Yes	Carlos	G.	3771
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	GAD	Gadsden	   	1	25	25	Yes	Carlos	G.	14435
@@ -1607,7 +1607,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LAF	Lafayette	   	1	5	5	Yes	Carlos	G.	2134
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LAK	Lake	   	1	103	103	Yes	Carlos	G.	122971
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEE	Lee	   	1	127	127	Yes	Carlos	G.	225837
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEO	Leon	   	1	156	151	Yes	Carlos	G.	81581
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEO	Leon	   	1	156	156	Yes	Carlos	G.	81797
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEV	Levy	   	1	13	13	Yes	Carlos	G.	13367
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LIB	Liberty	   	1	8	8	Yes	Carlos	G.	1877
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAD	Madison	   	1	11	11	Yes	Carlos	G.	5214
@@ -1622,10 +1622,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	OSC	Osceola	   	1	100	13	Yes	Carlos	G.	87283
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PAL	Palm Beach	   	1	871	827	Yes	Carlos	G.	394117
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PAS	Pasco	   	1	111	111	Yes	Carlos	G.	186236
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PIN	Pinellas	   	1	301	297	Yes	Carlos	G.	319890
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PIN	Pinellas	   	1	301	301	Yes	Carlos	G.	320932
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	POL	Polk	   	1	167	167	Yes	Carlos	G.	202818
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PUT	Putnam	   	1	35	35	Yes	Carlos	G.	22378
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAN	Santa Rosa	   	1	41	41	Yes	Carlos	G.	62261
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAN	Santa Rosa	   	1	41	41	Yes	Carlos	G.	63176
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAR	Sarasota	   	1	101	101	Yes	Carlos	G.	147242
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SEM	Seminole	   	1	91	79	Yes	Carlos	G.	137515
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STJ	St. Johns	   	1	48	48	Yes	Carlos	G.	109725
@@ -1654,7 +1654,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DES	Desoto	   	1	15	0	No	Carlos	G.	3201
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DIX	Dixie	   	1	10	10	No	Carlos	G.	2578
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DUV	Duval	   	1	199	195	No	Carlos	G.	171830
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	ESC	Escambia	   	1	80	78	No	Carlos	G.	49946
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	ESC	Escambia	   	1	80	80	No	Carlos	G.	50120
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	FLA	Flagler	   	1	25	25	No	Carlos	G.	17310
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	FRA	Franklin	   	1	8	8	No	Carlos	G.	1994
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	GAD	Gadsden	   	1	25	25	No	Carlos	G.	7691
@@ -1674,7 +1674,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LAF	Lafayette	   	1	5	5	No	Carlos	G.	1165
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LAK	Lake	   	1	103	103	No	Carlos	G.	56361
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEE	Lee	   	1	127	127	No	Carlos	G.	84830
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEO	Leon	   	1	156	151	No	Carlos	G.	58914
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEO	Leon	   	1	156	156	No	Carlos	G.	59025
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEV	Levy	   	1	13	13	No	Carlos	G.	6966
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LIB	Liberty	   	1	8	8	No	Carlos	G.	1138
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAD	Madison	   	1	11	11	No	Carlos	G.	3220
@@ -1689,10 +1689,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	OSC	Osceola	   	1	100	13	No	Carlos	G.	42949
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PAL	Palm Beach	   	1	871	827	No	Carlos	G.	239228
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PAS	Pasco	   	1	111	111	No	Carlos	G.	79153
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PIN	Pinellas	   	1	301	297	No	Carlos	G.	169576
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PIN	Pinellas	   	1	301	301	No	Carlos	G.	170157
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	POL	Polk	   	1	167	167	No	Carlos	G.	91540
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PUT	Putnam	   	1	35	35	No	Carlos	G.	10287
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAN	Santa Rosa	   	1	41	41	No	Carlos	G.	26924
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAN	Santa Rosa	   	1	41	41	No	Carlos	G.	27228
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAR	Sarasota	   	1	101	101	No	Carlos	G.	73347
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SEM	Seminole	   	1	91	79	No	Carlos	G.	82432
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STJ	St. Johns	   	1	48	48	No	Carlos	G.	38251
@@ -1714,7 +1714,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	CLM	Columbia	001	1	22	22	Yes	Joseph		19758
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DIX	Dixie	001	1	10	10	Yes	Joseph		4579
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DUV	Duval	001	1	199	195	Yes	Joseph		296339
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	ESC	Escambia	001	1	80	78	Yes	Joseph		105640
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	ESC	Escambia	001	1	80	80	Yes	Joseph		105950
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	FRA	Franklin	001	1	8	8	Yes	Joseph		3988
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	GAD	Gadsden	001	1	25	25	Yes	Joseph		16207
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	GIL	Gilchrist	001	1	10	10	Yes	Joseph		5888
@@ -1724,13 +1724,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	JAC	Jackson	001	1	14	14	Yes	Joseph		13743
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	JEF	Jefferson	001	1	16	16	Yes	Joseph		5369
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LAF	Lafayette	001	1	5	5	Yes	Joseph		2118
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEO	Leon	001	1	156	151	Yes	Joseph		98098
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEO	Leon	001	1	156	156	Yes	Joseph		98331
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEV	Levy	001	1	13	13	Yes	Joseph		13643
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LIB	Liberty	001	1	8	8	Yes	Joseph		1923
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	MAD	Madison	001	1	11	11	Yes	Joseph		5600
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	NAS	Nassau	001	1	15	15	Yes	Joseph		37854
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	OKA	Okaloosa	001	1	52	50	Yes	Joseph		71501
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SAN	Santa Rosa	001	1	41	41	Yes	Joseph		65128
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SAN	Santa Rosa	001	1	41	41	Yes	Joseph		66049
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SUW	Suwannee	001	1	16	16	Yes	Joseph		12545
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	TAY	Taylor	001	1	14	14	Yes	Joseph		6417
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	UNI	Union	001	1	8	8	Yes	Joseph		3660
@@ -1746,7 +1746,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	CLM	Columbia	001	1	22	22	No	Joseph		9134
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DIX	Dixie	001	1	10	10	No	Joseph		2513
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	DUV	Duval	001	1	199	195	No	Joseph		133913
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	ESC	Escambia	001	1	80	78	No	Joseph		42663
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	ESC	Escambia	001	1	80	80	No	Joseph		42859
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	FRA	Franklin	001	1	8	8	No	Joseph		1742
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	GAD	Gadsden	001	1	25	25	No	Joseph		5895
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	GIL	Gilchrist	001	1	10	10	No	Joseph		2687
@@ -1756,13 +1756,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	JAC	Jackson	001	1	14	14	No	Joseph		6573
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	JEF	Jefferson	001	1	16	16	No	Joseph		2191
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LAF	Lafayette	001	1	5	5	No	Joseph		1168
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEO	Leon	001	1	156	151	No	Joseph		41099
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEO	Leon	001	1	156	156	No	Joseph		41189
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEV	Levy	001	1	13	13	No	Joseph		6574
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LIB	Liberty	001	1	8	8	No	Joseph		1078
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	MAD	Madison	001	1	11	11	No	Joseph		2879
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	NAS	Nassau	001	1	15	15	No	Joseph		12975
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	OKA	Okaloosa	001	1	52	50	No	Joseph		27577
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SAN	Santa Rosa	001	1	41	41	No	Joseph		23594
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SAN	Santa Rosa	001	1	41	41	No	Joseph		23879
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SUW	Suwannee	001	1	16	16	No	Joseph		6119
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	TAY	Taylor	001	1	14	14	No	Joseph		2685
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	UNI	Union	001	1	8	8	No	Joseph		1935
@@ -1778,7 +1778,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	CLM	Columbia	001	2	22	22	Yes	Scott		19452
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DIX	Dixie	001	2	10	10	Yes	Scott		4637
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DUV	Duval	001	2	199	195	Yes	Scott		267594
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	ESC	Escambia	001	2	80	78	Yes	Scott		100623
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	ESC	Escambia	001	2	80	80	Yes	Scott		100956
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	FRA	Franklin	001	2	8	8	Yes	Scott		3787
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	GAD	Gadsden	001	2	25	25	Yes	Scott		14171
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	GIL	Gilchrist	001	2	10	10	Yes	Scott		5985
@@ -1788,13 +1788,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	JAC	Jackson	001	2	14	14	Yes	Scott		13271
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	JEF	Jefferson	001	2	16	16	Yes	Scott		5061
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LAF	Lafayette	001	2	5	5	Yes	Scott		2129
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEO	Leon	001	2	156	151	Yes	Scott		84499
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEO	Leon	001	2	156	156	Yes	Scott		84711
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEV	Levy	001	2	13	13	Yes	Scott		13838
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LIB	Liberty	001	2	8	8	Yes	Scott		1881
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	MAD	Madison	001	2	11	11	Yes	Scott		5193
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	NAS	Nassau	001	2	15	15	Yes	Scott		37280
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	OKA	Okaloosa	001	2	52	50	Yes	Scott		69655
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SAN	Santa Rosa	001	2	41	41	Yes	Scott		64224
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SAN	Santa Rosa	001	2	41	41	Yes	Scott		65138
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SUW	Suwannee	001	2	16	16	Yes	Scott		12402
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	TAY	Taylor	001	2	14	14	Yes	Scott		6136
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	UNI	Union	001	2	8	8	Yes	Scott		3673
@@ -1810,7 +1810,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	CLM	Columbia	001	2	22	22	No	Scott		8966
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DIX	Dixie	001	2	10	10	No	Scott		2429
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	DUV	Duval	001	2	199	195	No	Scott		159215
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	ESC	Escambia	001	2	80	78	No	Scott		46847
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	ESC	Escambia	001	2	80	80	No	Scott		47017
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	FRA	Franklin	001	2	8	8	No	Scott		1872
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	GAD	Gadsden	001	2	25	25	No	Scott		7640
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	GIL	Gilchrist	001	2	10	10	No	Scott		2522
@@ -1820,13 +1820,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	JAC	Jackson	001	2	14	14	No	Scott		6881
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	JEF	Jefferson	001	2	16	16	No	Scott		2441
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LAF	Lafayette	001	2	5	5	No	Scott		1121
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEO	Leon	001	2	156	151	No	Scott		53236
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEO	Leon	001	2	156	156	No	Scott		53342
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEV	Levy	001	2	13	13	No	Scott		6306
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LIB	Liberty	001	2	8	8	No	Scott		1082
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	MAD	Madison	001	2	11	11	No	Scott		3164
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	NAS	Nassau	001	2	15	15	No	Scott		13108
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	OKA	Okaloosa	001	2	52	50	No	Scott		29006
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SAN	Santa Rosa	001	2	41	41	No	Scott		24084
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SAN	Santa Rosa	001	2	41	41	No	Scott		24367
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SUW	Suwannee	001	2	16	16	No	Scott		6122
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	TAY	Taylor	001	2	14	14	No	Scott		2915
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	UNI	Union	001	2	8	8	No	Scott		1881
@@ -1842,7 +1842,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	CLM	Columbia	001	3	22	22	Yes	Rachel		19760
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DIX	Dixie	001	3	10	10	Yes	Rachel		4667
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DUV	Duval	001	3	199	195	Yes	Rachel		272924
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	ESC	Escambia	001	3	80	78	Yes	Rachel		102588
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	ESC	Escambia	001	3	80	80	Yes	Rachel		102927
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	FRA	Franklin	001	3	8	8	Yes	Rachel		3764
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	GAD	Gadsden	001	3	25	25	Yes	Rachel		14482
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	GIL	Gilchrist	001	3	10	10	Yes	Rachel		6016
@@ -1852,13 +1852,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	JAC	Jackson	001	3	14	14	Yes	Rachel		13364
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	JEF	Jefferson	001	3	16	16	Yes	Rachel		5073
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LAF	Lafayette	001	3	5	5	Yes	Rachel		2142
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEO	Leon	001	3	156	151	Yes	Rachel		84918
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEO	Leon	001	3	156	156	Yes	Rachel		85148
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEV	Levy	001	3	13	13	Yes	Rachel		14016
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LIB	Liberty	001	3	8	8	Yes	Rachel		1927
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	MAD	Madison	001	3	11	11	Yes	Rachel		5261
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	NAS	Nassau	001	3	15	15	Yes	Rachel		37074
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	OKA	Okaloosa	001	3	52	50	Yes	Rachel		70060
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SAN	Santa Rosa	001	3	41	41	Yes	Rachel		64791
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SAN	Santa Rosa	001	3	41	41	Yes	Rachel		65731
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SUW	Suwannee	001	3	16	16	Yes	Rachel		12481
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	TAY	Taylor	001	3	14	14	Yes	Rachel		5987
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	UNI	Union	001	3	8	8	Yes	Rachel		3695
@@ -1874,7 +1874,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	CLM	Columbia	001	3	22	22	No	Rachel		8823
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DIX	Dixie	001	3	10	10	No	Rachel		2387
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	DUV	Duval	001	3	199	195	No	Rachel		153553
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	ESC	Escambia	001	3	80	78	No	Rachel		45000
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	ESC	Escambia	001	3	80	80	No	Rachel		45165
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	FRA	Franklin	001	3	8	8	No	Rachel		1900
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	GAD	Gadsden	001	3	25	25	No	Rachel		7262
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	GIL	Gilchrist	001	3	10	10	No	Rachel		2476
@@ -1884,13 +1884,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	JAC	Jackson	001	3	14	14	No	Rachel		6745
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	JEF	Jefferson	001	3	16	16	No	Rachel		2430
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LAF	Lafayette	001	3	5	5	No	Rachel		1112
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEO	Leon	001	3	156	151	No	Rachel		52454
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEO	Leon	001	3	156	156	No	Rachel		52548
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEV	Levy	001	3	13	13	No	Rachel		6120
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LIB	Liberty	001	3	8	8	No	Rachel		1059
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	MAD	Madison	001	3	11	11	No	Rachel		3130
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	NAS	Nassau	001	3	15	15	No	Rachel		13147
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	OKA	Okaloosa	001	3	52	50	No	Rachel		28685
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SAN	Santa Rosa	001	3	41	41	No	Rachel		23503
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SAN	Santa Rosa	001	3	41	41	No	Rachel		23763
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SUW	Suwannee	001	3	16	16	No	Rachel		6032
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	TAY	Taylor	001	3	14	14	No	Rachel		2887
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	UNI	Union	001	3	8	8	No	Rachel		1874
@@ -1906,7 +1906,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	CLM	Columbia	001	4	22	22	Yes	Tim		19142
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DIX	Dixie	001	4	10	10	Yes	Tim		4506
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DUV	Duval	001	4	199	195	Yes	Tim		258476
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	ESC	Escambia	001	4	80	78	Yes	Tim		98856
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	ESC	Escambia	001	4	80	80	Yes	Tim		99184
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	FRA	Franklin	001	4	8	8	Yes	Tim		3670
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	GAD	Gadsden	001	4	25	25	Yes	Tim		13871
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	GIL	Gilchrist	001	4	10	10	Yes	Tim		5807
@@ -1916,13 +1916,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	JAC	Jackson	001	4	14	14	Yes	Tim		12940
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	JEF	Jefferson	001	4	16	16	Yes	Tim		4976
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LAF	Lafayette	001	4	5	5	Yes	Tim		2073
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEO	Leon	001	4	156	151	Yes	Tim		80493
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEO	Leon	001	4	156	156	Yes	Tim		80704
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEV	Levy	001	4	13	13	Yes	Tim		13310
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LIB	Liberty	001	4	8	8	Yes	Tim		1877
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	MAD	Madison	001	4	11	11	Yes	Tim		5187
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	NAS	Nassau	001	4	15	15	Yes	Tim		36070
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	OKA	Okaloosa	001	4	52	50	Yes	Tim		67206
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SAN	Santa Rosa	001	4	41	41	Yes	Tim		62933
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SAN	Santa Rosa	001	4	41	41	Yes	Tim		63822
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SUW	Suwannee	001	4	16	16	Yes	Tim		12159
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	TAY	Taylor	001	4	14	14	Yes	Tim		5843
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	UNI	Union	001	4	8	8	Yes	Tim		3632
@@ -1938,7 +1938,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	CLM	Columbia	001	4	22	22	No	Tim		9350
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DIX	Dixie	001	4	10	10	No	Tim		2530
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	DUV	Duval	001	4	199	195	No	Tim		166950
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	ESC	Escambia	001	4	80	78	No	Tim		48423
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	ESC	Escambia	001	4	80	80	No	Tim		48597
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	FRA	Franklin	001	4	8	8	No	Tim		1984
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	GAD	Gadsden	001	4	25	25	No	Tim		7851
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	GIL	Gilchrist	001	4	10	10	No	Tim		2653
@@ -1948,13 +1948,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	JAC	Jackson	001	4	14	14	No	Tim		7131
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	JEF	Jefferson	001	4	16	16	No	Tim		2528
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LAF	Lafayette	001	4	5	5	No	Tim		1191
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEO	Leon	001	4	156	151	No	Tim		56097
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEO	Leon	001	4	156	156	No	Tim		56206
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEV	Levy	001	4	13	13	No	Tim		6669
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LIB	Liberty	001	4	8	8	No	Tim		1095
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	MAD	Madison	001	4	11	11	No	Tim		3152
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	NAS	Nassau	001	4	15	15	No	Tim		14150
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	OKA	Okaloosa	001	4	52	50	No	Tim		31004
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SAN	Santa Rosa	001	4	41	41	No	Tim		25059
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SAN	Santa Rosa	001	4	41	41	No	Tim		25364
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SUW	Suwannee	001	4	16	16	No	Tim		6347
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	TAY	Taylor	001	4	14	14	No	Tim		3045
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	UNI	Union	001	4	8	8	No	Tim		1938
@@ -1970,7 +1970,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	CLM	Columbia	001	5	22	22	Yes	Clay		19746
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DIX	Dixie	001	5	10	10	Yes	Clay		4664
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DUV	Duval	001	5	199	195	Yes	Clay		270522
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	ESC	Escambia	001	5	80	78	Yes	Clay		101733
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	ESC	Escambia	001	5	80	80	Yes	Clay		102065
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	FRA	Franklin	001	5	8	8	Yes	Clay		3805
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	GAD	Gadsden	001	5	25	25	Yes	Clay		15058
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	GIL	Gilchrist	001	5	10	10	Yes	Clay		5817
@@ -1980,13 +1980,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	JAC	Jackson	001	5	14	14	Yes	Clay		13818
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	JEF	Jefferson	001	5	16	16	Yes	Clay		5188
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LAF	Lafayette	001	5	5	5	Yes	Clay		2120
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEO	Leon	001	5	156	151	Yes	Clay		87935
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEO	Leon	001	5	156	156	Yes	Clay		88160
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEV	Levy	001	5	13	13	Yes	Clay		13264
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LIB	Liberty	001	5	8	8	Yes	Clay		1944
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	MAD	Madison	001	5	11	11	Yes	Clay		5414
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	NAS	Nassau	001	5	15	15	Yes	Clay		35560
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	OKA	Okaloosa	001	5	52	50	Yes	Clay		67352
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SAN	Santa Rosa	001	5	41	41	Yes	Clay		63347
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SAN	Santa Rosa	001	5	41	41	Yes	Clay		64254
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SUW	Suwannee	001	5	16	16	Yes	Clay		12252
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	TAY	Taylor	001	5	14	14	Yes	Clay		6090
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	UNI	Union	001	5	8	8	Yes	Clay		3687
@@ -2002,7 +2002,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	CLM	Columbia	001	5	22	22	No	Clay		8924
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DIX	Dixie	001	5	10	10	No	Clay		2412
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	DUV	Duval	001	5	199	195	No	Clay		155631
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	ESC	Escambia	001	5	80	78	No	Clay		45281
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	ESC	Escambia	001	5	80	80	No	Clay		45449
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	FRA	Franklin	001	5	8	8	No	Clay		1852
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	GAD	Gadsden	001	5	25	25	No	Clay		6706
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	GIL	Gilchrist	001	5	10	10	No	Clay		2647
@@ -2012,13 +2012,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	JAC	Jackson	001	5	14	14	No	Clay		6373
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	JEF	Jefferson	001	5	16	16	No	Clay		2308
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LAF	Lafayette	001	5	5	5	No	Clay		1142
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEO	Leon	001	5	156	151	No	Clay		48714
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEO	Leon	001	5	156	156	No	Clay		48809
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEV	Levy	001	5	13	13	No	Clay		6583
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LIB	Liberty	001	5	8	8	No	Clay		1023
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	MAD	Madison	001	5	11	11	No	Clay		2969
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	NAS	Nassau	001	5	15	15	No	Clay		14673
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	OKA	Okaloosa	001	5	52	50	No	Clay		29924
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SAN	Santa Rosa	001	5	41	41	No	Clay		24585
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SAN	Santa Rosa	001	5	41	41	No	Clay		24868
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SUW	Suwannee	001	5	16	16	No	Clay		6255
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	TAY	Taylor	001	5	14	14	No	Clay		2688
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	UNI	Union	001	5	8	8	No	Clay		1892
@@ -2034,7 +2034,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	CLM	Columbia	001	6	22	22	Yes	Adam	S.	19572
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DIX	Dixie	001	6	10	10	Yes	Adam	S.	4615
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DUV	Duval	001	6	199	195	Yes	Adam	S.	262301
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	ESC	Escambia	001	6	80	78	Yes	Adam	S.	98823
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	ESC	Escambia	001	6	80	80	Yes	Adam	S.	99156
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	FRA	Franklin	001	6	8	8	Yes	Adam	S.	3737
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	GAD	Gadsden	001	6	25	25	Yes	Adam	S.	14171
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	GIL	Gilchrist	001	6	10	10	Yes	Adam	S.	5981
@@ -2044,13 +2044,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	JAC	Jackson	001	6	14	14	Yes	Adam	S.	13281
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	JEF	Jefferson	001	6	16	16	Yes	Adam	S.	4985
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LAF	Lafayette	001	6	5	5	Yes	Adam	S.	2149
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEO	Leon	001	6	156	151	Yes	Adam	S.	81031
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEO	Leon	001	6	156	156	Yes	Adam	S.	81237
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEV	Levy	001	6	13	13	Yes	Adam	S.	13461
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LIB	Liberty	001	6	8	8	Yes	Adam	S.	1903
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	MAD	Madison	001	6	11	11	Yes	Adam	S.	5277
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	NAS	Nassau	001	6	15	15	Yes	Adam	S.	36222
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	OKA	Okaloosa	001	6	52	50	Yes	Adam	S.	67570
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SAN	Santa Rosa	001	6	41	41	Yes	Adam	S.	63246
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SAN	Santa Rosa	001	6	41	41	Yes	Adam	S.	64151
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SUW	Suwannee	001	6	16	16	Yes	Adam	S.	12463
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	TAY	Taylor	001	6	14	14	Yes	Adam	S.	5920
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	UNI	Union	001	6	8	8	Yes	Adam	S.	3696
@@ -2066,7 +2066,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	CLM	Columbia	001	6	22	22	No	Adam	S.	8997
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DIX	Dixie	001	6	10	10	No	Adam	S.	2363
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	DUV	Duval	001	6	199	195	No	Adam	S.	164147
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	ESC	Escambia	001	6	80	78	No	Adam	S.	47794
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	ESC	Escambia	001	6	80	80	No	Adam	S.	47961
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	FRA	Franklin	001	6	8	8	No	Adam	S.	1935
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	GAD	Gadsden	001	6	25	25	No	Adam	S.	7623
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	GIL	Gilchrist	001	6	10	10	No	Adam	S.	2483
@@ -2076,13 +2076,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	JAC	Jackson	001	6	14	14	No	Adam	S.	6849
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	JEF	Jefferson	001	6	16	16	No	Adam	S.	2509
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LAF	Lafayette	001	6	5	5	No	Adam	S.	1124
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEO	Leon	001	6	156	151	No	Adam	S.	55235
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEO	Leon	001	6	156	156	No	Adam	S.	55347
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEV	Levy	001	6	13	13	No	Adam	S.	6458
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LIB	Liberty	001	6	8	8	No	Adam	S.	1056
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	MAD	Madison	001	6	11	11	No	Adam	S.	3136
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	NAS	Nassau	001	6	15	15	No	Adam	S.	13685
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	OKA	Okaloosa	001	6	52	50	No	Adam	S.	30532
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SAN	Santa Rosa	001	6	41	41	No	Adam	S.	24664
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SAN	Santa Rosa	001	6	41	41	No	Adam	S.	24951
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SUW	Suwannee	001	6	16	16	No	Adam	S.	6140
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	TAY	Taylor	001	6	14	14	No	Adam	S.	2951
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	UNI	Union	001	6	8	8	No	Adam	S.	1881
@@ -2100,7 +2100,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	LEE	Lee	002	1	127	127	Yes	Drew		228938
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	MAN	Manatee	002	1	70	70	Yes	Drew		132742
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PAS	Pasco	002	1	111	111	Yes	Drew		189387
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PIN	Pinellas	002	1	301	297	Yes	Drew		330872
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PIN	Pinellas	002	1	301	301	Yes	Drew		331964
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	POL	Polk	002	1	167	167	Yes	Drew		207385
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	SAR	Sarasota	002	1	101	101	Yes	Drew		150639
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	CHA	Charlotte	002	1	68	68	No	Drew		25338
@@ -2114,7 +2114,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	LEE	Lee	002	1	127	127	No	Drew		75719
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	MAN	Manatee	002	1	70	70	No	Drew		48767
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PAS	Pasco	002	1	111	111	No	Drew		73548
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PIN	Pinellas	002	1	301	297	No	Drew		151944
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PIN	Pinellas	002	1	301	301	No	Drew		152454
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	POL	Polk	002	1	167	167	No	Drew		85685
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	SAR	Sarasota	002	1	101	101	No	Drew		66287
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	CHA	Charlotte	002	2	68	68	Yes	Morris		72082
@@ -2128,7 +2128,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	LEE	Lee	002	2	127	127	Yes	Morris		228474
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	MAN	Manatee	002	2	70	70	Yes	Morris		132185
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PAS	Pasco	002	2	111	111	Yes	Morris		186111
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PIN	Pinellas	002	2	301	297	Yes	Morris		337419
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PIN	Pinellas	002	2	301	301	Yes	Morris		338529
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	POL	Polk	002	2	167	167	Yes	Morris		201648
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	SAR	Sarasota	002	2	101	101	Yes	Morris		151926
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	CHA	Charlotte	002	2	68	68	No	Morris		25290
@@ -2142,7 +2142,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	LEE	Lee	002	2	127	127	No	Morris		73944
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	MAN	Manatee	002	2	70	70	No	Morris		48689
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PAS	Pasco	002	2	111	111	No	Morris		75314
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PIN	Pinellas	002	2	301	297	No	Morris		142545
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PIN	Pinellas	002	2	301	301	No	Morris		143022
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	POL	Polk	002	2	167	167	No	Morris		90372
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	SAR	Sarasota	002	2	101	101	No	Morris		63804
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	CHA	Charlotte	002	3	68	68	Yes	Daniel	H.	72028
@@ -2156,7 +2156,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	LEE	Lee	002	3	127	127	Yes	Daniel	H.	226415
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	MAN	Manatee	002	3	70	70	Yes	Daniel	H.	131106
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PAS	Pasco	002	3	111	111	Yes	Daniel	H.	187988
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PIN	Pinellas	002	3	301	297	Yes	Daniel	H.	328707
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PIN	Pinellas	002	3	301	301	Yes	Daniel	H.	329779
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	POL	Polk	002	3	167	167	Yes	Daniel	H.	204749
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	SAR	Sarasota	002	3	101	101	Yes	Daniel	H.	149468
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	CHA	Charlotte	002	3	68	68	No	Daniel	H.	25382
@@ -2170,7 +2170,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	LEE	Lee	002	3	127	127	No	Daniel	H.	73797
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	MAN	Manatee	002	3	70	70	No	Daniel	H.	48981
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PAS	Pasco	002	3	111	111	No	Daniel	H.	73286
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PIN	Pinellas	002	3	301	297	No	Daniel	H.	150412
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PIN	Pinellas	002	3	301	301	No	Daniel	H.	150927
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	POL	Polk	002	3	167	167	No	Daniel	H.	84599
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	SAR	Sarasota	002	3	101	101	No	Daniel	H.	65323
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	CHA	Charlotte	002	4	68	68	Yes	Andrea	Teves	74525
@@ -2184,7 +2184,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	LEE	Lee	002	4	127	127	Yes	Andrea	Teves	234300
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	MAN	Manatee	002	4	70	70	Yes	Andrea	Teves	136716
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PAS	Pasco	002	4	111	111	Yes	Andrea	Teves	197433
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PIN	Pinellas	002	4	301	297	Yes	Andrea	Teves	348394
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PIN	Pinellas	002	4	301	301	Yes	Andrea	Teves	349582
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	POL	Polk	002	4	167	167	Yes	Andrea	Teves	215316
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	SAR	Sarasota	002	4	101	101	Yes	Andrea	Teves	157256
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	CHA	Charlotte	002	4	68	68	No	Andrea	Teves	22994
@@ -2198,7 +2198,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	LEE	Lee	002	4	127	127	No	Andrea	Teves	64827
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	MAN	Manatee	002	4	70	70	No	Andrea	Teves	43199
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PAS	Pasco	002	4	111	111	No	Andrea	Teves	63563
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PIN	Pinellas	002	4	301	297	No	Andrea	Teves	130434
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PIN	Pinellas	002	4	301	301	No	Andrea	Teves	130833
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	POL	Polk	002	4	167	167	No	Andrea	Teves	72461
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	SAR	Sarasota	002	4	101	101	No	Andrea	Teves	57543
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Monica Gordo be retained in Office?	DAD	Miami-Dade	003	1	860	791	Yes	Monica		731385
@@ -2390,13 +2390,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	FRA	Franklin	002	004	8	8	Baker	Tiffany		2776
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	GAD	Gadsden	002	004	25	25	Baker	Tiffany		15182
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	JEF	Jefferson	002	004	16	16	Baker	Tiffany		4225
-11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LEO	Leon	002	004	156	151	Baker	Tiffany		81918
+11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LEO	Leon	002	004	156	156	Baker	Tiffany		82091
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LIB	Liberty	002	004	8	8	Baker	Tiffany		1344
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	WAK	Wakulla	002	004	12	12	Baker	Tiffany		6886
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	FRA	Franklin	002	004	8	8	Wall	Amanda	P.	2938
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	GAD	Gadsden	002	004	25	25	Wall	Amanda	P.	6766
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	JEF	Jefferson	002	004	16	16	Wall	Amanda	P.	3344
-11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LEO	Leon	002	004	156	151	Wall	Amanda	P.	55369
+11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LEO	Leon	002	004	156	156	Wall	Amanda	P.	55516
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LIB	Liberty	002	004	8	8	Wall	Amanda	P.	1589
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	WAK	Wakulla	002	004	12	12	Wall	Amanda	P.	8910
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 7th Judicial Circuit, Group 14	FLA	Flagler	007	014	25	25	Anthony	Joan		34369
@@ -2443,7 +2443,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DES	Desoto			15	0	Yes for Approval	 	 	10668
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DIX	Dixie			10	10	Yes for Approval	 	 	7066
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DUV	Duval			199	195	Yes for Approval	 	 	380696
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	ESC	Escambia			80	78	Yes for Approval	 	 	134733
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	ESC	Escambia			80	80	Yes for Approval	 	 	135223
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	FLA	Flagler			25	25	Yes for Approval	 	 	53475
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	FRA	Franklin			8	8	Yes for Approval	 	 	5396
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	GAD	Gadsden			25	25	Yes for Approval	 	 	18135
@@ -2463,7 +2463,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LAF	Lafayette			5	5	Yes for Approval	 	 	3164
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LAK	Lake			103	103	Yes for Approval	 	 	171076
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEE	Lee			127	127	Yes for Approval	 	 	299564
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEO	Leon			156	151	Yes for Approval	 	 	99322
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEO	Leon			156	156	Yes for Approval	 	 	99623
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEV	Levy			13	13	Yes for Approval	 	 	18972
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LIB	Liberty			8	8	Yes for Approval	 	 	2979
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAD	Madison			11	11	Yes for Approval	 	 	7741
@@ -2478,10 +2478,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	OSC	Osceola			100	13	Yes for Approval	 	 	109973
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PAL	Palm Beach			871	827	Yes for Approval	 	 	541260
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PAS	Pasco			111	111	Yes for Approval	 	 	241998
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PIN	Pinellas			301	297	Yes for Approval	 	 	397617
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PIN	Pinellas			301	301	Yes for Approval	 	 	399057
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	POL	Polk			167	167	Yes for Approval	 	 	262531
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PUT	Putnam			35	35	Yes for Approval	 	 	30780
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAN	Santa Rosa			41	41	Yes for Approval	 	 	87024
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAN	Santa Rosa			41	41	Yes for Approval	 	 	88291
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAR	Sarasota			101	101	Yes for Approval	 	 	197205
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SEM	Seminole			91	79	Yes for Approval	 	 	181664
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STJ	St. Johns			48	48	Yes for Approval	 	 	136429
@@ -2510,7 +2510,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DES	Desoto			15	0	No for Rejection	 	 	1525
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DIX	Dixie			10	10	No for Rejection	 	 	709
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DUV	Duval			199	195	No for Rejection	 	 	93004
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	ESC	Escambia			80	78	No for Rejection	 	 	24769
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	ESC	Escambia			80	80	No for Rejection	 	 	24822
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	FLA	Flagler			25	25	No for Rejection	 	 	12992
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	FRA	Franklin			8	8	No for Rejection	 	 	1165
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	GAD	Gadsden			25	25	No for Rejection	 	 	5089
@@ -2530,7 +2530,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LAF	Lafayette			5	5	No for Rejection	 	 	404
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LAK	Lake			103	103	No for Rejection	 	 	31785
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEE	Lee			127	127	No for Rejection	 	 	56493
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEO	Leon			156	151	No for Rejection	 	 	56688
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEO	Leon			156	156	No for Rejection	 	 	56735
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEV	Levy			13	13	No for Rejection	 	 	2961
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LIB	Liberty			8	8	No for Rejection	 	 	414
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAD	Madison			11	11	No for Rejection	 	 	1296
@@ -2545,10 +2545,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	OSC	Osceola			100	13	No for Rejection	 	 	26907
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PAL	Palm Beach			871	827	No for Rejection	 	 	170350
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PAS	Pasco			111	111	No for Rejection	 	 	43083
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PIN	Pinellas			301	297	No for Rejection	 	 	120970
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PIN	Pinellas			301	301	No for Rejection	 	 	121315
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	POL	Polk			167	167	No for Rejection	 	 	57522
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PUT	Putnam			35	35	No for Rejection	 	 	4060
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAN	Santa Rosa			41	41	No for Rejection	 	 	11100
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAN	Santa Rosa			41	41	No for Rejection	 	 	11214
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAR	Sarasota			101	101	No for Rejection	 	 	58404
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SEM	Seminole			91	79	No for Rejection	 	 	59810
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STJ	St. Johns			48	48	No for Rejection	 	 	31289
@@ -2577,7 +2577,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DES	Desoto			15	0	Yes for Approval	 	 	5635
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DIX	Dixie			10	10	Yes for Approval	 	 	2970
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DUV	Duval			199	195	Yes for Approval	 	 	277666
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	ESC	Escambia			80	78	Yes for Approval	 	 	89598
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	ESC	Escambia			80	80	Yes for Approval	 	 	89844
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	FLA	Flagler			25	25	Yes for Approval	 	 	39315
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	FRA	Franklin			8	8	Yes for Approval	 	 	3172
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	GAD	Gadsden			25	25	Yes for Approval	 	 	15492
@@ -2597,7 +2597,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LAF	Lafayette			5	5	Yes for Approval	 	 	1196
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LAK	Lake			103	103	Yes for Approval	 	 	114792
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEE	Lee			127	127	Yes for Approval	 	 	208409
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEO	Leon			156	151	Yes for Approval	 	 	94921
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEO	Leon			156	156	Yes for Approval	 	 	95095
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEV	Levy			13	13	Yes for Approval	 	 	9922
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LIB	Liberty			8	8	Yes for Approval	 	 	1201
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAD	Madison			11	11	Yes for Approval	 	 	4365
@@ -2612,10 +2612,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	OSC	Osceola			100	13	Yes for Approval	 	 	98869
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PAL	Palm Beach			871	827	Yes for Approval	 	 	492766
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PAS	Pasco			111	111	Yes for Approval	 	 	159056
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PIN	Pinellas			301	297	Yes for Approval	 	 	310497
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PIN	Pinellas			301	301	Yes for Approval	 	 	311410
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	POL	Polk			167	167	Yes for Approval	 	 	181746
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PUT	Putnam			35	35	Yes for Approval	 	 	16187
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAN	Santa Rosa			41	41	Yes for Approval	 	 	45004
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAN	Santa Rosa			41	41	Yes for Approval	 	 	45594
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAR	Sarasota			101	101	Yes for Approval	 	 	149549
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SEM	Seminole			91	79	Yes for Approval	 	 	147453
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STJ	St. Johns			48	48	Yes for Approval	 	 	84084
@@ -2644,7 +2644,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DES	Desoto			15	0	No for Rejection	 	 	6603
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DIX	Dixie			10	10	No for Rejection	 	 	4883
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DUV	Duval			199	195	No for Rejection	 	 	200161
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	ESC	Escambia			80	78	No for Rejection	 	 	69886
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	ESC	Escambia			80	80	No for Rejection	 	 	70181
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	FLA	Flagler			25	25	No for Rejection	 	 	27818
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	FRA	Franklin			8	8	No for Rejection	 	 	3434
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	GAD	Gadsden			25	25	No for Rejection	 	 	7832
@@ -2664,7 +2664,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LAF	Lafayette			5	5	No for Rejection	 	 	2388
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LAK	Lake			103	103	No for Rejection	 	 	88808
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEE	Lee			127	127	No for Rejection	 	 	152397
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEO	Leon			156	151	No for Rejection	 	 	63043
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEO	Leon			156	156	No for Rejection	 	 	63217
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEV	Levy			13	13	No for Rejection	 	 	12331
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LIB	Liberty			8	8	No for Rejection	 	 	2240
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAD	Madison			11	11	No for Rejection	 	 	4751
@@ -2679,10 +2679,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	OSC	Osceola			100	13	No for Rejection	 	 	37560
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PAL	Palm Beach			871	827	No for Rejection	 	 	224380
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PAS	Pasco			111	111	No for Rejection	 	 	126178
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PIN	Pinellas			301	297	No for Rejection	 	 	209859
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PIN	Pinellas			301	301	No for Rejection	 	 	210737
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	POL	Polk			167	167	No for Rejection	 	 	138918
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PUT	Putnam			35	35	No for Rejection	 	 	18596
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAN	Santa Rosa			41	41	No for Rejection	 	 	52297
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAN	Santa Rosa			41	41	No for Rejection	 	 	53089
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAR	Sarasota			101	101	No for Rejection	 	 	106808
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SEM	Seminole			91	79	No for Rejection	 	 	97540
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STJ	St. Johns			48	48	No for Rejection	 	 	85289
@@ -2711,7 +2711,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DES	Desoto			15	0	Yes for Approval	 	 	6829
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DIX	Dixie			10	10	Yes for Approval	 	 	3749
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DUV	Duval			199	195	Yes for Approval	 	 	273583
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ESC	Escambia			80	78	Yes for Approval	 	 	99369
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ESC	Escambia			80	80	Yes for Approval	 	 	99718
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	FLA	Flagler			25	25	Yes for Approval	 	 	34426
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	FRA	Franklin			8	8	Yes for Approval	 	 	3520
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	GAD	Gadsden			25	25	Yes for Approval	 	 	13599
@@ -2731,7 +2731,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LAF	Lafayette			5	5	Yes for Approval	 	 	1718
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LAK	Lake			103	103	Yes for Approval	 	 	116364
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEE	Lee			127	127	Yes for Approval	 	 	204665
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEO	Leon			156	151	Yes for Approval	 	 	77923
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEO	Leon			156	156	Yes for Approval	 	 	78147
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEV	Levy			13	13	Yes for Approval	 	 	11567
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LIB	Liberty			8	8	Yes for Approval	 	 	1794
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAD	Madison			11	11	Yes for Approval	 	 	4882
@@ -2746,10 +2746,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	OSC	Osceola			100	13	Yes for Approval	 	 	89795
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PAL	Palm Beach			871	827	Yes for Approval	 	 	400651
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PAS	Pasco			111	111	Yes for Approval	 	 	169312
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PIN	Pinellas			301	297	Yes for Approval	 	 	284504
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PIN	Pinellas			301	301	Yes for Approval	 	 	285560
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	POL	Polk			167	167	Yes for Approval	 	 	178563
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PUT	Putnam			35	35	Yes for Approval	 	 	20038
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAN	Santa Rosa			41	41	Yes for Approval	 	 	55907
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAN	Santa Rosa			41	41	Yes for Approval	 	 	56768
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAR	Sarasota			101	101	Yes for Approval	 	 	128141
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SEM	Seminole			91	79	Yes for Approval	 	 	131341
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STJ	St. Johns			48	48	Yes for Approval	 	 	84187
@@ -2778,7 +2778,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DES	Desoto			15	0	No for Rejection	 	 	4839
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DIX	Dixie			10	10	No for Rejection	 	 	3688
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DUV	Duval			199	195	No for Rejection	 	 	194764
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ESC	Escambia			80	78	No for Rejection	 	 	57420
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ESC	Escambia			80	80	No for Rejection	 	 	57604
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	FLA	Flagler			25	25	No for Rejection	 	 	30549
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	FRA	Franklin			8	8	No for Rejection	 	 	2860
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	GAD	Gadsden			25	25	No for Rejection	 	 	9282
@@ -2798,7 +2798,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LAF	Lafayette			5	5	No for Rejection	 	 	1762
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LAK	Lake			103	103	No for Rejection	 	 	84157
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEE	Lee			127	127	No for Rejection	 	 	147603
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEO	Leon			156	151	No for Rejection	 	 	75525
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEO	Leon			156	156	No for Rejection	 	 	75643
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEV	Levy			13	13	No for Rejection	 	 	10124
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LIB	Liberty			8	8	No for Rejection	 	 	1476
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAD	Madison			11	11	No for Rejection	 	 	4026
@@ -2813,10 +2813,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	OSC	Osceola			100	13	No for Rejection	 	 	44309
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PAL	Palm Beach			871	827	No for Rejection	 	 	300767
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PAS	Pasco			111	111	No for Rejection	 	 	110484
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PIN	Pinellas			301	297	No for Rejection	 	 	226234
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PIN	Pinellas			301	301	No for Rejection	 	 	226913
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	POL	Polk			167	167	No for Rejection	 	 	130895
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PUT	Putnam			35	35	No for Rejection	 	 	14692
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAN	Santa Rosa			41	41	No for Rejection	 	 	39707
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAN	Santa Rosa			41	41	No for Rejection	 	 	40201
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAR	Sarasota			101	101	No for Rejection	 	 	122558
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SEM	Seminole			91	79	No for Rejection	 	 	107775
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STJ	St. Johns			48	48	No for Rejection	 	 	82655
@@ -2845,7 +2845,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DES	Desoto			15	0	Yes for Approval	 	 	6009
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DIX	Dixie			10	10	Yes for Approval	 	 	3777
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DUV	Duval			199	195	Yes for Approval	 	 	219974
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	ESC	Escambia			80	78	Yes for Approval	 	 	84346
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	ESC	Escambia			80	80	Yes for Approval	 	 	84679
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	FLA	Flagler			25	25	Yes for Approval	 	 	29424
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	FRA	Franklin			8	8	Yes for Approval	 	 	2833
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	GAD	Gadsden			25	25	Yes for Approval	 	 	12378
@@ -2865,7 +2865,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LAF	Lafayette			5	5	Yes for Approval	 	 	1845
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LAK	Lake			103	103	Yes for Approval	 	 	97918
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEE	Lee			127	127	Yes for Approval	 	 	165170
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEO	Leon			156	151	Yes for Approval	 	 	61689
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEO	Leon			156	156	Yes for Approval	 	 	61911
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEV	Levy			13	13	Yes for Approval	 	 	11264
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LIB	Liberty			8	8	Yes for Approval	 	 	1678
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAD	Madison			11	11	Yes for Approval	 	 	4767
@@ -2880,10 +2880,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	OSC	Osceola			100	13	Yes for Approval	 	 	71466
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PAL	Palm Beach			871	827	Yes for Approval	 	 	314110
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PAS	Pasco			111	111	Yes for Approval	 	 	142878
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PIN	Pinellas			301	297	Yes for Approval	 	 	231937
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PIN	Pinellas			301	301	Yes for Approval	 	 	232795
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	POL	Polk			167	167	Yes for Approval	 	 	152618
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PUT	Putnam			35	35	Yes for Approval	 	 	19643
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAN	Santa Rosa			41	41	Yes for Approval	 	 	50033
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAN	Santa Rosa			41	41	Yes for Approval	 	 	50752
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAR	Sarasota			101	101	Yes for Approval	 	 	107250
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SEM	Seminole			91	79	Yes for Approval	 	 	104715
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STJ	St. Johns			48	48	Yes for Approval	 	 	82171
@@ -2912,7 +2912,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DES	Desoto			15	0	No for Rejection	 	 	5449
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DIX	Dixie			10	10	No for Rejection	 	 	3577
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DUV	Duval			199	195	No for Rejection	 	 	235589
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	ESC	Escambia			80	78	No for Rejection	 	 	74175
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	ESC	Escambia			80	80	No for Rejection	 	 	74375
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	FLA	Flagler			25	25	No for Rejection	 	 	35168
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	FRA	Franklin			8	8	No for Rejection	 	 	3391
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	GAD	Gadsden			25	25	No for Rejection	 	 	10268
@@ -2932,7 +2932,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LAF	Lafayette			5	5	No for Rejection	 	 	1600
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LAK	Lake			103	103	No for Rejection	 	 	101178
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEE	Lee			127	127	No for Rejection	 	 	183963
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEO	Leon			156	151	No for Rejection	 	 	89530
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEO	Leon			156	156	No for Rejection	 	 	89653
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEV	Levy			13	13	No for Rejection	 	 	10250
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LIB	Liberty			8	8	No for Rejection	 	 	1531
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAD	Madison			11	11	No for Rejection	 	 	4009
@@ -2947,10 +2947,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	OSC	Osceola			100	13	No for Rejection	 	 	64093
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PAL	Palm Beach			871	827	No for Rejection	 	 	365377
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PAS	Pasco			111	111	No for Rejection	 	 	138418
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PIN	Pinellas			301	297	No for Rejection	 	 	287751
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PIN	Pinellas			301	301	No for Rejection	 	 	288741
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	POL	Polk			167	167	No for Rejection	 	 	152835
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PUT	Putnam			35	35	No for Rejection	 	 	14880
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAN	Santa Rosa			41	41	No for Rejection	 	 	45154
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAN	Santa Rosa			41	41	No for Rejection	 	 	45775
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAR	Sarasota			101	101	No for Rejection	 	 	139993
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SEM	Seminole			91	79	No for Rejection	 	 	134440
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STJ	St. Johns			48	48	No for Rejection	 	 	83108
@@ -2979,7 +2979,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DES	Desoto			15	0	Yes for Approval	 	 	8155
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DIX	Dixie			10	10	Yes for Approval	 	 	5139
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DUV	Duval			199	195	Yes for Approval	 	 	330739
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ESC	Escambia			80	78	Yes for Approval	 	 	113976
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ESC	Escambia			80	80	Yes for Approval	 	 	114330
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	FLA	Flagler			25	25	Yes for Approval	 	 	48258
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	FRA	Franklin			8	8	Yes for Approval	 	 	4440
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	GAD	Gadsden			25	25	Yes for Approval	 	 	15390
@@ -2999,7 +2999,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LAF	Lafayette			5	5	Yes for Approval	 	 	2246
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LAK	Lake			103	103	Yes for Approval	 	 	145715
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEE	Lee			127	127	Yes for Approval	 	 	261418
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEO	Leon			156	151	Yes for Approval	 	 	92180
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEO	Leon			156	156	Yes for Approval	 	 	92440
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEV	Levy			13	13	Yes for Approval	 	 	14332
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LIB	Liberty			8	8	Yes for Approval	 	 	2098
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAD	Madison			11	11	Yes for Approval	 	 	6287
@@ -3014,10 +3014,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	OSC	Osceola			100	13	Yes for Approval	 	 	102002
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PAL	Palm Beach			871	827	Yes for Approval	 	 	535107
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PAS	Pasco			111	111	Yes for Approval	 	 	203837
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PIN	Pinellas			301	297	Yes for Approval	 	 	397164
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PIN	Pinellas			301	301	Yes for Approval	 	 	398594
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	POL	Polk			167	167	Yes for Approval	 	 	213863
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PUT	Putnam			35	35	Yes for Approval	 	 	25000
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAN	Santa Rosa			41	41	Yes for Approval	 	 	71608
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAN	Santa Rosa			41	41	Yes for Approval	 	 	72616
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAR	Sarasota			101	101	Yes for Approval	 	 	196678
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SEM	Seminole			91	79	Yes for Approval	 	 	174542
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STJ	St. Johns			48	48	Yes for Approval	 	 	118465
@@ -3046,7 +3046,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DES	Desoto			15	0	No for Rejection	 	 	3286
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DIX	Dixie			10	10	No for Rejection	 	 	2293
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DUV	Duval			199	195	No for Rejection	 	 	121533
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ESC	Escambia			80	78	No for Rejection	 	 	40717
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ESC	Escambia			80	80	No for Rejection	 	 	40875
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	FLA	Flagler			25	25	No for Rejection	 	 	15867
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	FRA	Franklin			8	8	No for Rejection	 	 	1864
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	GAD	Gadsden			25	25	No for Rejection	 	 	7290
@@ -3066,7 +3066,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LAF	Lafayette			5	5	No for Rejection	 	 	1129
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LAK	Lake			103	103	No for Rejection	 	 	49887
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEE	Lee			127	127	No for Rejection	 	 	79687
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEO	Leon			156	151	No for Rejection	 	 	56882
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEO	Leon			156	156	No for Rejection	 	 	56962
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEV	Levy			13	13	No for Rejection	 	 	7109
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LIB	Liberty			8	8	No for Rejection	 	 	1079
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAD	Madison			11	11	No for Rejection	 	 	2511
@@ -3081,10 +3081,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	OSC	Osceola			100	13	No for Rejection	 	 	29295
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PAL	Palm Beach			871	827	No for Rejection	 	 	146655
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PAS	Pasco			111	111	No for Rejection	 	 	62659
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PIN	Pinellas			301	297	No for Rejection	 	 	114848
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PIN	Pinellas			301	301	No for Rejection	 	 	115226
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	POL	Polk			167	167	No for Rejection	 	 	90939
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PUT	Putnam			35	35	No for Rejection	 	 	9078
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAN	Santa Rosa			41	41	No for Rejection	 	 	24114
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAN	Santa Rosa			41	41	No for Rejection	 	 	24436
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAR	Sarasota			101	101	No for Rejection	 	 	51997
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SEM	Seminole			91	79	No for Rejection	 	 	59936
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STJ	St. Johns			48	48	No for Rejection	 	 	44875
@@ -3113,7 +3113,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DES	Desoto			15	0	Yes for Approval	 	 	10353
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DIX	Dixie			10	10	Yes for Approval	 	 	6737
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DUV	Duval			199	195	Yes for Approval	 	 	414296
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	ESC	Escambia			80	78	Yes for Approval	 	 	141464
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	ESC	Escambia			80	80	Yes for Approval	 	 	141919
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	FLA	Flagler			25	25	Yes for Approval	 	 	60432
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	FRA	Franklin			8	8	Yes for Approval	 	 	5766
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	GAD	Gadsden			25	25	Yes for Approval	 	 	19810
@@ -3133,7 +3133,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LAF	Lafayette			5	5	Yes for Approval	 	 	3003
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LAK	Lake			103	103	Yes for Approval	 	 	180398
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEE	Lee			127	127	Yes for Approval	 	 	324189
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEO	Leon			156	151	Yes for Approval	 	 	130234
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEO	Leon			156	156	Yes for Approval	 	 	130544
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEV	Levy			13	13	Yes for Approval	 	 	19451
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LIB	Liberty			8	8	Yes for Approval	 	 	2787
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAD	Madison			11	11	Yes for Approval	 	 	7836
@@ -3148,10 +3148,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	OSC	Osceola			100	13	Yes for Approval	 	 	126791
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PAL	Palm Beach			871	827	Yes for Approval	 	 	633264
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PAS	Pasco			111	111	Yes for Approval	 	 	255883
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PIN	Pinellas			301	297	Yes for Approval	 	 	469755
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PIN	Pinellas			301	301	Yes for Approval	 	 	471446
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	POL	Polk			167	167	Yes for Approval	 	 	290171
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PUT	Putnam			35	35	Yes for Approval	 	 	31059
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAN	Santa Rosa			41	41	Yes for Approval	 	 	88866
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAN	Santa Rosa			41	41	Yes for Approval	 	 	90131
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAR	Sarasota			101	101	Yes for Approval	 	 	234359
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SEM	Seminole			91	79	Yes for Approval	 	 	218696
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STJ	St. Johns			48	48	Yes for Approval	 	 	150981
@@ -3180,7 +3180,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DES	Desoto			15	0	No for Rejection	 	 	1233
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DIX	Dixie			10	10	No for Rejection	 	 	852
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DUV	Duval			199	195	No for Rejection	 	 	47813
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	ESC	Escambia			80	78	No for Rejection	 	 	17371
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	ESC	Escambia			80	80	No for Rejection	 	 	17445
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	FLA	Flagler			25	25	No for Rejection	 	 	5293
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	FRA	Franklin			8	8	No for Rejection	 	 	682
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	GAD	Gadsden			25	25	No for Rejection	 	 	3096
@@ -3200,7 +3200,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LAF	Lafayette			5	5	No for Rejection	 	 	511
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LAK	Lake			103	103	No for Rejection	 	 	18516
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEE	Lee			127	127	No for Rejection	 	 	31246
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEO	Leon			156	151	No for Rejection	 	 	22545
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEO	Leon			156	156	No for Rejection	 	 	22582
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEV	Levy			13	13	No for Rejection	 	 	2403
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LIB	Liberty			8	8	No for Rejection	 	 	480
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAD	Madison			11	11	No for Rejection	 	 	1096
@@ -3215,10 +3215,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	OSC	Osceola			100	13	No for Rejection	 	 	11520
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PAL	Palm Beach			871	827	No for Rejection	 	 	59562
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PAS	Pasco			111	111	No for Rejection	 	 	27439
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PIN	Pinellas			301	297	No for Rejection	 	 	54072
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PIN	Pinellas			301	301	No for Rejection	 	 	54239
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	POL	Polk			167	167	No for Rejection	 	 	25994
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PUT	Putnam			35	35	No for Rejection	 	 	3519
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAN	Santa Rosa			41	41	No for Rejection	 	 	8820
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAN	Santa Rosa			41	41	No for Rejection	 	 	8925
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAR	Sarasota			101	101	No for Rejection	 	 	19391
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SEM	Seminole			91	79	No for Rejection	 	 	23642
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STJ	St. Johns			48	48	No for Rejection	 	 	15465
