@@ -39,7 +39,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Pence	Trump	 / 	16721
 11/03/2020	REP	Republican Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Pence	Trump	 / 	2846
 11/03/2020	REP	Republican Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Pence	Trump	 / 	5573
-11/03/2020	REP	Republican Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Pence	Trump	 / 	124541
+11/03/2020	REP	Republican Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Pence	Trump	 / 	124827
 11/03/2020	REP	Republican Party	PRE	President of the United States	MON	Monroe	   	 	33	33	Pence	Trump	 / 	25668
 11/03/2020	REP	Republican Party	PRE	President of the United States	MRN	Marion	   	 	122	122	Pence	Trump	 / 	127744
 11/03/2020	REP	Republican Party	PRE	President of the United States	MRT	Martin	   	 	28	28	Pence	Trump	 / 	61133
@@ -106,7 +106,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Harris	Biden	 / 	6189
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Harris	Biden	 / 	693
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Harris	Biden	 / 	3746
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Harris	Biden	 / 	89534
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Harris	Biden	 / 	90007
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	MON	Monroe	   	 	33	33	Harris	Biden	 / 	21848
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	MRN	Marion	   	 	122	122	Harris	Biden	 / 	74802
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	MRT	Martin	   	 	28	28	Harris	Biden	 / 	36873
@@ -173,7 +173,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Cohen	Jorgensen	 / 	130
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Cohen	Jorgensen	 / 	14
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Cohen	Jorgensen	 / 	32
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Cohen	Jorgensen	 / 	1278
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Cohen	Jorgensen	 / 	1284
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MON	Monroe	   	 	33	33	Cohen	Jorgensen	 / 	346
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MRN	Marion	   	 	122	122	Cohen	Jorgensen	 / 	1180
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MRT	Martin	   	 	28	28	Cohen	Jorgensen	 / 	448
@@ -240,7 +240,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Richardson	De La Fuente	 / 	14
 11/03/2020	REF	Reform Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Richardson	De La Fuente	 / 	2
 11/03/2020	REF	Reform Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Richardson	De La Fuente	 / 	3
-11/03/2020	REF	Reform Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Richardson	De La Fuente	 / 	95
+11/03/2020	REF	Reform Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Richardson	De La Fuente	 / 	96
 11/03/2020	REF	Reform Party	PRE	President of the United States	MON	Monroe	   	 	33	33	Richardson	De La Fuente	 / 	26
 11/03/2020	REF	Reform Party	PRE	President of the United States	MRN	Marion	   	 	122	122	Richardson	De La Fuente	 / 	90
 11/03/2020	REF	Reform Party	PRE	President of the United States	MRT	Martin	   	 	28	28	Richardson	De La Fuente	 / 	38
@@ -307,7 +307,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LEV	Levy	   	 	13	13	Freeman	La Riva	 / 	7
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LIB	Liberty	   	 	8	8	Freeman	La Riva	 / 	2
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	MAD	Madison	   	 	11	11	Freeman	La Riva	 / 	4
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	MAN	Manatee	   	 	70	70	Freeman	La Riva	 / 	77
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	MAN	Manatee	   	 	70	70	Freeman	La Riva	 / 	78
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	MON	Monroe	   	 	33	33	Freeman	La Riva	 / 	13
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	MRN	Marion	   	 	122	122	Freeman	La Riva	 / 	98
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	MRT	Martin	   	 	28	28	Freeman	La Riva	 / 	35
@@ -374,7 +374,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Walker	Hawkins	 / 	25
 11/03/2020	GRE	Green Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Walker	Hawkins	 / 	2
 11/03/2020	GRE	Green Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Walker	Hawkins	 / 	13
-11/03/2020	GRE	Green Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Walker	Hawkins	 / 	256
+11/03/2020	GRE	Green Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Walker	Hawkins	 / 	257
 11/03/2020	GRE	Green Party	PRE	President of the United States	MON	Monroe	   	 	33	33	Walker	Hawkins	 / 	51
 11/03/2020	GRE	Green Party	PRE	President of the United States	MRN	Marion	   	 	122	122	Walker	Hawkins	 / 	228
 11/03/2020	GRE	Green Party	PRE	President of the United States	MRT	Martin	   	 	28	28	Walker	Hawkins	 / 	105
@@ -441,7 +441,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Mohr	Blankenship	 / 	13
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Mohr	Blankenship	 / 	1
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Mohr	Blankenship	 / 	5
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Mohr	Blankenship	 / 	67
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	MAN	Manatee	   	 	70	70	Mohr	Blankenship	 / 	68
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	MON	Monroe	   	 	33	33	Mohr	Blankenship	 / 	12
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	MRN	Marion	   	 	122	122	Mohr	Blankenship	 / 	80
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	MRT	Martin	   	 	28	28	Mohr	Blankenship	 / 	37
@@ -1028,10 +1028,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 15	LAK	Lake	015	 	20	20	Cohn	Alan		29517
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 15	POL	Polk	015	 	65	65	Cohn	Alan		54811
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 16	HIL	Hillsborough	016	 	66	66	Buchanan	Vern		66286
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 16	MAN	Manatee	016	 	70	70	Buchanan	Vern		127608
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 16	MAN	Manatee	016	 	70	70	Buchanan	Vern		127906
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 16	SAR	Sarasota	016	 	50	50	Buchanan	Vern		74235
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 16	HIL	Hillsborough	016	 	66	66	Good	Margaret		61282
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 16	MAN	Manatee	016	 	70	70	Good	Margaret		86085
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 16	MAN	Manatee	016	 	70	70	Good	Margaret		86550
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 16	SAR	Sarasota	016	 	50	50	Good	Margaret		67330
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 17	CHA	Charlotte	017	 	68	68	Steube	Greg		73766
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 17	DES	Desoto	017	 	15	15	Steube	Greg		8156
@@ -1126,10 +1126,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NPA	No Party Affiliation	STA	State Attorney, 9th Judicial Circuit	ORA	Orange	009	 	247	247	Torroella	Jose		198577
 11/03/2020	NPA	No Party Affiliation	STA	State Attorney, 9th Judicial Circuit	OSC	Osceola	009	 	100	100	Torroella	Jose		59451
 11/03/2020	REP	Republican Party	STA	State Attorney, 12th Judicial Circuit	DES	Desoto	012	 	15	15	Brodsky	Ed		7732
-11/03/2020	REP	Republican Party	STA	State Attorney, 12th Judicial Circuit	MAN	Manatee	012	 	70	70	Brodsky	Ed		125438
+11/03/2020	REP	Republican Party	STA	State Attorney, 12th Judicial Circuit	MAN	Manatee	012	 	70	70	Brodsky	Ed		125726
 11/03/2020	REP	Republican Party	STA	State Attorney, 12th Judicial Circuit	SAR	Sarasota	012	 	101	101	Brodsky	Ed		148977
 11/03/2020	DEM	Democratic Party	STA	State Attorney, 12th Judicial Circuit	DES	Desoto	012	 	15	15	Young	Betsy		4525
-11/03/2020	DEM	Democratic Party	STA	State Attorney, 12th Judicial Circuit	MAN	Manatee	012	 	70	70	Young	Betsy		85355
+11/03/2020	DEM	Democratic Party	STA	State Attorney, 12th Judicial Circuit	MAN	Manatee	012	 	70	70	Young	Betsy		85811
 11/03/2020	DEM	Democratic Party	STA	State Attorney, 12th Judicial Circuit	SAR	Sarasota	012	 	101	101	Young	Betsy		111917
 11/03/2020	REP	Republican Party	STA	State Attorney, 13th Judicial Circuit	HIL	Hillsborough	013	 	390	390	Perotti	Mike		321344
 11/03/2020	DEM	Democratic Party	STA	State Attorney, 13th Judicial Circuit	HIL	Hillsborough	013	 	390	390	Warren	Andrew		367573
@@ -1231,9 +1231,9 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 20	PAS	Pasco	020	 	38	38	Lewis	Kathy		43067
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 20	POL	Polk	020	 	11	11	Lewis	Kathy		10228
 11/03/2020	REP	Republican Party	STS	State Senator, District 21	HIL	Hillsborough	021	 	56	56	Boyd	Jim		61116
-11/03/2020	REP	Republican Party	STS	State Senator, District 21	MAN	Manatee	021	 	70	70	Boyd	Jim		129920
+11/03/2020	REP	Republican Party	STS	State Senator, District 21	MAN	Manatee	021	 	70	70	Boyd	Jim		130219
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 21	HIL	Hillsborough	021	 	56	56	Eldon	Anthony	"Tony"	41083
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 21	MAN	Manatee	021	 	70	70	Eldon	Anthony	"Tony"	80708
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 21	MAN	Manatee	021	 	70	70	Eldon	Anthony	"Tony"	81142
 11/03/2020	REP	Republican Party	STS	State Senator, District 23	CHA	Charlotte	023	 	37	37	Gruters	Joe		40487
 11/03/2020	REP	Republican Party	STS	State Senator, District 23	SAR	Sarasota	023	 	101	101	Gruters	Joe		147354
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 23	CHA	Charlotte	023	 	37	37	Norman	Katherine		22492
@@ -1477,15 +1477,15 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 68	PIN	Pinellas	068	 	48	48	Diamond	Ben		49861
 11/03/2020	REP	Republican Party	STR	State Representative, District 69	PIN	Pinellas	069	 	63	63	Chaney	Linda		51357
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 69	PIN	Pinellas	069	 	63	63	Webb	Jennifer	N.	46534
-11/03/2020	REP	Republican Party	STR	State Representative, District 71	MAN	Manatee	071	 	33	33	Robinson	Will		43573
+11/03/2020	REP	Republican Party	STR	State Representative, District 71	MAN	Manatee	071	 	33	33	Robinson	Will		43695
 11/03/2020	REP	Republican Party	STR	State Representative, District 71	SAR	Sarasota	071	 	12	12	Robinson	Will		7976
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 71	MAN	Manatee	071	 	33	33	Mele	Andy		29171
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 71	MAN	Manatee	071	 	33	33	Mele	Andy		29341
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 71	SAR	Sarasota	071	 	12	12	Mele	Andy		8359
 11/03/2020	REP	Republican Party	STR	State Representative, District 72	SAR	Sarasota	072	 	34	34	McFarland	Fiona		54798
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 72	SAR	Sarasota	072	 	34	34	Buckman	Drake		45526
-11/03/2020	REP	Republican Party	STR	State Representative, District 73	MAN	Manatee	073	 	32	32	Gregory	Tommy		77956
+11/03/2020	REP	Republican Party	STR	State Representative, District 73	MAN	Manatee	073	 	32	32	Gregory	Tommy		78113
 11/03/2020	REP	Republican Party	STR	State Representative, District 73	SAR	Sarasota	073	 	5	5	Gregory	Tommy		12278
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 73	MAN	Manatee	073	 	32	32	Fairey	David	Reeves	43310
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 73	MAN	Manatee	073	 	32	32	Fairey	David	Reeves	43523
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 73	SAR	Sarasota	073	 	5	5	Fairey	David	Reeves	6226
 11/03/2020	REP	Republican Party	STR	State Representative, District 74	SAR	Sarasota	074	 	48	48	Buchanan	James		73319
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 74	SAR	Sarasota	074	 	48	48	Stortstrom	Lisa		44820
@@ -1611,7 +1611,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEV	Levy	   	1	13	13	Yes	Carlos	G.	13367
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LIB	Liberty	   	1	8	8	Yes	Carlos	G.	1877
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAD	Madison	   	1	11	11	Yes	Carlos	G.	5220
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAN	Manatee	   	1	70	70	Yes	Carlos	G.	131078
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAN	Manatee	   	1	70	70	Yes	Carlos	G.	131448
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MON	Monroe	   	1	33	33	Yes	Carlos	G.	25563
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MRN	Marion	   	1	122	122	Yes	Carlos	G.	122281
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MRT	Martin	   	1	28	28	Yes	Carlos	G.	61082
@@ -1678,7 +1678,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEV	Levy	   	1	13	13	No	Carlos	G.	6966
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LIB	Liberty	   	1	8	8	No	Carlos	G.	1138
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAD	Madison	   	1	11	11	No	Carlos	G.	3221
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAN	Manatee	   	1	70	70	No	Carlos	G.	54334
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAN	Manatee	   	1	70	70	No	Carlos	G.	54589
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MON	Monroe	   	1	33	33	No	Carlos	G.	14569
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MRN	Marion	   	1	122	122	No	Carlos	G.	54152
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MRT	Martin	   	1	28	28	No	Carlos	G.	22467
@@ -2098,7 +2098,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	HIG	Highlands	002	1	25	25	Yes	Drew		34493
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	HIL	Hillsborough	002	1	390	390	Yes	Drew		418520
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	LEE	Lee	002	1	127	127	Yes	Drew		231379
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	MAN	Manatee	002	1	70	70	Yes	Drew		134258
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	MAN	Manatee	002	1	70	70	Yes	Drew		134658
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PAS	Pasco	002	1	111	111	Yes	Drew		190874
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PIN	Pinellas	002	1	301	301	Yes	Drew		333001
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	POL	Polk	002	1	167	167	Yes	Drew		213280
@@ -2112,7 +2112,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	HIG	Highlands	002	1	25	25	No	Drew		11382
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	HIL	Hillsborough	002	1	390	390	No	Drew		202962
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	LEE	Lee	002	1	127	127	No	Drew		76703
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	MAN	Manatee	002	1	70	70	No	Drew		49408
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	MAN	Manatee	002	1	70	70	No	Drew		49634
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PAS	Pasco	002	1	111	111	No	Drew		74305
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	PIN	Pinellas	002	1	301	301	No	Drew		153102
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Drew Atkinson be retained in Office?	POL	Polk	002	1	167	167	No	Drew		88671
@@ -2126,7 +2126,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	HIG	Highlands	002	2	25	25	Yes	Morris		33462
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	HIL	Hillsborough	002	2	390	390	Yes	Morris		417816
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	LEE	Lee	002	2	127	127	Yes	Morris		230948
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	MAN	Manatee	002	2	70	70	Yes	Morris		133737
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	MAN	Manatee	002	2	70	70	Yes	Morris		134176
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PAS	Pasco	002	2	111	111	Yes	Morris		187666
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PIN	Pinellas	002	2	301	301	Yes	Morris		339614
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	POL	Polk	002	2	167	167	Yes	Morris		207612
@@ -2140,7 +2140,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	HIG	Highlands	002	2	25	25	No	Morris		12195
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	HIL	Hillsborough	002	2	390	390	No	Morris		201236
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	LEE	Lee	002	2	127	127	No	Morris		74877
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	MAN	Manatee	002	2	70	70	No	Morris		49289
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	MAN	Manatee	002	2	70	70	No	Morris		49478
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PAS	Pasco	002	2	111	111	No	Morris		75992
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	PIN	Pinellas	002	2	301	301	No	Morris		143616
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Morris Silberman be retained in Office?	POL	Polk	002	2	167	167	No	Morris		93266
@@ -2154,7 +2154,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	HIG	Highlands	002	3	25	25	Yes	Daniel	H.	34278
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	HIL	Hillsborough	002	3	390	390	Yes	Daniel	H.	417510
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	LEE	Lee	002	3	127	127	Yes	Daniel	H.	228823
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	MAN	Manatee	002	3	70	70	Yes	Daniel	H.	132615
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	MAN	Manatee	002	3	70	70	Yes	Daniel	H.	133029
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PAS	Pasco	002	3	111	111	Yes	Daniel	H.	189495
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PIN	Pinellas	002	3	301	301	Yes	Daniel	H.	330788
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	POL	Polk	002	3	167	167	Yes	Daniel	H.	210557
@@ -2168,7 +2168,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	HIG	Highlands	002	3	25	25	No	Daniel	H.	11236
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	HIL	Hillsborough	002	3	390	390	No	Daniel	H.	200718
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	LEE	Lee	002	3	127	127	No	Daniel	H.	74779
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	MAN	Manatee	002	3	70	70	No	Daniel	H.	49622
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	MAN	Manatee	002	3	70	70	No	Daniel	H.	49834
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PAS	Pasco	002	3	111	111	No	Daniel	H.	74019
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	PIN	Pinellas	002	3	301	301	No	Daniel	H.	151586
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Daniel H. Sleet be retained in Office?	POL	Polk	002	3	167	167	No	Daniel	H.	87607
@@ -2182,7 +2182,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	HIG	Highlands	002	4	25	25	Yes	Andrea	Teves	34778
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	HIL	Hillsborough	002	4	390	390	Yes	Andrea	Teves	452308
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	LEE	Lee	002	4	127	127	Yes	Andrea	Teves	236874
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	MAN	Manatee	002	4	70	70	Yes	Andrea	Teves	138327
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	MAN	Manatee	002	4	70	70	Yes	Andrea	Teves	138767
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PAS	Pasco	002	4	111	111	Yes	Andrea	Teves	199119
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PIN	Pinellas	002	4	301	301	Yes	Andrea	Teves	350715
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	POL	Polk	002	4	167	167	Yes	Andrea	Teves	221834
@@ -2196,7 +2196,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	HIG	Highlands	002	4	25	25	No	Andrea	Teves	10445
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	HIL	Hillsborough	002	4	390	390	No	Andrea	Teves	165877
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	LEE	Lee	002	4	127	127	No	Andrea	Teves	65631
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	MAN	Manatee	002	4	70	70	No	Andrea	Teves	43740
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	MAN	Manatee	002	4	70	70	No	Andrea	Teves	43925
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PAS	Pasco	002	4	111	111	No	Andrea	Teves	64107
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PIN	Pinellas	002	4	301	301	No	Andrea	Teves	131367
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	POL	Polk	002	4	167	167	No	Andrea	Teves	74749
@@ -2467,7 +2467,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEV	Levy			13	13	Yes for Approval	 	 	18972
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LIB	Liberty			8	8	Yes for Approval	 	 	2979
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAD	Madison			11	11	Yes for Approval	 	 	7746
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAN	Manatee			70	70	Yes for Approval	 	 	173365
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAN	Manatee			70	70	Yes for Approval	 	 	173895
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MON	Monroe			33	33	Yes for Approval	 	 	37297
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MRN	Marion			122	122	Yes for Approval	 	 	166487
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MRT	Martin			28	28	Yes for Approval	 	 	78545
@@ -2534,7 +2534,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEV	Levy			13	13	No for Rejection	 	 	2961
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LIB	Liberty			8	8	No for Rejection	 	 	414
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAD	Madison			11	11	No for Rejection	 	 	1298
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAN	Manatee			70	70	No for Rejection	 	 	33202
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAN	Manatee			70	70	No for Rejection	 	 	33398
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MON	Monroe			33	33	No for Rejection	 	 	8722
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MRN	Marion			122	122	No for Rejection	 	 	30539
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MRT	Martin			28	28	No for Rejection	 	 	16926
@@ -2601,7 +2601,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEV	Levy			13	13	Yes for Approval	 	 	9922
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LIB	Liberty			8	8	Yes for Approval	 	 	1201
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAD	Madison			11	11	Yes for Approval	 	 	4368
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAN	Manatee			70	70	Yes for Approval	 	 	114473
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAN	Manatee			70	70	Yes for Approval	 	 	114966
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MON	Monroe			33	33	Yes for Approval	 	 	26964
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MRN	Marion			122	122	Yes for Approval	 	 	110020
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MRT	Martin			28	28	Yes for Approval	 	 	54706
@@ -2668,7 +2668,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEV	Levy			13	13	No for Rejection	 	 	12331
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LIB	Liberty			8	8	No for Rejection	 	 	2240
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAD	Madison			11	11	No for Rejection	 	 	4755
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAN	Manatee			70	70	No for Rejection	 	 	94161
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAN	Manatee			70	70	No for Rejection	 	 	94407
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MON	Monroe			33	33	No for Rejection	 	 	19461
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MRN	Marion			122	122	No for Rejection	 	 	88002
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MRT	Martin			28	28	No for Rejection	 	 	41195
@@ -2735,7 +2735,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEV	Levy			13	13	Yes for Approval	 	 	11567
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LIB	Liberty			8	8	Yes for Approval	 	 	1794
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAD	Madison			11	11	Yes for Approval	 	 	4888
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAN	Manatee			70	70	Yes for Approval	 	 	111376
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAN	Manatee			70	70	Yes for Approval	 	 	111782
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MON	Monroe			33	33	Yes for Approval	 	 	26137
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MRN	Marion			122	122	Yes for Approval	 	 	106025
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MRT	Martin			28	28	Yes for Approval	 	 	50553
@@ -2802,7 +2802,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEV	Levy			13	13	No for Rejection	 	 	10124
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LIB	Liberty			8	8	No for Rejection	 	 	1476
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAD	Madison			11	11	No for Rejection	 	 	4027
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAN	Manatee			70	70	No for Rejection	 	 	93427
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAN	Manatee			70	70	No for Rejection	 	 	93703
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MON	Monroe			33	33	No for Rejection	 	 	18666
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MRN	Marion			122	122	No for Rejection	 	 	82700
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MRT	Martin			28	28	No for Rejection	 	 	41250
@@ -2869,7 +2869,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEV	Levy			13	13	Yes for Approval	 	 	11264
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LIB	Liberty			8	8	Yes for Approval	 	 	1678
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAD	Madison			11	11	Yes for Approval	 	 	4772
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAN	Manatee			70	70	Yes for Approval	 	 	95573
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAN	Manatee			70	70	Yes for Approval	 	 	95858
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MON	Monroe			33	33	Yes for Approval	 	 	19450
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MRN	Marion			122	122	Yes for Approval	 	 	91212
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MRT	Martin			28	28	Yes for Approval	 	 	43216
@@ -2936,7 +2936,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEV	Levy			13	13	No for Rejection	 	 	10250
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LIB	Liberty			8	8	No for Rejection	 	 	1531
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAD	Madison			11	11	No for Rejection	 	 	4010
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAN	Manatee			70	70	No for Rejection	 	 	107865
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAN	Manatee			70	70	No for Rejection	 	 	108252
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MON	Monroe			33	33	No for Rejection	 	 	24550
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MRN	Marion			122	122	No for Rejection	 	 	94005
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MRT	Martin			28	28	No for Rejection	 	 	47533
@@ -3003,7 +3003,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEV	Levy			13	13	Yes for Approval	 	 	14332
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LIB	Liberty			8	8	Yes for Approval	 	 	2098
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAD	Madison			11	11	Yes for Approval	 	 	6293
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAN	Manatee			70	70	Yes for Approval	 	 	144707
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAN	Manatee			70	70	Yes for Approval	 	 	145166
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MON	Monroe			33	33	Yes for Approval	 	 	32301
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MRN	Marion			122	122	Yes for Approval	 	 	135123
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MRT	Martin			28	28	Yes for Approval	 	 	68398
@@ -3070,7 +3070,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEV	Levy			13	13	No for Rejection	 	 	7109
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LIB	Liberty			8	8	No for Rejection	 	 	1079
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAD	Madison			11	11	No for Rejection	 	 	2512
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAN	Manatee			70	70	No for Rejection	 	 	54224
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAN	Manatee			70	70	No for Rejection	 	 	54411
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MON	Monroe			33	33	No for Rejection	 	 	11513
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MRN	Marion			122	122	No for Rejection	 	 	44598
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MRT	Martin			28	28	No for Rejection	 	 	18555
@@ -3137,7 +3137,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEV	Levy			13	13	Yes for Approval	 	 	19451
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LIB	Liberty			8	8	Yes for Approval	 	 	2787
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAD	Madison			11	11	Yes for Approval	 	 	7842
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAN	Manatee			70	70	Yes for Approval	 	 	180600
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAN	Manatee			70	70	Yes for Approval	 	 	181186
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MON	Monroe			33	33	Yes for Approval	 	 	40094
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MRN	Marion			122	122	Yes for Approval	 	 	172036
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MRT	Martin			28	28	Yes for Approval	 	 	83985
@@ -3204,7 +3204,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEV	Levy			13	13	No for Rejection	 	 	2403
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LIB	Liberty			8	8	No for Rejection	 	 	480
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAD	Madison			11	11	No for Rejection	 	 	1097
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAN	Manatee			70	70	No for Rejection	 	 	21070
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAN	Manatee			70	70	No for Rejection	 	 	21145
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MON	Monroe			33	33	No for Rejection	 	 	5076
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MRN	Marion			122	122	No for Rejection	 	 	16826
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MRT	Martin			28	28	No for Rejection	 	 	8404
