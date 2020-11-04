@@ -7,7 +7,7 @@ df2 = pd.crosstab(df["County Name"], df["Candidate Name"], df["Votes"], aggfunc=
 results = pd.DataFrame()
 
 results["county"] = df2["County Name"].str.title()
-df2["county"] = df2["County Name"].str.title()
+df2["County Name"] = df2["County Name"].str.title()
 
 results.replace({"Mckean":"McKean"}, inplace=True)
 df2.replace({"Mckean":"McKean"}, inplace=True)
