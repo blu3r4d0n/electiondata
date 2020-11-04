@@ -11,7 +11,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	CLA	Clay	   	 	47	47	Pence	Trump	 / 	84422
 11/03/2020	REP	Republican Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Pence	Trump	 / 	128820
 11/03/2020	REP	Republican Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Pence	Trump	 / 	23819
-11/03/2020	REP	Republican Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Pence	Trump	 / 	530303
+11/03/2020	REP	Republican Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Pence	Trump	 / 	532409
 11/03/2020	REP	Republican Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Pence	Trump	 / 	8292
 11/03/2020	REP	Republican Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Pence	Trump	 / 	6757
 11/03/2020	REP	Republican Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Pence	Trump	 / 	232846
@@ -78,7 +78,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	CLA	Clay	   	 	47	47	Harris	Biden	 / 	38248
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Harris	Biden	 / 	77529
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Harris	Biden	 / 	8900
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Harris	Biden	 / 	613656
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Harris	Biden	 / 	617201
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Harris	Biden	 / 	4249
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Harris	Biden	 / 	1364
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Harris	Biden	 / 	250942
@@ -145,7 +145,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	CLA	Clay	   	 	47	47	Cohen	Jorgensen	 / 	1280
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Cohen	Jorgensen	 / 	887
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Cohen	Jorgensen	 / 	224
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Cohen	Jorgensen	 / 	3284
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Cohen	Jorgensen	 / 	3325
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Cohen	Jorgensen	 / 	52
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Cohen	Jorgensen	 / 	27
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Cohen	Jorgensen	 / 	4726
@@ -212,7 +212,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	CLA	Clay	   	 	47	47	Richardson	De La Fuente	 / 	45
 11/03/2020	REF	Reform Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Richardson	De La Fuente	 / 	64
 11/03/2020	REF	Reform Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Richardson	De La Fuente	 / 	12
-11/03/2020	REF	Reform Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Richardson	De La Fuente	 / 	595
+11/03/2020	REF	Reform Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Richardson	De La Fuente	 / 	602
 11/03/2020	REF	Reform Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Richardson	De La Fuente	 / 	12
 11/03/2020	REF	Reform Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Richardson	De La Fuente	 / 	5
 11/03/2020	REF	Reform Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Richardson	De La Fuente	 / 	319
@@ -279,7 +279,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	CLA	Clay	   	 	47	47	Freeman	La Riva	 / 	54
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	CLL	Collier	   	 	60	60	Freeman	La Riva	 / 	49
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	CLM	Columbia	   	 	22	22	Freeman	La Riva	 / 	20
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Freeman	La Riva	 / 	570
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Freeman	La Riva	 / 	578
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DES	Desoto	   	 	15	15	Freeman	La Riva	 / 	11
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DIX	Dixie	   	 	10	10	Freeman	La Riva	 / 	2
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	DUV	Duval	   	 	199	199	Freeman	La Riva	 / 	328
@@ -346,7 +346,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	CLA	Clay	   	 	47	47	Walker	Hawkins	 / 	153
 11/03/2020	GRE	Green Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Walker	Hawkins	 / 	186
 11/03/2020	GRE	Green Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Walker	Hawkins	 / 	28
-11/03/2020	GRE	Green Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Walker	Hawkins	 / 	1268
+11/03/2020	GRE	Green Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Walker	Hawkins	 / 	1284
 11/03/2020	GRE	Green Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Walker	Hawkins	 / 	8
 11/03/2020	GRE	Green Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Walker	Hawkins	 / 	5
 11/03/2020	GRE	Green Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Walker	Hawkins	 / 	755
@@ -413,7 +413,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	CLA	Clay	   	 	47	47	Mohr	Blankenship	 / 	57
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	CLL	Collier	   	 	60	60	Mohr	Blankenship	 / 	39
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	CLM	Columbia	   	 	22	22	Mohr	Blankenship	 / 	8
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Mohr	Blankenship	 / 	291
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	DAD	Miami-Dade	   	 	866	866	Mohr	Blankenship	 / 	293
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	DES	Desoto	   	 	15	15	Mohr	Blankenship	 / 	4
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	DIX	Dixie	   	 	10	10	Mohr	Blankenship	 / 	4
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	DUV	Duval	   	 	199	199	Mohr	Blankenship	 / 	215
@@ -1089,29 +1089,29 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 22	BRO	Broward	022	 	212	212	Deutch	Ted		192594
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 22	PAL	Palm Beach	022	 	59	59	Deutch	Ted		42104
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 23	BRO	Broward	023	 	211	211	Spalding	Carla		141659
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 23	DAD	Miami-Dade	023	 	22	22	Spalding	Carla		16904
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 23	DAD	Miami-Dade	023	 	22	22	Spalding	Carla		16972
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 23	BRO	Broward	023	 	211	211	Wasserman Schultz	Debbie		203574
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 23	DAD	Miami-Dade	023	 	22	22	Wasserman Schultz	Debbie		17197
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 23	DAD	Miami-Dade	023	 	22	22	Wasserman Schultz	Debbie		17282
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 23	BRO	Broward	023	 	211	211	Fugate	Demetrius	"DB"	0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 23	DAD	Miami-Dade	023	 	22	22	Fugate	Demetrius	"DB"	0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 23	BRO	Broward	023	 	211	211	Olson	Jeff		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 23	DAD	Miami-Dade	023	 	22	22	Olson	Jeff		0
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 24	BRO	Broward	024	 	33	33	Spicer	Lavern		10074
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 24	DAD	Miami-Dade	024	 	239	239	Spicer	Lavern		48677
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 24	DAD	Miami-Dade	024	 	239	239	Spicer	Lavern		48942
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 24	BRO	Broward	024	 	33	33	Wilson	Frederica		24791
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 24	DAD	Miami-Dade	024	 	239	239	Wilson	Frederica		192891
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 24	DAD	Miami-Dade	024	 	239	239	Wilson	Frederica		193864
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 24	BRO	Broward	024	 	33	33	Olivo	Christine	Alexandria	1622
-11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 24	DAD	Miami-Dade	024	 	239	239	Olivo	Christine	Alexandria	9955
+11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 24	DAD	Miami-Dade	024	 	239	239	Olivo	Christine	Alexandria	10063
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 24	BRO	Broward	024	 	33	33	Knepper	Howard		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 24	DAD	Miami-Dade	024	 	239	239	Knepper	Howard		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 24	BRO	Broward	024	 	33	33	Rivera	Hector		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 24	DAD	Miami-Dade	024	 	239	239	Rivera	Hector		0
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 26	DAD	Miami-Dade	026	 	215	215	Gimenez	Carlos		151081
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 26	DAD	Miami-Dade	026	 	215	215	Gimenez	Carlos		151612
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 26	MON	Monroe	026	 	33	33	Gimenez	Carlos		25529
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 26	DAD	Miami-Dade	026	 	215	215	Mucarsel-Powell	Debbie		143163
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 26	DAD	Miami-Dade	026	 	215	215	Mucarsel-Powell	Debbie		143936
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 26	MON	Monroe	026	 	33	33	Mucarsel-Powell	Debbie		21365
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 27	DAD	Miami-Dade	027	 	248	248	Salazar	Maria	Elvira	175292
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 27	DAD	Miami-Dade	027	 	248	248	Shalala	Donna		165670
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 27	DAD	Miami-Dade	027	 	248	248	Salazar	Maria	Elvira	175984
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 27	DAD	Miami-Dade	027	 	248	248	Shalala	Donna		166568
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 27	DAD	Miami-Dade	027	 	248	248	Polo	Frank	E.	0
 11/03/2020	REP	Republican Party	STA	State Attorney, 7th Judicial Circuit	FLA	Flagler	007	 	25	25	Larizza	R.	J.	42936
 11/03/2020	REP	Republican Party	STA	State Attorney, 7th Judicial Circuit	PUT	Putnam	007	 	35	35	Larizza	R.	J.	25094
@@ -1255,17 +1255,17 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	STS	State Senator, District 31	PAL	Palm Beach	031	 	278	278	Donnally	Tami		93055
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 31	PAL	Palm Beach	031	 	278	278	Berman	Lori		153109
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 35	BRO	Broward	035	 	58	58	Jones	Shevrin	"Shev"	97961
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 35	DAD	Miami-Dade	035	 	77	77	Jones	Shevrin	"Shev"	90291
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 35	DAD	Miami-Dade	035	 	77	77	Jones	Shevrin	"Shev"	90810
 11/03/2020	WRI	Write-in	STS	State Senator, District 35	BRO	Broward	035	 	58	58	Hill	Darien		0
 11/03/2020	WRI	Write-in	STS	State Senator, District 35	DAD	Miami-Dade	035	 	77	77	Hill	Darien		0
-11/03/2020	REP	Republican Party	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Garcia	Ileana		104098
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Rodriguez	Jose	Javier	103993
-11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Rodriguez	Alex		6326
-11/03/2020	REP	Republican Party	STS	State Senator, District 39	DAD	Miami-Dade	039	 	160	160	Rodriguez	Ana	Maria	97057
+11/03/2020	REP	Republican Party	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Garcia	Ileana		104533
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Rodriguez	Jose	Javier	104512
+11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Rodriguez	Alex		6366
+11/03/2020	REP	Republican Party	STS	State Senator, District 39	DAD	Miami-Dade	039	 	160	160	Rodriguez	Ana	Maria	97409
 11/03/2020	REP	Republican Party	STS	State Senator, District 39	MON	Monroe	039	 	33	33	Rodriguez	Ana	Maria	26090
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 39	DAD	Miami-Dade	039	 	160	160	Fernandez	Javier	E.	75280
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 39	DAD	Miami-Dade	039	 	160	160	Fernandez	Javier	E.	75720
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 39	MON	Monroe	039	 	33	33	Fernandez	Javier	E.	19355
-11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 39	DAD	Miami-Dade	039	 	160	160	Alfonso	Celso	D.	2581
+11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 39	DAD	Miami-Dade	039	 	160	160	Alfonso	Celso	D.	2601
 11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 39	MON	Monroe	039	 	33	33	Alfonso	Celso	D.	1032
 11/03/2020	REP	Republican Party	STR	State Representative, District 1	ESC	Escambia	001	 	38	38	Salzman	Michelle		57320
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 1	ESC	Escambia	001	 	38	38	Mathis	Franscine	C.	30464
@@ -1537,39 +1537,39 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	STR	State Representative, District 101	BRO	Broward	101	 	56	56	Parlatore	Vincent	"Vinny"	17912
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 101	BRO	Broward	101	 	56	56	Woodson	Marie		51160
 11/03/2020	REP	Republican Party	STR	State Representative, District 103	BRO	Broward	103	 	7	7	Fabricio	Tom		7082
-11/03/2020	REP	Republican Party	STR	State Representative, District 103	DAD	Miami-Dade	103	 	26	26	Fabricio	Tom		34528
+11/03/2020	REP	Republican Party	STR	State Representative, District 103	DAD	Miami-Dade	103	 	26	26	Fabricio	Tom		34629
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 103	BRO	Broward	103	 	7	7	Polo	Cindy		14595
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 103	DAD	Miami-Dade	103	 	26	26	Polo	Cindy		20557
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 103	DAD	Miami-Dade	103	 	26	26	Polo	Cindy		20678
 11/03/2020	REP	Republican Party	STR	State Representative, District 104	BRO	Broward	104	 	41	41	Navarini	George		36878
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 104	BRO	Broward	104	 	41	41	Bartleman	Robin		50781
 11/03/2020	REP	Republican Party	STR	State Representative, District 105	BRO	Broward	105	 	3	3	Borrero	David		3574
 11/03/2020	REP	Republican Party	STR	State Representative, District 105	CLL	Collier	105	 	11	11	Borrero	David		13135
-11/03/2020	REP	Republican Party	STR	State Representative, District 105	DAD	Miami-Dade	105	 	33	33	Borrero	David		21625
+11/03/2020	REP	Republican Party	STR	State Representative, District 105	DAD	Miami-Dade	105	 	33	33	Borrero	David		21702
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 105	BRO	Broward	105	 	3	3	Porras	Maureen		5976
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 105	CLL	Collier	105	 	11	11	Porras	Maureen		9923
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 105	DAD	Miami-Dade	105	 	33	33	Porras	Maureen		17138
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 105	DAD	Miami-Dade	105	 	33	33	Porras	Maureen		17246
 11/03/2020	REP	Republican Party	STR	State Representative, District 106	CLL	Collier	106	 	38	38	Rommel	Bob		69723
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 106	CLL	Collier	106	 	38	38	McFadden	Sara		36026
-11/03/2020	REP	Republican Party	STR	State Representative, District 110	DAD	Miami-Dade	110	 	36	36	Rizo	Alex		33910
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 110	DAD	Miami-Dade	110	 	36	36	Collazo	Annette		22759
-11/03/2020	REP	Republican Party	STR	State Representative, District 111	DAD	Miami-Dade	111	 	49	49	Avila	Bryan		32346
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 111	DAD	Miami-Dade	111	 	49	49	Hancock	Ross	Elde	17449
-11/03/2020	REP	Republican Party	STR	State Representative, District 112	DAD	Miami-Dade	112	 	48	48	Barreiro	Bruno	A.	35318
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 112	DAD	Miami-Dade	112	 	48	48	Duran	Nicholas	Xavier	39830
-11/03/2020	REP	Republican Party	STR	State Representative, District 114	DAD	Miami-Dade	114	 	73	73	Cabrera	Demi	Busatta	43255
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 114	DAD	Miami-Dade	114	 	73	73	Bado	Jean-Pierre		36257
-11/03/2020	REP	Republican Party	STR	State Representative, District 115	DAD	Miami-Dade	115	 	59	59	Aloupis	Vance		47357
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 115	DAD	Miami-Dade	115	 	59	59	Cesti-Browne	Franccesca		35239
-11/03/2020	REP	Republican Party	STR	State Representative, District 116	DAD	Miami-Dade	116	 	56	56	Perez	Daniel	A.	48497
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 116	DAD	Miami-Dade	116	 	56	56	Lynch	Bob		28549
+11/03/2020	REP	Republican Party	STR	State Representative, District 110	DAD	Miami-Dade	110	 	36	36	Rizo	Alex		34010
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 110	DAD	Miami-Dade	110	 	36	36	Collazo	Annette		22884
+11/03/2020	REP	Republican Party	STR	State Representative, District 111	DAD	Miami-Dade	111	 	49	49	Avila	Bryan		32430
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 111	DAD	Miami-Dade	111	 	49	49	Hancock	Ross	Elde	17555
+11/03/2020	REP	Republican Party	STR	State Representative, District 112	DAD	Miami-Dade	112	 	48	48	Barreiro	Bruno	A.	35482
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 112	DAD	Miami-Dade	112	 	48	48	Duran	Nicholas	Xavier	40039
+11/03/2020	REP	Republican Party	STR	State Representative, District 114	DAD	Miami-Dade	114	 	73	73	Cabrera	Demi	Busatta	43420
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 114	DAD	Miami-Dade	114	 	73	73	Bado	Jean-Pierre		36412
+11/03/2020	REP	Republican Party	STR	State Representative, District 115	DAD	Miami-Dade	115	 	59	59	Aloupis	Vance		47529
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 115	DAD	Miami-Dade	115	 	59	59	Cesti-Browne	Franccesca		35400
+11/03/2020	REP	Republican Party	STR	State Representative, District 116	DAD	Miami-Dade	116	 	56	56	Perez	Daniel	A.	48746
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 116	DAD	Miami-Dade	116	 	56	56	Lynch	Bob		28812
 11/03/2020	WRI	Write-in	STR	State Representative, District 116	DAD	Miami-Dade	116	 	56	56	Rodriguez	Manuel		0
-11/03/2020	REP	Republican Party	STR	State Representative, District 118	DAD	Miami-Dade	118	 	47	47	Rodriguez	Anthony		46841
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 118	DAD	Miami-Dade	118	 	47	47	Junquera	Ricky		31053
-11/03/2020	REP	Republican Party	STR	State Representative, District 119	DAD	Miami-Dade	119	 	38	38	Fernandez-Barquin	Juan		50642
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 119	DAD	Miami-Dade	119	 	38	38	Mohammad	Imtiaz	Ahmad	26845
-11/03/2020	REP	Republican Party	STR	State Representative, District 120	DAD	Miami-Dade	120	 	43	43	Mooney	James "Jim"	Vernon	19122
+11/03/2020	REP	Republican Party	STR	State Representative, District 118	DAD	Miami-Dade	118	 	47	47	Rodriguez	Anthony		47001
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 118	DAD	Miami-Dade	118	 	47	47	Junquera	Ricky		31248
+11/03/2020	REP	Republican Party	STR	State Representative, District 119	DAD	Miami-Dade	119	 	38	38	Fernandez-Barquin	Juan		50794
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 119	DAD	Miami-Dade	119	 	38	38	Mohammad	Imtiaz	Ahmad	26969
+11/03/2020	REP	Republican Party	STR	State Representative, District 120	DAD	Miami-Dade	120	 	43	43	Mooney	James "Jim"	Vernon	19199
 11/03/2020	REP	Republican Party	STR	State Representative, District 120	MON	Monroe	120	 	33	33	Mooney	James "Jim"	Vernon	26466
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 120	DAD	Miami-Dade	120	 	43	43	Barras	Clint		17431
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 120	DAD	Miami-Dade	120	 	43	43	Barras	Clint		17533
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 120	MON	Monroe	120	 	33	33	Barras	Clint		19853
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	ALA	Alachua	   	1	63	63	Yes	Carlos	G.	64368
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	BAK	Baker	   	1	9	9	Yes	Carlos	G.	8367
@@ -1583,7 +1583,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLA	Clay	   	1	47	47	Yes	Carlos	G.	75865
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLL	Collier	   	1	60	60	Yes	Carlos	G.	132032
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLM	Columbia	   	1	22	22	Yes	Carlos	G.	19332
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DAD	Miami-Dade	   	1	860	860	Yes	Carlos	G.	667936
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DAD	Miami-Dade	   	1	860	860	Yes	Carlos	G.	670510
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DES	Desoto	   	1	15	15	Yes	Carlos	G.	8051
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DIX	Dixie	   	1	10	10	Yes	Carlos	G.	4524
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DUV	Duval	   	1	199	199	Yes	Carlos	G.	261882
@@ -1650,7 +1650,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLA	Clay	   	1	47	47	No	Carlos	G.	34174
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLL	Collier	   	1	60	60	No	Carlos	G.	43768
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	CLM	Columbia	   	1	22	22	No	Carlos	G.	9880
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DAD	Miami-Dade	   	1	860	860	No	Carlos	G.	336701
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DAD	Miami-Dade	   	1	860	860	No	Carlos	G.	338937
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DES	Desoto	   	1	15	15	No	Carlos	G.	3201
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DIX	Dixie	   	1	10	10	No	Carlos	G.	2578
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	DUV	Duval	   	1	199	199	No	Carlos	G.	172092
@@ -2201,25 +2201,25 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	PIN	Pinellas	002	4	301	301	No	Andrea	Teves	131367
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	POL	Polk	002	4	167	167	No	Andrea	Teves	74749
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Andrea Teves Smith be retained in Office?	SAR	Sarasota	002	4	101	101	No	Andrea	Teves	57969
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Monica Gordo be retained in Office?	DAD	Miami-Dade	003	1	860	860	Yes	Monica		735475
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Monica Gordo be retained in Office?	DAD	Miami-Dade	003	1	860	860	Yes	Monica		738816
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Monica Gordo be retained in Office?	MON	Monroe	003	1	33	33	Yes	Monica		27362
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Monica Gordo be retained in Office?	DAD	Miami-Dade	003	1	860	860	No	Monica		258655
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Monica Gordo be retained in Office?	DAD	Miami-Dade	003	1	860	860	No	Monica		260068
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Monica Gordo be retained in Office?	MON	Monroe	003	1	33	33	No	Monica		12291
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Eric William Hendon be retained in Office?	DAD	Miami-Dade	003	2	860	860	Yes	Eric	William	739206
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Eric William Hendon be retained in Office?	DAD	Miami-Dade	003	2	860	860	Yes	Eric	William	742597
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Eric William Hendon be retained in Office?	MON	Monroe	003	2	33	33	Yes	Eric	William	27638
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Eric William Hendon be retained in Office?	DAD	Miami-Dade	003	2	860	860	No	Eric	William	242926
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Eric William Hendon be retained in Office?	DAD	Miami-Dade	003	2	860	860	No	Eric	William	244238
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Eric William Hendon be retained in Office?	MON	Monroe	003	2	33	33	No	Eric	William	11421
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Fleur Jeannine Lobree be retained in Office?	DAD	Miami-Dade	003	3	860	860	Yes	Fleur	Jeannine	713234
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Fleur Jeannine Lobree be retained in Office?	DAD	Miami-Dade	003	3	860	860	Yes	Fleur	Jeannine	716529
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Fleur Jeannine Lobree be retained in Office?	MON	Monroe	003	3	33	33	Yes	Fleur	Jeannine	27027
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Fleur Jeannine Lobree be retained in Office?	DAD	Miami-Dade	003	3	860	860	No	Fleur	Jeannine	264719
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Fleur Jeannine Lobree be retained in Office?	DAD	Miami-Dade	003	3	860	860	No	Fleur	Jeannine	266100
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Fleur Jeannine Lobree be retained in Office?	MON	Monroe	003	3	33	33	No	Fleur	Jeannine	12021
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Thomas Logue be retained in Office?	DAD	Miami-Dade	003	4	860	860	Yes	Thomas		711951
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Thomas Logue be retained in Office?	DAD	Miami-Dade	003	4	860	860	Yes	Thomas		715097
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Thomas Logue be retained in Office?	MON	Monroe	003	4	33	33	Yes	Thomas		26964
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Thomas Logue be retained in Office?	DAD	Miami-Dade	003	4	860	860	No	Thomas		265711
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Thomas Logue be retained in Office?	DAD	Miami-Dade	003	4	860	860	No	Thomas		267239
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Thomas Logue be retained in Office?	MON	Monroe	003	4	33	33	No	Thomas		12036
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Bronwyn Catherine Miller be retained in Office?	DAD	Miami-Dade	003	5	860	860	Yes	Bronwyn	Catherine	736164
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Bronwyn Catherine Miller be retained in Office?	DAD	Miami-Dade	003	5	860	860	Yes	Bronwyn	Catherine	739486
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Bronwyn Catherine Miller be retained in Office?	MON	Monroe	003	5	33	33	Yes	Bronwyn	Catherine	27906
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Bronwyn Catherine Miller be retained in Office?	DAD	Miami-Dade	003	5	860	860	No	Bronwyn	Catherine	244125
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Bronwyn Catherine Miller be retained in Office?	DAD	Miami-Dade	003	5	860	860	No	Bronwyn	Catherine	245476
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Bronwyn Catherine Miller be retained in Office?	MON	Monroe	003	5	33	33	No	Bronwyn	Catherine	11325
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	BRO	Broward	004	1	577	577	Yes	Alan	O.	503410
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Alan O. Forst be retained in Office?	IND	Indian River	004	1	35	35	Yes	Alan	O.	57395
@@ -2439,7 +2439,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLA	Clay			47	47	Yes for Approval	 	 	105154
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLL	Collier			60	60	Yes for Approval	 	 	163295
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLM	Columbia			22	22	Yes for Approval	 	 	27931
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DAD	Miami-Dade			860	860	Yes for Approval	 	 	815687
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DAD	Miami-Dade			860	860	Yes for Approval	 	 	819374
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DES	Desoto			15	15	Yes for Approval	 	 	10668
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DIX	Dixie			10	10	Yes for Approval	 	 	7066
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DUV	Duval			199	199	Yes for Approval	 	 	381528
@@ -2506,7 +2506,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLA	Clay			47	47	No for Rejection	 	 	14714
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLL	Collier			60	60	No for Rejection	 	 	35267
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	CLM	Columbia			22	22	No for Rejection	 	 	3458
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DAD	Miami-Dade			860	860	No for Rejection	 	 	241068
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DAD	Miami-Dade			860	860	No for Rejection	 	 	242417
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DES	Desoto			15	15	No for Rejection	 	 	1525
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DIX	Dixie			10	10	No for Rejection	 	 	709
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	DUV	Duval			199	199	No for Rejection	 	 	93122
@@ -2573,7 +2573,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLA	Clay			47	47	Yes for Approval	 	 	56244
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLL	Collier			60	60	Yes for Approval	 	 	105594
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLM	Columbia			22	22	Yes for Approval	 	 	14122
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DAD	Miami-Dade			860	860	Yes for Approval	 	 	748027
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DAD	Miami-Dade			860	860	Yes for Approval	 	 	751866
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DES	Desoto			15	15	Yes for Approval	 	 	5635
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DIX	Dixie			10	10	Yes for Approval	 	 	2970
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DUV	Duval			199	199	Yes for Approval	 	 	278164
@@ -2640,7 +2640,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLA	Clay			47	47	No for Rejection	 	 	63664
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLL	Collier			60	60	No for Rejection	 	 	84693
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	CLM	Columbia			22	22	No for Rejection	 	 	17617
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DAD	Miami-Dade			860	860	No for Rejection	 	 	312692
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DAD	Miami-Dade			860	860	No for Rejection	 	 	313922
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DES	Desoto			15	15	No for Rejection	 	 	6603
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DIX	Dixie			10	10	No for Rejection	 	 	4883
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	DUV	Duval			199	199	No for Rejection	 	 	200624
@@ -2707,7 +2707,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLA	Clay			47	47	Yes for Approval	 	 	68976
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLL	Collier			60	60	Yes for Approval	 	 	91475
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLM	Columbia			22	22	Yes for Approval	 	 	18248
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DAD	Miami-Dade			860	860	Yes for Approval	 	 	602337
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DAD	Miami-Dade			860	860	Yes for Approval	 	 	605658
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DES	Desoto			15	15	Yes for Approval	 	 	6829
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DIX	Dixie			10	10	Yes for Approval	 	 	3749
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DUV	Duval			199	199	Yes for Approval	 	 	274145
@@ -2774,7 +2774,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLA	Clay			47	47	No for Rejection	 	 	49014
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLL	Collier			60	60	No for Rejection	 	 	93517
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	CLM	Columbia			22	22	No for Rejection	 	 	12929
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DAD	Miami-Dade			860	860	No for Rejection	 	 	432179
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DAD	Miami-Dade			860	860	No for Rejection	 	 	433811
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DES	Desoto			15	15	No for Rejection	 	 	4839
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DIX	Dixie			10	10	No for Rejection	 	 	3688
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	DUV	Duval			199	199	No for Rejection	 	 	195124
@@ -2841,7 +2841,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLA	Clay			47	47	Yes for Approval	 	 	64491
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLL	Collier			60	60	Yes for Approval	 	 	91928
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLM	Columbia			22	22	Yes for Approval	 	 	17248
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DAD	Miami-Dade			860	860	Yes for Approval	 	 	470329
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DAD	Miami-Dade			860	860	Yes for Approval	 	 	472580
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DES	Desoto			15	15	Yes for Approval	 	 	6009
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DIX	Dixie			10	10	Yes for Approval	 	 	3777
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DUV	Duval			199	199	Yes for Approval	 	 	220444
@@ -2908,7 +2908,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLA	Clay			47	47	No for Rejection	 	 	53689
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLL	Collier			60	60	No for Rejection	 	 	92783
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	CLM	Columbia			22	22	No for Rejection	 	 	13777
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DAD	Miami-Dade			860	860	No for Rejection	 	 	575247
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DAD	Miami-Dade			860	860	No for Rejection	 	 	577903
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DES	Desoto			15	15	No for Rejection	 	 	5449
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DIX	Dixie			10	10	No for Rejection	 	 	3577
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	DUV	Duval			199	199	No for Rejection	 	 	236012
@@ -2975,7 +2975,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLA	Clay			47	47	Yes for Approval	 	 	83917
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLL	Collier			60	60	Yes for Approval	 	 	155622
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLM	Columbia			22	22	Yes for Approval	 	 	22259
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DAD	Miami-Dade			860	860	Yes for Approval	 	 	773503
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DAD	Miami-Dade			860	860	Yes for Approval	 	 	777267
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DES	Desoto			15	15	Yes for Approval	 	 	8155
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DIX	Dixie			10	10	Yes for Approval	 	 	5139
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DUV	Duval			199	199	Yes for Approval	 	 	331415
@@ -3042,7 +3042,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLA	Clay			47	47	No for Rejection	 	 	27875
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLL	Collier			60	60	No for Rejection	 	 	38704
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	CLM	Columbia			22	22	No for Rejection	 	 	8544
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DAD	Miami-Dade			860	860	No for Rejection	 	 	266369
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DAD	Miami-Dade			860	860	No for Rejection	 	 	267495
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DES	Desoto			15	15	No for Rejection	 	 	3286
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DIX	Dixie			10	10	No for Rejection	 	 	2293
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	DUV	Duval			199	199	No for Rejection	 	 	121753
@@ -3109,7 +3109,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLA	Clay			47	47	Yes for Approval	 	 	106898
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLL	Collier			60	60	Yes for Approval	 	 	181897
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLM	Columbia			22	22	Yes for Approval	 	 	28239
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DAD	Miami-Dade			860	860	Yes for Approval	 	 	953547
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DAD	Miami-Dade			860	860	Yes for Approval	 	 	958072
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DES	Desoto			15	15	Yes for Approval	 	 	10353
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DIX	Dixie			10	10	Yes for Approval	 	 	6737
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DUV	Duval			199	199	Yes for Approval	 	 	415099
@@ -3176,7 +3176,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLA	Clay			47	47	No for Rejection	 	 	11635
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLL	Collier			60	60	No for Rejection	 	 	14980
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	CLM	Columbia			22	22	No for Rejection	 	 	3119
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DAD	Miami-Dade			860	860	No for Rejection	 	 	107036
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DAD	Miami-Dade			860	860	No for Rejection	 	 	107488
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DES	Desoto			15	15	No for Rejection	 	 	1233
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DIX	Dixie			10	10	No for Rejection	 	 	852
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	DUV	Duval			199	199	No for Rejection	 	 	47919
