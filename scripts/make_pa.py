@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("../electionnight/pa/live_results.csv")
+df = pd.read_csv("../electionnight/pa/live_results.csv", thousands=",")
 
 df2 = pd.crosstab(df["County Name"], df["Candidate Name"], df["Votes"], aggfunc="sum").reset_index()
 
