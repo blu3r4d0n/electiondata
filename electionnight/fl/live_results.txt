@@ -43,7 +43,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	MON	Monroe	   	 	33	33	Pence	Trump	 / 	25668
 11/03/2020	REP	Republican Party	PRE	President of the United States	MRN	Marion	   	 	122	122	Pence	Trump	 / 	127744
 11/03/2020	REP	Republican Party	PRE	President of the United States	MRT	Martin	   	 	28	28	Pence	Trump	 / 	61133
-11/03/2020	REP	Republican Party	PRE	President of the United States	NAS	Nassau	   	 	15	15	Pence	Trump	 / 	42502
+11/03/2020	REP	Republican Party	PRE	President of the United States	NAS	Nassau	   	 	15	15	Pence	Trump	 / 	42563
 11/03/2020	REP	Republican Party	PRE	President of the United States	OKA	Okaloosa	   	 	52	52	Pence	Trump	 / 	79633
 11/03/2020	REP	Republican Party	PRE	President of the United States	OKE	Okeechobee	   	 	11	11	Pence	Trump	 / 	11460
 11/03/2020	REP	Republican Party	PRE	President of the United States	ORA	Orange	   	 	247	247	Pence	Trump	 / 	245162
@@ -110,7 +110,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	MON	Monroe	   	 	33	33	Harris	Biden	 / 	21848
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	MRN	Marion	   	 	122	122	Harris	Biden	 / 	74802
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	MRT	Martin	   	 	28	28	Harris	Biden	 / 	36873
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	NAS	Nassau	   	 	15	15	Harris	Biden	 / 	15542
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	NAS	Nassau	   	 	15	15	Harris	Biden	 / 	15561
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	OKA	Okaloosa	   	 	52	52	Harris	Biden	 / 	34165
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	OKE	Okeechobee	   	 	11	11	Harris	Biden	 / 	4380
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	ORA	Orange	   	 	247	247	Harris	Biden	 / 	394602
@@ -177,7 +177,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MON	Monroe	   	 	33	33	Cohen	Jorgensen	 / 	346
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MRN	Marion	   	 	122	122	Cohen	Jorgensen	 / 	1180
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MRT	Martin	   	 	28	28	Cohen	Jorgensen	 / 	448
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	NAS	Nassau	   	 	15	15	Cohen	Jorgensen	 / 	568
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	NAS	Nassau	   	 	15	15	Cohen	Jorgensen	 / 	569
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	OKA	Okaloosa	   	 	52	52	Cohen	Jorgensen	 / 	1872
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	OKE	Okeechobee	   	 	11	11	Cohen	Jorgensen	 / 	66
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	ORA	Orange	   	 	247	247	Cohen	Jorgensen	 / 	4680
@@ -936,10 +936,10 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 3	PUT	Putnam	003	 	35	35	Christensen	Adam		10820
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 3	UNI	Union	003	 	8	8	Christensen	Adam		1150
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 4	DUV	Duval	004	 	124	124	Rutherford	John	H.	169551
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 4	NAS	Nassau	004	 	15	15	Rutherford	John	H.	41992
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 4	NAS	Nassau	004	 	15	15	Rutherford	John	H.	42042
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 4	STJ	St. Johns	004	 	44	44	Rutherford	John	H.	96549
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 4	DUV	Duval	004	 	124	124	Deegan	Donna		125206
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 4	NAS	Nassau	004	 	15	15	Deegan	Donna		16201
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 4	NAS	Nassau	004	 	15	15	Deegan	Donna		16222
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 4	STJ	St. Johns	004	 	44	44	Deegan	Donna		54672
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 4	DUV	Duval	004	 	124	124	Koniz	Gary	L.	0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 4	NAS	Nassau	004	 	15	15	Koniz	Gary	L.	0
@@ -1315,9 +1315,9 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	HAM	Hamilton	010	 	8	8	Aboujaoude	Rock		1768
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	SUW	Suwannee	010	 	16	16	Aboujaoude	Rock		3884
 11/03/2020	REP	Republican Party	STR	State Representative, District 11	DUV	Duval	011	 	24	24	Byrd	Cord		34133
-11/03/2020	REP	Republican Party	STR	State Representative, District 11	NAS	Nassau	011	 	15	15	Byrd	Cord		42174
+11/03/2020	REP	Republican Party	STR	State Representative, District 11	NAS	Nassau	011	 	15	15	Byrd	Cord		42224
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 11	DUV	Duval	011	 	24	24	Hicks	Joshua		20544
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 11	NAS	Nassau	011	 	15	15	Hicks	Joshua		15090
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 11	NAS	Nassau	011	 	15	15	Hicks	Joshua		15106
 11/03/2020	REP	Republican Party	STR	State Representative, District 12	DUV	Duval	012	 	29	29	Yarborough	Clay		51603
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 12	DUV	Duval	012	 	29	29	Blimie	Emmanuel		34310
 11/03/2020	REP	Republican Party	STR	State Representative, District 15	DUV	Duval	015	 	39	39	Duggan	Wyman		45303
@@ -1615,7 +1615,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MON	Monroe	   	1	33	33	Yes	Carlos	G.	25563
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MRN	Marion	   	1	122	122	Yes	Carlos	G.	122281
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MRT	Martin	   	1	28	28	Yes	Carlos	G.	61082
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	NAS	Nassau	   	1	15	15	Yes	Carlos	G.	35918
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	NAS	Nassau	   	1	15	15	Yes	Carlos	G.	35964
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	OKA	Okaloosa	   	1	52	52	Yes	Carlos	G.	68987
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	OKE	Okeechobee	   	1	11	11	Yes	Carlos	G.	10286
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	ORA	Orange	   	1	247	247	Yes	Carlos	G.	346801
@@ -1682,7 +1682,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MON	Monroe	   	1	33	33	No	Carlos	G.	14569
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MRN	Marion	   	1	122	122	No	Carlos	G.	54152
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MRT	Martin	   	1	28	28	No	Carlos	G.	22467
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	NAS	Nassau	   	1	15	15	No	Carlos	G.	15132
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	NAS	Nassau	   	1	15	15	No	Carlos	G.	15144
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	OKA	Okaloosa	   	1	52	52	No	Carlos	G.	32391
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	OKE	Okeechobee	   	1	11	11	No	Carlos	G.	3846
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	ORA	Orange	   	1	247	247	No	Carlos	G.	218651
@@ -1728,7 +1728,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEV	Levy	001	1	13	13	Yes	Joseph		13643
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LIB	Liberty	001	1	8	8	Yes	Joseph		1923
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	MAD	Madison	001	1	11	11	Yes	Joseph		5607
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	NAS	Nassau	001	1	15	15	Yes	Joseph		37854
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	NAS	Nassau	001	1	15	15	Yes	Joseph		37901
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	OKA	Okaloosa	001	1	52	52	Yes	Joseph		72426
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SAN	Santa Rosa	001	1	41	41	Yes	Joseph		68396
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SUW	Suwannee	001	1	16	16	Yes	Joseph		12545
@@ -1760,7 +1760,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEV	Levy	001	1	13	13	No	Joseph		6574
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LIB	Liberty	001	1	8	8	No	Joseph		1078
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	MAD	Madison	001	1	11	11	No	Joseph		2880
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	NAS	Nassau	001	1	15	15	No	Joseph		12975
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	NAS	Nassau	001	1	15	15	No	Joseph		12987
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	OKA	Okaloosa	001	1	52	52	No	Joseph		27882
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SAN	Santa Rosa	001	1	41	41	No	Joseph		24521
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SUW	Suwannee	001	1	16	16	No	Joseph		6119
@@ -1792,7 +1792,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEV	Levy	001	2	13	13	Yes	Scott		13838
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LIB	Liberty	001	2	8	8	Yes	Scott		1881
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	MAD	Madison	001	2	11	11	Yes	Scott		5200
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	NAS	Nassau	001	2	15	15	Yes	Scott		37280
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	NAS	Nassau	001	2	15	15	Yes	Scott		37322
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	OKA	Okaloosa	001	2	52	52	Yes	Scott		70498
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SAN	Santa Rosa	001	2	41	41	Yes	Scott		67322
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SUW	Suwannee	001	2	16	16	Yes	Scott		12402
@@ -1824,7 +1824,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEV	Levy	001	2	13	13	No	Scott		6306
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LIB	Liberty	001	2	8	8	No	Scott		1082
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	MAD	Madison	001	2	11	11	No	Scott		3165
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	NAS	Nassau	001	2	15	15	No	Scott		13108
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	NAS	Nassau	001	2	15	15	No	Scott		13122
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	OKA	Okaloosa	001	2	52	52	No	Scott		29386
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SAN	Santa Rosa	001	2	41	41	No	Scott		25139
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SUW	Suwannee	001	2	16	16	No	Scott		6122
@@ -1856,7 +1856,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEV	Levy	001	3	13	13	Yes	Rachel		14016
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LIB	Liberty	001	3	8	8	Yes	Rachel		1927
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	MAD	Madison	001	3	11	11	Yes	Rachel		5267
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	NAS	Nassau	001	3	15	15	Yes	Rachel		37074
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	NAS	Nassau	001	3	15	15	Yes	Rachel		37122
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	OKA	Okaloosa	001	3	52	52	Yes	Rachel		70945
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SAN	Santa Rosa	001	3	41	41	Yes	Rachel		67930
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SUW	Suwannee	001	3	16	16	Yes	Rachel		12481
@@ -1888,7 +1888,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEV	Levy	001	3	13	13	No	Rachel		6120
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LIB	Liberty	001	3	8	8	No	Rachel		1059
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	MAD	Madison	001	3	11	11	No	Rachel		3132
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	NAS	Nassau	001	3	15	15	No	Rachel		13147
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	NAS	Nassau	001	3	15	15	No	Rachel		13157
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	OKA	Okaloosa	001	3	52	52	No	Rachel		29053
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SAN	Santa Rosa	001	3	41	41	No	Rachel		24522
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SUW	Suwannee	001	3	16	16	No	Rachel		6032
@@ -1920,7 +1920,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEV	Levy	001	4	13	13	Yes	Tim		13310
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LIB	Liberty	001	4	8	8	Yes	Tim		1877
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	MAD	Madison	001	4	11	11	Yes	Tim		5194
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	NAS	Nassau	001	4	15	15	Yes	Tim		36070
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	NAS	Nassau	001	4	15	15	Yes	Tim		36114
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	OKA	Okaloosa	001	4	52	52	Yes	Tim		68033
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SAN	Santa Rosa	001	4	41	41	Yes	Tim		65959
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SUW	Suwannee	001	4	16	16	Yes	Tim		12159
@@ -1952,7 +1952,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEV	Levy	001	4	13	13	No	Tim		6669
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LIB	Liberty	001	4	8	8	No	Tim		1095
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	MAD	Madison	001	4	11	11	No	Tim		3153
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	NAS	Nassau	001	4	15	15	No	Tim		14150
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	NAS	Nassau	001	4	15	15	No	Tim		14162
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	OKA	Okaloosa	001	4	52	52	No	Tim		31422
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SAN	Santa Rosa	001	4	41	41	No	Tim		26175
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SUW	Suwannee	001	4	16	16	No	Tim		6347
@@ -1984,7 +1984,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEV	Levy	001	5	13	13	Yes	Clay		13264
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LIB	Liberty	001	5	8	8	Yes	Clay		1944
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	MAD	Madison	001	5	11	11	Yes	Clay		5421
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	NAS	Nassau	001	5	15	15	Yes	Clay		35560
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	NAS	Nassau	001	5	15	15	Yes	Clay		35600
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	OKA	Okaloosa	001	5	52	52	Yes	Clay		68204
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SAN	Santa Rosa	001	5	41	41	Yes	Clay		66354
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SUW	Suwannee	001	5	16	16	Yes	Clay		12252
@@ -2016,7 +2016,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEV	Levy	001	5	13	13	No	Clay		6583
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LIB	Liberty	001	5	8	8	No	Clay		1023
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	MAD	Madison	001	5	11	11	No	Clay		2970
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	NAS	Nassau	001	5	15	15	No	Clay		14673
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	NAS	Nassau	001	5	15	15	No	Clay		14689
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	OKA	Okaloosa	001	5	52	52	No	Clay		30311
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SAN	Santa Rosa	001	5	41	41	No	Clay		25698
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SUW	Suwannee	001	5	16	16	No	Clay		6255
@@ -2048,7 +2048,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEV	Levy	001	6	13	13	Yes	Adam	S.	13461
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LIB	Liberty	001	6	8	8	Yes	Adam	S.	1903
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	MAD	Madison	001	6	11	11	Yes	Adam	S.	5284
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	NAS	Nassau	001	6	15	15	Yes	Adam	S.	36222
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	NAS	Nassau	001	6	15	15	Yes	Adam	S.	36265
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	OKA	Okaloosa	001	6	52	52	Yes	Adam	S.	68399
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SAN	Santa Rosa	001	6	41	41	Yes	Adam	S.	66248
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SUW	Suwannee	001	6	16	16	Yes	Adam	S.	12463
@@ -2080,7 +2080,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEV	Levy	001	6	13	13	No	Adam	S.	6458
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LIB	Liberty	001	6	8	8	No	Adam	S.	1056
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	MAD	Madison	001	6	11	11	No	Adam	S.	3137
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	NAS	Nassau	001	6	15	15	No	Adam	S.	13685
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	NAS	Nassau	001	6	15	15	No	Adam	S.	13699
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	OKA	Okaloosa	001	6	52	52	No	Adam	S.	30952
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SAN	Santa Rosa	001	6	41	41	No	Adam	S.	25789
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SUW	Suwannee	001	6	16	16	No	Adam	S.	6140
@@ -2471,7 +2471,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MON	Monroe			33	33	Yes for Approval	 	 	37297
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MRN	Marion			122	122	Yes for Approval	 	 	166487
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MRT	Martin			28	28	Yes for Approval	 	 	78545
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	NAS	Nassau			15	15	Yes for Approval	 	 	48971
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	NAS	Nassau			15	15	Yes for Approval	 	 	49031
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	OKA	Okaloosa			52	52	Yes for Approval	 	 	98862
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	OKE	Okeechobee			11	11	Yes for Approval	 	 	13764
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	ORA	Orange			247	247	Yes for Approval	 	 	440409
@@ -2538,7 +2538,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MON	Monroe			33	33	No for Rejection	 	 	8722
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MRN	Marion			122	122	No for Rejection	 	 	30539
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MRT	Martin			28	28	No for Rejection	 	 	16926
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	NAS	Nassau			15	15	No for Rejection	 	 	6764
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	NAS	Nassau			15	15	No for Rejection	 	 	6768
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	OKA	Okaloosa			52	52	No for Rejection	 	 	14775
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	OKE	Okeechobee			11	11	No for Rejection	 	 	1738
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	ORA	Orange			247	247	No for Rejection	 	 	169466
@@ -2605,7 +2605,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MON	Monroe			33	33	Yes for Approval	 	 	26964
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MRN	Marion			122	122	Yes for Approval	 	 	110020
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MRT	Martin			28	28	Yes for Approval	 	 	54706
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	NAS	Nassau			15	15	Yes for Approval	 	 	25125
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	NAS	Nassau			15	15	Yes for Approval	 	 	25155
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	OKA	Okaloosa			52	52	Yes for Approval	 	 	52780
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	OKE	Okeechobee			11	11	Yes for Approval	 	 	7300
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	ORA	Orange			247	247	Yes for Approval	 	 	429155
@@ -2672,7 +2672,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MON	Monroe			33	33	No for Rejection	 	 	19461
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MRN	Marion			122	122	No for Rejection	 	 	88002
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MRT	Martin			28	28	No for Rejection	 	 	41195
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	NAS	Nassau			15	15	No for Rejection	 	 	30763
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	NAS	Nassau			15	15	No for Rejection	 	 	30795
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	OKA	Okaloosa			52	52	No for Rejection	 	 	61463
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	OKE	Okeechobee			11	11	No for Rejection	 	 	8229
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	ORA	Orange			247	247	No for Rejection	 	 	183847
@@ -2739,7 +2739,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MON	Monroe			33	33	Yes for Approval	 	 	26137
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MRN	Marion			122	122	Yes for Approval	 	 	106025
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MRT	Martin			28	28	Yes for Approval	 	 	50553
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	NAS	Nassau			15	15	Yes for Approval	 	 	30372
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	NAS	Nassau			15	15	Yes for Approval	 	 	30413
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	OKA	Okaloosa			52	52	Yes for Approval	 	 	64680
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	OKE	Okeechobee			11	11	Yes for Approval	 	 	8848
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ORA	Orange			247	247	Yes for Approval	 	 	372024
@@ -2806,7 +2806,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MON	Monroe			33	33	No for Rejection	 	 	18666
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MRN	Marion			122	122	No for Rejection	 	 	82700
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MRT	Martin			28	28	No for Rejection	 	 	41250
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	NAS	Nassau			15	15	No for Rejection	 	 	24413
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	NAS	Nassau			15	15	No for Rejection	 	 	24431
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	OKA	Okaloosa			52	52	No for Rejection	 	 	45446
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	OKE	Okeechobee			11	11	No for Rejection	 	 	6119
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	ORA	Orange			247	247	No for Rejection	 	 	233412
@@ -2873,7 +2873,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MON	Monroe			33	33	Yes for Approval	 	 	19450
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MRN	Marion			122	122	Yes for Approval	 	 	91212
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MRT	Martin			28	28	Yes for Approval	 	 	43216
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	NAS	Nassau			15	15	Yes for Approval	 	 	28870
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	NAS	Nassau			15	15	Yes for Approval	 	 	28897
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	OKA	Okaloosa			52	52	Yes for Approval	 	 	52930
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	OKE	Okeechobee			11	11	Yes for Approval	 	 	8101
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	ORA	Orange			247	247	Yes for Approval	 	 	286769
@@ -2940,7 +2940,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MON	Monroe			33	33	No for Rejection	 	 	24550
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MRN	Marion			122	122	No for Rejection	 	 	94005
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MRT	Martin			28	28	No for Rejection	 	 	47533
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	NAS	Nassau			15	15	No for Rejection	 	 	26339
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	NAS	Nassau			15	15	No for Rejection	 	 	26369
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	OKA	Okaloosa			52	52	No for Rejection	 	 	55756
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	OKE	Okeechobee			11	11	No for Rejection	 	 	6622
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	ORA	Orange			247	247	No for Rejection	 	 	313179
@@ -3007,7 +3007,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MON	Monroe			33	33	Yes for Approval	 	 	32301
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MRN	Marion			122	122	Yes for Approval	 	 	135123
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MRT	Martin			28	28	Yes for Approval	 	 	68398
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	NAS	Nassau			15	15	Yes for Approval	 	 	38736
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	NAS	Nassau			15	15	Yes for Approval	 	 	38771
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	OKA	Okaloosa			52	52	Yes for Approval	 	 	80489
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	OKE	Okeechobee			11	11	Yes for Approval	 	 	11198
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ORA	Orange			247	247	Yes for Approval	 	 	392804
@@ -3074,7 +3074,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MON	Monroe			33	33	No for Rejection	 	 	11513
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MRN	Marion			122	122	No for Rejection	 	 	44598
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MRT	Martin			28	28	No for Rejection	 	 	18555
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	NAS	Nassau			15	15	No for Rejection	 	 	13407
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	NAS	Nassau			15	15	No for Rejection	 	 	13422
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	OKA	Okaloosa			52	52	No for Rejection	 	 	27274
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	OKE	Okeechobee			11	11	No for Rejection	 	 	3721
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	ORA	Orange			247	247	No for Rejection	 	 	151357
@@ -3141,7 +3141,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MON	Monroe			33	33	Yes for Approval	 	 	40094
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MRN	Marion			122	122	Yes for Approval	 	 	172036
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MRT	Martin			28	28	Yes for Approval	 	 	83985
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	NAS	Nassau			15	15	Yes for Approval	 	 	50360
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	NAS	Nassau			15	15	Yes for Approval	 	 	50416
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	OKA	Okaloosa			52	52	Yes for Approval	 	 	100523
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	OKE	Okeechobee			11	11	Yes for Approval	 	 	13856
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	ORA	Orange			247	247	Yes for Approval	 	 	537830
@@ -3208,7 +3208,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MON	Monroe			33	33	No for Rejection	 	 	5076
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MRN	Marion			122	122	No for Rejection	 	 	16826
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MRT	Martin			28	28	No for Rejection	 	 	8404
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	NAS	Nassau			15	15	No for Rejection	 	 	5617
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	NAS	Nassau			15	15	No for Rejection	 	 	5620
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	OKA	Okaloosa			52	52	No for Rejection	 	 	10242
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	OKE	Okeechobee			11	11	No for Rejection	 	 	1309
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	ORA	Orange			247	247	No for Rejection	 	 	65442
