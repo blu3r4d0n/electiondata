@@ -25,7 +25,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Pence	Trump	 / 	3811
 11/03/2020	REP	Republican Party	PRE	President of the United States	HAR	Hardee	   	 	12	12	Pence	Trump	 / 	6120
 11/03/2020	REP	Republican Party	PRE	President of the United States	HEN	Hendry	   	 	10	10	Pence	Trump	 / 	7898
-11/03/2020	REP	Republican Party	PRE	President of the United States	HER	Hernando	   	 	32	32	Pence	Trump	 / 	70321
+11/03/2020	REP	Republican Party	PRE	President of the United States	HER	Hernando	   	 	32	0	Pence	Trump	 / 	70321
 11/03/2020	REP	Republican Party	PRE	President of the United States	HIG	Highlands	   	 	25	25	Pence	Trump	 / 	34787
 11/03/2020	REP	Republican Party	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Pence	Trump	 / 	326158
 11/03/2020	REP	Republican Party	PRE	President of the United States	HOL	Holmes	   	 	8	8	Pence	Trump	 / 	8079
@@ -92,7 +92,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Harris	Biden	 / 	1959
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	HAR	Hardee	   	 	12	12	Harris	Biden	 / 	2291
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	HEN	Hendry	   	 	10	10	Harris	Biden	 / 	4925
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	HER	Hernando	   	 	32	32	Harris	Biden	 / 	37446
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	HER	Hernando	   	 	32	0	Harris	Biden	 / 	37446
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	HIG	Highlands	   	 	25	25	Harris	Biden	 / 	16861
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Harris	Biden	 / 	374714
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	HOL	Holmes	   	 	8	8	Harris	Biden	 / 	924
@@ -159,7 +159,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Cohen	Jorgensen	 / 	33
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	HAR	Hardee	   	 	12	12	Cohen	Jorgensen	 / 	40
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	HEN	Hendry	   	 	10	10	Cohen	Jorgensen	 / 	65
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	HER	Hernando	   	 	32	32	Cohen	Jorgensen	 / 	685
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	HER	Hernando	   	 	32	0	Cohen	Jorgensen	 / 	685
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	HIG	Highlands	   	 	25	25	Cohen	Jorgensen	 / 	220
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Cohen	Jorgensen	 / 	5622
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	HOL	Holmes	   	 	8	8	Cohen	Jorgensen	 / 	48
@@ -226,7 +226,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Richardson	De La Fuente	 / 	6
 11/03/2020	REF	Reform Party	PRE	President of the United States	HAR	Hardee	   	 	12	12	Richardson	De La Fuente	 / 	10
 11/03/2020	REF	Reform Party	PRE	President of the United States	HEN	Hendry	   	 	10	10	Richardson	De La Fuente	 / 	11
-11/03/2020	REF	Reform Party	PRE	President of the United States	HER	Hernando	   	 	32	32	Richardson	De La Fuente	 / 	62
+11/03/2020	REF	Reform Party	PRE	President of the United States	HER	Hernando	   	 	32	0	Richardson	De La Fuente	 / 	62
 11/03/2020	REF	Reform Party	PRE	President of the United States	HIG	Highlands	   	 	25	25	Richardson	De La Fuente	 / 	28
 11/03/2020	REF	Reform Party	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Richardson	De La Fuente	 / 	570
 11/03/2020	REF	Reform Party	PRE	President of the United States	HOL	Holmes	   	 	8	8	Richardson	De La Fuente	 / 	2
@@ -293,7 +293,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Freeman	La Riva	 / 	2
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	HAR	Hardee	   	 	12	12	Freeman	La Riva	 / 	6
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	HEN	Hendry	   	 	10	10	Freeman	La Riva	 / 	8
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	HER	Hernando	   	 	32	32	Freeman	La Riva	 / 	44
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	HER	Hernando	   	 	32	0	Freeman	La Riva	 / 	44
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	HIG	Highlands	   	 	25	25	Freeman	La Riva	 / 	23
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Freeman	La Riva	 / 	528
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	HOL	Holmes	   	 	8	8	Freeman	La Riva	 / 	1
@@ -360,7 +360,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Walker	Hawkins	 / 	8
 11/03/2020	GRE	Green Party	PRE	President of the United States	HAR	Hardee	   	 	12	12	Walker	Hawkins	 / 	8
 11/03/2020	GRE	Green Party	PRE	President of the United States	HEN	Hendry	   	 	10	10	Walker	Hawkins	 / 	13
-11/03/2020	GRE	Green Party	PRE	President of the United States	HER	Hernando	   	 	32	32	Walker	Hawkins	 / 	148
+11/03/2020	GRE	Green Party	PRE	President of the United States	HER	Hernando	   	 	32	0	Walker	Hawkins	 / 	148
 11/03/2020	GRE	Green Party	PRE	President of the United States	HIG	Highlands	   	 	25	25	Walker	Hawkins	 / 	53
 11/03/2020	GRE	Green Party	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Walker	Hawkins	 / 	1179
 11/03/2020	GRE	Green Party	PRE	President of the United States	HOL	Holmes	   	 	8	8	Walker	Hawkins	 / 	9
@@ -427,7 +427,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Mohr	Blankenship	 / 	2
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	HAR	Hardee	   	 	12	12	Mohr	Blankenship	 / 	1
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	HEN	Hendry	   	 	10	10	Mohr	Blankenship	 / 	7
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	HER	Hernando	   	 	32	32	Mohr	Blankenship	 / 	40
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	HER	Hernando	   	 	32	0	Mohr	Blankenship	 / 	40
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	HIG	Highlands	   	 	25	25	Mohr	Blankenship	 / 	28
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Mohr	Blankenship	 / 	269
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	HOL	Holmes	   	 	8	8	Mohr	Blankenship	 / 	4
@@ -494,7 +494,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAR	Hardee	   	 	12	12	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HEN	Hendry	   	 	10	10	Patel	Carroll	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	32	Patel	Carroll	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	0	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIG	Highlands	   	 	25	25	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HOL	Holmes	   	 	8	8	Patel	Carroll	 / 	0
@@ -561,7 +561,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAR	Hardee	   	 	12	12	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HEN	Hendry	   	 	10	10	Howard	Howard	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	32	Howard	Howard	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	0	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIG	Highlands	   	 	25	25	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HOL	Holmes	   	 	8	8	Howard	Howard	 / 	0
@@ -628,7 +628,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAR	Hardee	   	 	12	12	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HEN	Hendry	   	 	10	10	Pope	Laboch	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	32	Pope	Laboch	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	0	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIG	Highlands	   	 	25	25	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HOL	Holmes	   	 	8	8	Pope	Laboch	 / 	0
@@ -695,7 +695,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAR	Hardee	   	 	12	12	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HEN	Hendry	   	 	10	10	Nixon	Simmons	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	32	Nixon	Simmons	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	0	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIG	Highlands	   	 	25	25	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HOL	Holmes	   	 	8	8	Nixon	Simmons	 / 	0
@@ -762,7 +762,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAR	Hardee	   	 	12	12	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HEN	Hendry	   	 	10	10	Tolbert	Walls-Windhauser	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	32	Tolbert	Walls-Windhauser	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	0	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIG	Highlands	   	 	25	25	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HOL	Holmes	   	 	8	8	Tolbert	Walls-Windhauser	 / 	0
@@ -829,7 +829,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAM	Hamilton	   	 	8	8	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HAR	Hardee	   	 	12	12	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HEN	Hendry	   	 	10	10	Wells	Wells	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	32	Wells	Wells	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	HER	Hernando	   	 	32	0	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIG	Highlands	   	 	25	25	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HIL	Hillsborough	   	 	390	390	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	HOL	Holmes	   	 	8	8	Wells	Wells	 / 	0
@@ -1001,12 +1001,12 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 10	ORA	Orange	010	 	144	144	Demings	Val		239238
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 10	ORA	Orange	010	 	144	144	Yasmine	Sufiyah		0
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 11	CIT	Citrus	011	 	31	31	Webster	Daniel		64178
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 11	HER	Hernando	011	 	32	32	Webster	Daniel		68798
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 11	HER	Hernando	011	 	32	0	Webster	Daniel		68798
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 11	LAK	Lake	011	 	58	58	Webster	Daniel		60938
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 11	MRN	Marion	011	 	50	50	Webster	Daniel		58909
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 11	SUM	Sumter	011	 	26	26	Webster	Daniel		63832
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 11	CIT	Citrus	011	 	31	31	Cottrell	Dana	Marie	26777
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 11	HER	Hernando	011	 	32	32	Cottrell	Dana	Marie	37456
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 11	HER	Hernando	011	 	32	0	Cottrell	Dana	Marie	37456
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 11	LAK	Lake	011	 	58	58	Cottrell	Dana	Marie	32866
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 11	MRN	Marion	011	 	50	50	Cottrell	Dana	Marie	33978
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 11	SUM	Sumter	011	 	26	26	Cottrell	Dana	Marie	26783
@@ -1385,11 +1385,11 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 33	MRN	Marion	033	 	6	6	Melvin	Mamie	"Dee"	5196
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 33	SUM	Sumter	033	 	26	26	Melvin	Mamie	"Dee"	26567
 11/03/2020	REP	Republican Party	STR	State Representative, District 34	CIT	Citrus	034	 	31	31	Massullo	Ralph	E.	67558
-11/03/2020	REP	Republican Party	STR	State Representative, District 34	HER	Hernando	034	 	2	2	Massullo	Ralph	E.	8064
+11/03/2020	REP	Republican Party	STR	State Representative, District 34	HER	Hernando	034	 	2	0	Massullo	Ralph	E.	8064
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 34	CIT	Citrus	034	 	31	31	Gosai	Dushyant	Jethagir	22044
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 34	HER	Hernando	034	 	2	2	Gosai	Dushyant	Jethagir	2983
-11/03/2020	REP	Republican Party	STR	State Representative, District 35	HER	Hernando	035	 	30	30	Ingoglia	Blaise		60656
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 35	HER	Hernando	035	 	30	30	Laufenberg	Keith	G.	33700
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 34	HER	Hernando	034	 	2	0	Gosai	Dushyant	Jethagir	2983
+11/03/2020	REP	Republican Party	STR	State Representative, District 35	HER	Hernando	035	 	30	0	Ingoglia	Blaise		60656
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 35	HER	Hernando	035	 	30	0	Laufenberg	Keith	G.	33700
 11/03/2020	REP	Republican Party	STR	State Representative, District 36	PAS	Pasco	036	 	32	32	Mariano	Amber		51355
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 36	PAS	Pasco	036	 	32	32	Endonino	Daniel		29675
 11/03/2020	REP	Republican Party	STR	State Representative, District 37	PAS	Pasco	037	 	37	37	Zika	Ardian		71666
@@ -1597,7 +1597,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HAM	Hamilton	   	1	8	8	Yes	Carlos	G.	3300
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HAR	Hardee	   	1	12	12	Yes	Carlos	G.	5400
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HEN	Hendry	   	1	10	10	Yes	Carlos	G.	8599
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HER	Hernando	   	1	32	32	Yes	Carlos	G.	68650
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HER	Hernando	   	1	32	0	Yes	Carlos	G.	68650
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HIG	Highlands	   	1	25	25	Yes	Carlos	G.	34034
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HIL	Hillsborough	   	1	390	390	Yes	Carlos	G.	410479
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HOL	Holmes	   	1	8	8	Yes	Carlos	G.	5324
@@ -1664,7 +1664,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HAM	Hamilton	   	1	8	8	No	Carlos	G.	1923
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HAR	Hardee	   	1	12	12	No	Carlos	G.	2249
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HEN	Hendry	   	1	10	10	No	Carlos	G.	3025
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HER	Hernando	   	1	32	32	No	Carlos	G.	27751
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HER	Hernando	   	1	32	0	No	Carlos	G.	27751
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HIG	Highlands	   	1	25	25	No	Carlos	G.	12190
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HIL	Hillsborough	   	1	390	390	No	Carlos	G.	214609
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	HOL	Holmes	   	1	8	8	No	Carlos	G.	2763
@@ -2260,7 +2260,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	BRE	Brevard	005	1	171	171	Yes	Kerry	I.	224333
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	CIT	Citrus	005	1	31	31	Yes	Kerry	I.	61430
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	FLA	Flagler	005	1	25	25	Yes	Kerry	I.	44110
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	HER	Hernando	005	1	32	32	Yes	Kerry	I.	68587
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	HER	Hernando	005	1	32	0	Yes	Kerry	I.	68587
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	LAK	Lake	005	1	103	103	Yes	Kerry	I.	128265
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	MRN	Marion	005	1	122	122	Yes	Kerry	I.	125086
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	ORA	Orange	005	1	247	247	Yes	Kerry	I.	386158
@@ -2273,7 +2273,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	BRE	Brevard	005	1	171	171	No	Kerry	I.	85096
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	CIT	Citrus	005	1	31	31	No	Kerry	I.	19950
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	FLA	Flagler	005	1	25	25	No	Kerry	I.	13895
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	HER	Hernando	005	1	32	32	No	Kerry	I.	26629
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	HER	Hernando	005	1	32	0	No	Kerry	I.	26629
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	LAK	Lake	005	1	103	103	No	Kerry	I.	49085
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	MRN	Marion	005	1	122	122	No	Kerry	I.	49384
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	ORA	Orange	005	1	247	247	No	Kerry	I.	167875
@@ -2286,7 +2286,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	BRE	Brevard	005	3	171	171	Yes	John	M.	223215
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	CIT	Citrus	005	3	31	31	Yes	John	M.	61167
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	FLA	Flagler	005	3	25	25	Yes	John	M.	42728
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	HER	Hernando	005	3	32	32	Yes	John	M.	68412
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	HER	Hernando	005	3	32	0	Yes	John	M.	68412
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	LAK	Lake	005	3	103	103	Yes	John	M.	128728
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	MRN	Marion	005	3	122	122	Yes	John	M.	126830
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	ORA	Orange	005	3	247	247	Yes	John	M.	388226
@@ -2299,7 +2299,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	BRE	Brevard	005	3	171	171	No	John	M.	82687
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	CIT	Citrus	005	3	31	31	No	John	M.	19617
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	FLA	Flagler	005	3	25	25	No	John	M.	14486
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	HER	Hernando	005	3	32	32	No	John	M.	25553
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	HER	Hernando	005	3	32	0	No	John	M.	25553
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	LAK	Lake	005	3	103	103	No	John	M.	47343
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	MRN	Marion	005	3	122	122	No	John	M.	46257
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	ORA	Orange	005	3	247	247	No	John	M.	161936
@@ -2312,7 +2312,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	BRE	Brevard	005	4	171	171	Yes	Richard	B.	213835
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	CIT	Citrus	005	4	31	31	Yes	Richard	B.	59667
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	FLA	Flagler	005	4	25	25	Yes	Richard	B.	42965
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	HER	Hernando	005	4	32	32	Yes	Richard	B.	65541
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	HER	Hernando	005	4	32	0	Yes	Richard	B.	65541
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	LAK	Lake	005	4	103	103	Yes	Richard	B.	123271
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	MRN	Marion	005	4	122	122	Yes	Richard	B.	121533
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	ORA	Orange	005	4	247	247	Yes	Richard	B.	378795
@@ -2325,7 +2325,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	BRE	Brevard	005	4	171	171	No	Richard	B.	90551
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	CIT	Citrus	005	4	31	31	No	Richard	B.	20970
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	FLA	Flagler	005	4	25	25	No	Richard	B.	14137
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	HER	Hernando	005	4	32	32	No	Richard	B.	28311
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	HER	Hernando	005	4	32	0	No	Richard	B.	28311
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	LAK	Lake	005	4	103	103	No	Richard	B.	51998
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	MRN	Marion	005	4	122	122	No	Richard	B.	51767
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	ORA	Orange	005	4	247	247	No	Richard	B.	170796
@@ -2338,7 +2338,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	BRE	Brevard	005	5	171	171	Yes	Meredith		215008
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	CIT	Citrus	005	5	31	31	Yes	Meredith		60797
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	FLA	Flagler	005	5	25	25	Yes	Meredith		41670
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	HER	Hernando	005	5	32	32	Yes	Meredith		68619
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	HER	Hernando	005	5	32	0	Yes	Meredith		68619
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	LAK	Lake	005	5	103	103	Yes	Meredith		127024
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	MRN	Marion	005	5	122	122	Yes	Meredith		123967
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	ORA	Orange	005	5	247	247	Yes	Meredith		367994
@@ -2351,7 +2351,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	BRE	Brevard	005	5	171	171	No	Meredith		90050
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	CIT	Citrus	005	5	31	31	No	Meredith		19832
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	FLA	Flagler	005	5	25	25	No	Meredith		15382
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	HER	Hernando	005	5	32	32	No	Meredith		25387
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	HER	Hernando	005	5	32	0	No	Meredith		25387
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	LAK	Lake	005	5	103	103	No	Meredith		48632
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	MRN	Marion	005	5	122	122	No	Meredith		48865
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	ORA	Orange	005	5	247	247	No	Meredith		177510
@@ -2364,7 +2364,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	BRE	Brevard	005	6	171	171	Yes	F.	Rand	217005
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	CIT	Citrus	005	6	31	31	Yes	F.	Rand	60604
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	FLA	Flagler	005	6	25	25	Yes	F.	Rand	42127
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	HER	Hernando	005	6	32	32	Yes	F.	Rand	67723
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	HER	Hernando	005	6	32	0	Yes	F.	Rand	67723
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	LAK	Lake	005	6	103	103	Yes	F.	Rand	127077
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	MRN	Marion	005	6	122	122	Yes	F.	Rand	123810
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	ORA	Orange	005	6	247	247	Yes	F.	Rand	379308
@@ -2377,7 +2377,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	BRE	Brevard	005	6	171	171	No	F.	Rand	86527
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	CIT	Citrus	005	6	31	31	No	F.	Rand	20182
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	FLA	Flagler	005	6	25	25	No	F.	Rand	14689
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	HER	Hernando	005	6	32	32	No	F.	Rand	25986
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	HER	Hernando	005	6	32	0	No	F.	Rand	25986
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	LAK	Lake	005	6	103	103	No	F.	Rand	47877
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	MRN	Marion	005	6	122	122	No	F.	Rand	47224
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	ORA	Orange	005	6	247	247	No	F.	Rand	163132
@@ -2453,7 +2453,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HAM	Hamilton			8	8	Yes for Approval	 	 	4978
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HAR	Hardee			12	12	Yes for Approval	 	 	7193
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HEN	Hendry			10	10	Yes for Approval	 	 	10685
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HER	Hernando			32	32	Yes for Approval	 	 	93006
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HER	Hernando			32	0	Yes for Approval	 	 	93006
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HIG	Highlands			25	25	Yes for Approval	 	 	43984
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HIL	Hillsborough			390	390	Yes for Approval	 	 	514675
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HOL	Holmes			8	8	Yes for Approval	 	 	8008
@@ -2520,7 +2520,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HAM	Hamilton			8	8	No for Rejection	 	 	663
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HAR	Hardee			12	12	No for Rejection	 	 	1066
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HEN	Hendry			10	10	No for Rejection	 	 	1635
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HER	Hernando			32	32	No for Rejection	 	 	12761
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HER	Hernando			32	0	No for Rejection	 	 	12761
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HIG	Highlands			25	25	No for Rejection	 	 	6083
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HIL	Hillsborough			390	390	No for Rejection	 	 	153530
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	HOL	Holmes			8	8	No for Rejection	 	 	719
@@ -2587,7 +2587,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HAM	Hamilton			8	8	Yes for Approval	 	 	2683
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HAR	Hardee			12	12	Yes for Approval	 	 	3418
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HEN	Hendry			10	10	Yes for Approval	 	 	6573
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HER	Hernando			32	32	Yes for Approval	 	 	50607
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HER	Hernando			32	0	Yes for Approval	 	 	50607
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HIG	Highlands			25	25	Yes for Approval	 	 	26085
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HIL	Hillsborough			390	390	Yes for Approval	 	 	402095
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HOL	Holmes			8	8	Yes for Approval	 	 	3191
@@ -2654,7 +2654,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HAM	Hamilton			8	8	No for Rejection	 	 	2949
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HAR	Hardee			12	12	No for Rejection	 	 	4837
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HEN	Hendry			10	10	No for Rejection	 	 	5818
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HER	Hernando			32	32	No for Rejection	 	 	55796
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HER	Hernando			32	0	No for Rejection	 	 	55796
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HIG	Highlands			25	25	No for Rejection	 	 	24289
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HIL	Hillsborough			390	390	No for Rejection	 	 	267685
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	HOL	Holmes			8	8	No for Rejection	 	 	5564
@@ -2721,7 +2721,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HAM	Hamilton			8	8	Yes for Approval	 	 	2987
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HAR	Hardee			12	12	Yes for Approval	 	 	4051
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HEN	Hendry			10	10	Yes for Approval	 	 	7278
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HER	Hernando			32	32	Yes for Approval	 	 	55062
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HER	Hernando			32	0	Yes for Approval	 	 	55062
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HIG	Highlands			25	25	Yes for Approval	 	 	26326
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HIL	Hillsborough			390	390	Yes for Approval	 	 	379722
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HOL	Holmes			8	8	Yes for Approval	 	 	4650
@@ -2788,7 +2788,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HAM	Hamilton			8	8	No for Rejection	 	 	2426
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HAR	Hardee			12	12	No for Rejection	 	 	4123
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HEN	Hendry			10	10	No for Rejection	 	 	4824
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HER	Hernando			32	32	No for Rejection	 	 	47755
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HER	Hernando			32	0	No for Rejection	 	 	47755
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HIG	Highlands			25	25	No for Rejection	 	 	21573
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HIL	Hillsborough			390	390	No for Rejection	 	 	279200
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	HOL	Holmes			8	8	No for Rejection	 	 	3828
@@ -2855,7 +2855,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HAM	Hamilton			8	8	Yes for Approval	 	 	3111
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HAR	Hardee			12	12	Yes for Approval	 	 	4746
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HEN	Hendry			10	10	Yes for Approval	 	 	7232
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HER	Hernando			32	32	Yes for Approval	 	 	53747
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HER	Hernando			32	0	Yes for Approval	 	 	53747
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HIG	Highlands			25	25	Yes for Approval	 	 	26096
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HIL	Hillsborough			390	390	Yes for Approval	 	 	326313
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HOL	Holmes			8	8	Yes for Approval	 	 	4664
@@ -2922,7 +2922,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HAM	Hamilton			8	8	No for Rejection	 	 	2210
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HAR	Hardee			12	12	No for Rejection	 	 	3356
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HEN	Hendry			10	10	No for Rejection	 	 	4691
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HER	Hernando			32	32	No for Rejection	 	 	48242
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HER	Hernando			32	0	No for Rejection	 	 	48242
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HIG	Highlands			25	25	No for Rejection	 	 	20892
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HIL	Hillsborough			390	390	No for Rejection	 	 	343545
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	HOL	Holmes			8	8	No for Rejection	 	 	3723
@@ -2989,7 +2989,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HAM	Hamilton			8	8	Yes for Approval	 	 	3939
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HAR	Hardee			12	12	Yes for Approval	 	 	5718
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HEN	Hendry			10	10	Yes for Approval	 	 	8758
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HER	Hernando			32	32	Yes for Approval	 	 	79138
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HER	Hernando			32	0	Yes for Approval	 	 	79138
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HIG	Highlands			25	25	Yes for Approval	 	 	33612
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HIL	Hillsborough			390	390	Yes for Approval	 	 	505363
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HOL	Holmes			8	8	Yes for Approval	 	 	5660
@@ -3056,7 +3056,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HAM	Hamilton			8	8	No for Rejection	 	 	1442
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HAR	Hardee			12	12	No for Rejection	 	 	2344
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HEN	Hendry			10	10	No for Rejection	 	 	3146
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HER	Hernando			32	32	No for Rejection	 	 	23830
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HER	Hernando			32	0	No for Rejection	 	 	23830
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HIG	Highlands			25	25	No for Rejection	 	 	12515
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HIL	Hillsborough			390	390	No for Rejection	 	 	163193
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	HOL	Holmes			8	8	No for Rejection	 	 	2539
@@ -3123,7 +3123,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HAM	Hamilton			8	8	Yes for Approval	 	 	4895
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HAR	Hardee			12	12	Yes for Approval	 	 	7217
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HEN	Hendry			10	10	Yes for Approval	 	 	10986
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HER	Hernando			32	32	Yes for Approval	 	 	94113
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HER	Hernando			32	0	Yes for Approval	 	 	94113
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HIG	Highlands			25	25	Yes for Approval	 	 	43326
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HIL	Hillsborough			390	390	Yes for Approval	 	 	597684
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HOL	Holmes			8	8	Yes for Approval	 	 	7564
@@ -3190,7 +3190,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HAM	Hamilton			8	8	No for Rejection	 	 	573
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HAR	Hardee			12	12	No for Rejection	 	 	889
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HEN	Hendry			10	10	No for Rejection	 	 	1175
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HER	Hernando			32	32	No for Rejection	 	 	9874
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HER	Hernando			32	0	No for Rejection	 	 	9874
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HIG	Highlands			25	25	No for Rejection	 	 	4763
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HIL	Hillsborough			390	390	No for Rejection	 	 	80204
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	HOL	Holmes			8	8	No for Rejection	 	 	1013
