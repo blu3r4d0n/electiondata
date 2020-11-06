@@ -6,7 +6,7 @@ oldfile='../electionnight/oh/olddata.xlsx'
 cmp --silent $newfile $oldfile || changed=true
 if [ $changed ];
 then 
-python make_oh.py
+python3 make_oh.py
 cp ../electionnight/oh/live_results.xlsx ../electionnight/oh/olddata.xlsx
 var="oh_$(date '+%Y-%m-%dT%H:%M')"
 (git add ../electionnight/oh/* && git commit -m $var && git push)

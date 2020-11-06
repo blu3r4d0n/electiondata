@@ -7,7 +7,7 @@ rm ../electionnight/mi/live_results.xls
 cmp --silent $newfile $oldfile || changed=true
 if [ $changed ];
 then 
-python make_mi.py
+python3 make_mi.py
 cp ../electionnight/mi/live_results.csv ../electionnight/mi/olddata.csv
 var="mi_$(date '+%Y-%m-%dT%H:%M')"
 (git add ../electionnight/mi/* && git commit -m $var && git push)

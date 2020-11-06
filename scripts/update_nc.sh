@@ -10,7 +10,7 @@ oldfile='../electionnight/nc/olddata.txt'
 cmp --silent $newfile $oldfile || changed=true
 if [ $changed ];
 then 
-python make_nc.py
+python3 make_nc.py
 cp ../electionnight/nc/live_results.txt ../electionnight/nc/olddata.txt
 var="nc_$(date '+%Y-%m-%dT%H:%M')"
 (git add ../electionnight/nc/* && git commit -m $var && git push)
