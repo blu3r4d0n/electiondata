@@ -55,7 +55,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Pence	Trump	 / 	25496
 11/03/2020	REP	Republican Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Pence	Trump	 / 	77306
 11/03/2020	REP	Republican Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Pence	Trump	 / 	148065
-11/03/2020	REP	Republican Party	PRE	President of the United States	SEM	Seminole	   	 	91	91	Pence	Trump	 / 	125035
+11/03/2020	REP	Republican Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Pence	Trump	 / 	125035
 11/03/2020	REP	Republican Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Pence	Trump	 / 	110886
 11/03/2020	REP	Republican Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Pence	Trump	 / 	86748
 11/03/2020	REP	Republican Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Pence	Trump	 / 	62753
@@ -122,7 +122,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Harris	Biden	 / 	10512
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Harris	Biden	 / 	27560
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Harris	Biden	 / 	119892
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	SEM	Seminole	   	 	91	91	Harris	Biden	 / 	132213
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Harris	Biden	 / 	132213
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Harris	Biden	 / 	63808
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Harris	Biden	 / 	84005
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Harris	Biden	 / 	29326
@@ -189,7 +189,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Cohen	Jorgensen	 / 	223
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Cohen	Jorgensen	 / 	1635
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Cohen	Jorgensen	 / 	1500
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SEM	Seminole	   	 	91	91	Cohen	Jorgensen	 / 	2212
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Cohen	Jorgensen	 / 	2212
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Cohen	Jorgensen	 / 	1412
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Cohen	Jorgensen	 / 	767
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Cohen	Jorgensen	 / 	268
@@ -256,7 +256,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Richardson	De La Fuente	 / 	14
 11/03/2020	REF	Reform Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Richardson	De La Fuente	 / 	60
 11/03/2020	REF	Reform Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Richardson	De La Fuente	 / 	102
-11/03/2020	REF	Reform Party	PRE	President of the United States	SEM	Seminole	   	 	91	91	Richardson	De La Fuente	 / 	135
+11/03/2020	REF	Reform Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Richardson	De La Fuente	 / 	135
 11/03/2020	REF	Reform Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Richardson	De La Fuente	 / 	101
 11/03/2020	REF	Reform Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Richardson	De La Fuente	 / 	70
 11/03/2020	REF	Reform Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Richardson	De La Fuente	 / 	25
@@ -323,7 +323,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	PUT	Putnam	   	 	35	35	Freeman	La Riva	 / 	20
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Freeman	La Riva	 / 	45
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Freeman	La Riva	 / 	105
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	SEM	Seminole	   	 	91	91	Freeman	La Riva	 / 	135
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	SEM	Seminole	   	 	91	79	Freeman	La Riva	 / 	135
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Freeman	La Riva	 / 	54
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Freeman	La Riva	 / 	82
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	SUM	Sumter	   	 	26	26	Freeman	La Riva	 / 	20
@@ -390,7 +390,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Walker	Hawkins	 / 	50
 11/03/2020	GRE	Green Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Walker	Hawkins	 / 	121
 11/03/2020	GRE	Green Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Walker	Hawkins	 / 	283
-11/03/2020	GRE	Green Party	PRE	President of the United States	SEM	Seminole	   	 	91	91	Walker	Hawkins	 / 	405
+11/03/2020	GRE	Green Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Walker	Hawkins	 / 	405
 11/03/2020	GRE	Green Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Walker	Hawkins	 / 	210
 11/03/2020	GRE	Green Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Walker	Hawkins	 / 	208
 11/03/2020	GRE	Green Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Walker	Hawkins	 / 	39
@@ -457,7 +457,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	PUT	Putnam	   	 	35	35	Mohr	Blankenship	 / 	20
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Mohr	Blankenship	 / 	55
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Mohr	Blankenship	 / 	70
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	SEM	Seminole	   	 	91	91	Mohr	Blankenship	 / 	102
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	SEM	Seminole	   	 	91	79	Mohr	Blankenship	 / 	102
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Mohr	Blankenship	 / 	44
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Mohr	Blankenship	 / 	61
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Mohr	Blankenship	 / 	29
@@ -524,7 +524,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Patel	Carroll	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	91	Patel	Carroll	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	79	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Patel	Carroll	 / 	0
@@ -591,7 +591,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Howard	Howard	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	91	Howard	Howard	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	79	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Howard	Howard	 / 	0
@@ -658,7 +658,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Pope	Laboch	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	91	Pope	Laboch	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	79	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Pope	Laboch	 / 	0
@@ -725,7 +725,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Nixon	Simmons	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	91	Nixon	Simmons	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	79	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Nixon	Simmons	 / 	0
@@ -792,7 +792,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Tolbert	Walls-Windhauser	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	91	Tolbert	Walls-Windhauser	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	79	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Tolbert	Walls-Windhauser	 / 	0
@@ -859,7 +859,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	PUT	Putnam	   	 	35	35	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAN	Santa Rosa	   	 	41	41	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SAR	Sarasota	   	 	101	101	Wells	Wells	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	91	Wells	Wells	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SEM	Seminole	   	 	91	79	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Wells	Wells	 / 	0
@@ -977,11 +977,11 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 6	STJ	St. Johns	006	 	9	9	Nolan	John	G. "Gerry"	0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 6	VOL	Volusia	006	 	125	125	Nolan	John	G. "Gerry"	0
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 7	ORA	Orange	007	 	63	63	Valentín	Leo	 	56236
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 7	SEM	Seminole	007	 	91	91	Valentín	Leo	 	119290
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 7	SEM	Seminole	007	 	91	79	Valentín	Leo	 	119290
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 7	ORA	Orange	007	 	63	63	Murphy	Stephanie		92557
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 7	SEM	Seminole	007	 	91	91	Murphy	Stephanie		132004
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 7	SEM	Seminole	007	 	91	79	Murphy	Stephanie		132004
 11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 7	ORA	Orange	007	 	63	63	Garlington	William	R.	2237
-11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 7	SEM	Seminole	007	 	91	91	Garlington	William	R.	3498
+11/03/2020	NPA	No Party Affiliation	USR	Representative in Congress, District 7	SEM	Seminole	007	 	91	79	Garlington	William	R.	3498
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 8	BRE	Brevard	008	 	171	171	Posey	Bill		215539
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 8	IND	Indian River	008	 	35	35	Posey	Bill		60980
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 8	ORA	Orange	008	 	6	6	Posey	Bill		5350
@@ -1198,11 +1198,11 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	STS	State Senator, District 7	FLA	Flagler	007	 	25	25	Dembinsky	Richard		0
 11/03/2020	WRI	Write-in	STS	State Senator, District 7	STJ	St. Johns	007	 	48	48	Dembinsky	Richard		0
 11/03/2020	WRI	Write-in	STS	State Senator, District 7	VOL	Volusia	007	 	55	55	Dembinsky	Richard		0
-11/03/2020	REP	Republican Party	STS	State Senator, District 9	SEM	Seminole	009	 	91	91	Brodeur	Jason		124194
+11/03/2020	REP	Republican Party	STS	State Senator, District 9	SEM	Seminole	009	 	91	79	Brodeur	Jason		124194
 11/03/2020	REP	Republican Party	STS	State Senator, District 9	VOL	Volusia	009	 	12	12	Brodeur	Jason		17156
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 9	SEM	Seminole	009	 	91	91	Sigman	Patricia		123796
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 9	SEM	Seminole	009	 	91	79	Sigman	Patricia		123796
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 9	VOL	Volusia	009	 	12	12	Sigman	Patricia		9834
-11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 9	SEM	Seminole	009	 	91	91	Iannotti	Jestine		4834
+11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 9	SEM	Seminole	009	 	91	79	Iannotti	Jestine		4834
 11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 9	VOL	Volusia	009	 	12	12	Iannotti	Jestine		932
 11/03/2020	REP	Republican Party	STS	State Senator, District 11	ORA	Orange	011	 	96	96	Adams	Joshua	Eli	79186
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 11	ORA	Orange	011	 	96	96	Bracy	Randolph		147149
@@ -1362,16 +1362,16 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 26	VOL	Volusia	026	 	44	44	Henry	Patrick		39112
 11/03/2020	REP	Republican Party	STR	State Representative, District 27	VOL	Volusia	027	 	39	39	Barnaby	Webster		49414
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 27	VOL	Volusia	027	 	39	39	Guzman	Dolores		38544
-11/03/2020	REP	Republican Party	STR	State Representative, District 28	SEM	Seminole	028	 	44	44	Smith	David		51278
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 28	SEM	Seminole	028	 	44	44	Baker	Pasha		45202
-11/03/2020	NPA	No Party Affiliation	STR	State Representative, District 28	SEM	Seminole	028	 	44	44	Riccio	Michael	A.	2041
-11/03/2020	REP	Republican Party	STR	State Representative, District 29	SEM	Seminole	029	 	44	44	Plakon	Scott		48346
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 29	SEM	Seminole	029	 	44	44	Kagan	Tracey		44524
-11/03/2020	NPA	No Party Affiliation	STR	State Representative, District 29	SEM	Seminole	029	 	44	44	Rodriguez	Juan		2752
+11/03/2020	REP	Republican Party	STR	State Representative, District 28	SEM	Seminole	028	 	44	38	Smith	David		51278
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 28	SEM	Seminole	028	 	44	38	Baker	Pasha		45202
+11/03/2020	NPA	No Party Affiliation	STR	State Representative, District 28	SEM	Seminole	028	 	44	38	Riccio	Michael	A.	2041
+11/03/2020	REP	Republican Party	STR	State Representative, District 29	SEM	Seminole	029	 	44	38	Plakon	Scott		48346
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 29	SEM	Seminole	029	 	44	38	Kagan	Tracey		44524
+11/03/2020	NPA	No Party Affiliation	STR	State Representative, District 29	SEM	Seminole	029	 	44	38	Rodriguez	Juan		2752
 11/03/2020	REP	Republican Party	STR	State Representative, District 30	ORA	Orange	030	 	16	16	Cortes	Bob		13132
-11/03/2020	REP	Republican Party	STR	State Representative, District 30	SEM	Seminole	030	 	30	30	Cortes	Bob		28269
+11/03/2020	REP	Republican Party	STR	State Representative, District 30	SEM	Seminole	030	 	30	26	Cortes	Bob		28269
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 30	ORA	Orange	030	 	16	16	Goff-Marcil	Joy		16458
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 30	SEM	Seminole	030	 	30	30	Goff-Marcil	Joy		30177
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 30	SEM	Seminole	030	 	30	26	Goff-Marcil	Joy		30177
 11/03/2020	REP	Republican Party	STR	State Representative, District 31	LAK	Lake	031	 	37	37	Truenow	Keith		41177
 11/03/2020	REP	Republican Party	STR	State Representative, District 31	ORA	Orange	031	 	13	13	Truenow	Keith		17081
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 31	LAK	Lake	031	 	37	37	Stile	Crissy		23380
@@ -1627,7 +1627,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PUT	Putnam	   	1	35	35	Yes	Carlos	G.	22378
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAN	Santa Rosa	   	1	41	41	Yes	Carlos	G.	65193
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAR	Sarasota	   	1	101	101	Yes	Carlos	G.	148251
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SEM	Seminole	   	1	91	91	Yes	Carlos	G.	138007
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SEM	Seminole	   	1	91	79	Yes	Carlos	G.	138007
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STJ	St. Johns	   	1	48	48	Yes	Carlos	G.	109725
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STL	St. Lucie	   	1	64	64	Yes	Carlos	G.	99270
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUM	Sumter	   	1	26	26	Yes	Carlos	G.	60320
@@ -1694,7 +1694,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	PUT	Putnam	   	1	35	35	No	Carlos	G.	10287
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAN	Santa Rosa	   	1	41	41	No	Carlos	G.	28226
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SAR	Sarasota	   	1	101	101	No	Carlos	G.	73971
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SEM	Seminole	   	1	91	91	No	Carlos	G.	82823
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SEM	Seminole	   	1	91	79	No	Carlos	G.	82823
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STJ	St. Johns	   	1	48	48	No	Carlos	G.	38251
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STL	St. Lucie	   	1	64	64	No	Carlos	G.	50374
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUM	Sumter	   	1	26	26	No	Carlos	G.	17989
@@ -2266,7 +2266,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	ORA	Orange	005	1	247	247	Yes	Kerry	I.	386158
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	OSC	Osceola	005	1	100	100	Yes	Kerry	I.	108807
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	PUT	Putnam	005	1	35	35	Yes	Kerry	I.	22755
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	SEM	Seminole	005	1	91	91	Yes	Kerry	I.	152420
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	SEM	Seminole	005	1	91	79	Yes	Kerry	I.	152420
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	STJ	St. Johns	005	1	48	48	Yes	Kerry	I.	111628
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	SUM	Sumter	005	1	26	26	Yes	Kerry	I.	61433
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	VOL	Volusia	005	1	125	125	Yes	Kerry	I.	184728
@@ -2279,7 +2279,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	ORA	Orange	005	1	247	247	No	Kerry	I.	167875
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	OSC	Osceola	005	1	100	100	No	Kerry	I.	43333
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	PUT	Putnam	005	1	35	35	No	Kerry	I.	9566
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	SEM	Seminole	005	1	91	91	No	Kerry	I.	62638
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	SEM	Seminole	005	1	91	79	No	Kerry	I.	62638
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	STJ	St. Johns	005	1	48	48	No	Kerry	I.	33059
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	SUM	Sumter	005	1	26	26	No	Kerry	I.	16063
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Kerry I. Evander be retained in Office?	VOL	Volusia	005	1	125	125	No	Kerry	I.	67450
@@ -2292,7 +2292,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	ORA	Orange	005	3	247	247	Yes	John	M.	388226
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	OSC	Osceola	005	3	100	100	Yes	John	M.	107826
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	PUT	Putnam	005	3	35	35	Yes	John	M.	23094
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	SEM	Seminole	005	3	91	91	Yes	John	M.	151253
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	SEM	Seminole	005	3	91	79	Yes	John	M.	151253
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	STJ	St. Johns	005	3	48	48	Yes	John	M.	112526
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	SUM	Sumter	005	3	26	26	Yes	John	M.	62431
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	VOL	Volusia	005	3	125	125	Yes	John	M.	184434
@@ -2305,7 +2305,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	ORA	Orange	005	3	247	247	No	John	M.	161936
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	OSC	Osceola	005	3	100	100	No	John	M.	43360
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	PUT	Putnam	005	3	35	35	No	John	M.	9177
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	SEM	Seminole	005	3	91	91	No	John	M.	62523
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	SEM	Seminole	005	3	91	79	No	John	M.	62523
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	STJ	St. Johns	005	3	48	48	No	John	M.	31319
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	SUM	Sumter	005	3	26	26	No	John	M.	14836
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge John M. Harris be retained in Office?	VOL	Volusia	005	3	125	125	No	John	M.	66429
@@ -2318,7 +2318,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	ORA	Orange	005	4	247	247	Yes	Richard	B.	378795
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	OSC	Osceola	005	4	100	100	Yes	Richard	B.	105791
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	PUT	Putnam	005	4	35	35	Yes	Richard	B.	22271
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	SEM	Seminole	005	4	91	91	Yes	Richard	B.	148573
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	SEM	Seminole	005	4	91	79	Yes	Richard	B.	148573
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	STJ	St. Johns	005	4	48	48	Yes	Richard	B.	110192
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	SUM	Sumter	005	4	26	26	Yes	Richard	B.	60153
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	VOL	Volusia	005	4	125	125	Yes	Richard	B.	183848
@@ -2331,7 +2331,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	ORA	Orange	005	4	247	247	No	Richard	B.	170796
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	OSC	Osceola	005	4	100	100	No	Richard	B.	44995
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	PUT	Putnam	005	4	35	35	No	Richard	B.	9846
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	SEM	Seminole	005	4	91	91	No	Richard	B.	64623
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	SEM	Seminole	005	4	91	79	No	Richard	B.	64623
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	STJ	St. Johns	005	4	48	48	No	Richard	B.	32928
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	SUM	Sumter	005	4	26	26	No	Richard	B.	16655
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Richard B. Orfinger be retained in Office?	VOL	Volusia	005	4	125	125	No	Richard	B.	67204
@@ -2344,7 +2344,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	ORA	Orange	005	5	247	247	Yes	Meredith		367994
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	OSC	Osceola	005	5	100	100	Yes	Meredith		106616
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	PUT	Putnam	005	5	35	35	Yes	Meredith		22348
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	SEM	Seminole	005	5	91	91	Yes	Meredith		145948
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	SEM	Seminole	005	5	91	79	Yes	Meredith		145948
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	STJ	St. Johns	005	5	48	48	Yes	Meredith		103384
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	SUM	Sumter	005	5	26	26	Yes	Meredith		61308
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	VOL	Volusia	005	5	125	125	Yes	Meredith		177677
@@ -2357,7 +2357,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	ORA	Orange	005	5	247	247	No	Meredith		177510
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	OSC	Osceola	005	5	100	100	No	Meredith		44172
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	PUT	Putnam	005	5	35	35	No	Meredith		9649
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	SEM	Seminole	005	5	91	91	No	Meredith		68214
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	SEM	Seminole	005	5	91	79	No	Meredith		68214
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	STJ	St. Johns	005	5	48	48	No	Meredith		39651
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	SUM	Sumter	005	5	26	26	No	Meredith		15393
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Meredith Sasso be retained in Office?	VOL	Volusia	005	5	125	125	No	Meredith		69454
@@ -2370,7 +2370,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	ORA	Orange	005	6	247	247	Yes	F.	Rand	379308
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	OSC	Osceola	005	6	100	100	Yes	F.	Rand	105875
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	PUT	Putnam	005	6	35	35	Yes	F.	Rand	22396
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	SEM	Seminole	005	6	91	91	Yes	F.	Rand	144419
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	SEM	Seminole	005	6	91	79	Yes	F.	Rand	144419
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	STJ	St. Johns	005	6	48	48	Yes	F.	Rand	109645
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	SUM	Sumter	005	6	26	26	Yes	F.	Rand	61278
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	VOL	Volusia	005	6	125	125	Yes	F.	Rand	179173
@@ -2383,7 +2383,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	ORA	Orange	005	6	247	247	No	F.	Rand	163132
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	OSC	Osceola	005	6	100	100	No	F.	Rand	44262
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	PUT	Putnam	005	6	35	35	No	F.	Rand	9511
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	SEM	Seminole	005	6	91	91	No	F.	Rand	62310
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	SEM	Seminole	005	6	91	79	No	F.	Rand	62310
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	STJ	St. Johns	005	6	48	48	No	F.	Rand	32313
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	SUM	Sumter	005	6	26	26	No	F.	Rand	15237
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge F. Rand Wallis be retained in Office?	VOL	Volusia	005	6	125	125	No	F.	Rand	68486
@@ -2483,7 +2483,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PUT	Putnam			35	35	Yes for Approval	 	 	30780
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAN	Santa Rosa			41	41	Yes for Approval	 	 	91213
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAR	Sarasota			101	101	Yes for Approval	 	 	198689
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SEM	Seminole			91	91	Yes for Approval	 	 	182418
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SEM	Seminole			91	79	Yes for Approval	 	 	182418
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STJ	St. Johns			48	48	Yes for Approval	 	 	136429
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STL	St. Lucie			64	64	Yes for Approval	 	 	137086
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUM	Sumter			26	26	Yes for Approval	 	 	76296
@@ -2550,7 +2550,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	PUT	Putnam			35	35	No for Rejection	 	 	4060
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAN	Santa Rosa			41	41	No for Rejection	 	 	11756
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SAR	Sarasota			101	101	No for Rejection	 	 	58815
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SEM	Seminole			91	91	No for Rejection	 	 	60076
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SEM	Seminole			91	79	No for Rejection	 	 	60076
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STJ	St. Johns			48	48	No for Rejection	 	 	31289
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STL	St. Lucie			64	64	No for Rejection	 	 	28642
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUM	Sumter			26	26	No for Rejection	 	 	12265
@@ -2617,7 +2617,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PUT	Putnam			35	35	Yes for Approval	 	 	16187
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAN	Santa Rosa			41	41	Yes for Approval	 	 	47337
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAR	Sarasota			101	101	Yes for Approval	 	 	150733
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SEM	Seminole			91	91	Yes for Approval	 	 	148115
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SEM	Seminole			91	79	Yes for Approval	 	 	148115
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STJ	St. Johns			48	48	Yes for Approval	 	 	84084
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STL	St. Lucie			64	64	Yes for Approval	 	 	97748
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUM	Sumter			26	26	Yes for Approval	 	 	50090
@@ -2684,7 +2684,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	PUT	Putnam			35	35	No for Rejection	 	 	18596
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAN	Santa Rosa			41	41	No for Rejection	 	 	54730
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SAR	Sarasota			101	101	No for Rejection	 	 	107525
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SEM	Seminole			91	91	No for Rejection	 	 	97919
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SEM	Seminole			91	79	No for Rejection	 	 	97919
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STJ	St. Johns			48	48	No for Rejection	 	 	85289
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STL	St. Lucie			64	64	No for Rejection	 	 	69612
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUM	Sumter			26	26	No for Rejection	 	 	38514
@@ -2751,7 +2751,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PUT	Putnam			35	35	Yes for Approval	 	 	20038
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAN	Santa Rosa			41	41	Yes for Approval	 	 	58912
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAR	Sarasota			101	101	Yes for Approval	 	 	129367
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SEM	Seminole			91	91	Yes for Approval	 	 	132014
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SEM	Seminole			91	79	Yes for Approval	 	 	132014
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STJ	St. Johns			48	48	Yes for Approval	 	 	84187
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STL	St. Lucie			64	64	Yes for Approval	 	 	89153
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUM	Sumter			26	26	Yes for Approval	 	 	44504
@@ -2818,7 +2818,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	PUT	Putnam			35	35	No for Rejection	 	 	14692
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAN	Santa Rosa			41	41	No for Rejection	 	 	41380
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SAR	Sarasota			101	101	No for Rejection	 	 	123207
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SEM	Seminole			91	91	No for Rejection	 	 	108113
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SEM	Seminole			91	79	No for Rejection	 	 	108113
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STJ	St. Johns			48	48	No for Rejection	 	 	82655
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STL	St. Lucie			64	64	No for Rejection	 	 	70947
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUM	Sumter			26	26	No for Rejection	 	 	40460
@@ -2885,7 +2885,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PUT	Putnam			35	35	Yes for Approval	 	 	19643
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAN	Santa Rosa			41	41	Yes for Approval	 	 	52279
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAR	Sarasota			101	101	Yes for Approval	 	 	108025
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SEM	Seminole			91	91	Yes for Approval	 	 	105155
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SEM	Seminole			91	79	Yes for Approval	 	 	105155
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STJ	St. Johns			48	48	Yes for Approval	 	 	82171
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STL	St. Lucie			64	64	Yes for Approval	 	 	80324
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUM	Sumter			26	26	Yes for Approval	 	 	42472
@@ -2952,7 +2952,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	PUT	Putnam			35	35	No for Rejection	 	 	14880
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAN	Santa Rosa			41	41	No for Rejection	 	 	47548
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SAR	Sarasota			101	101	No for Rejection	 	 	140915
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SEM	Seminole			91	91	No for Rejection	 	 	134985
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SEM	Seminole			91	79	No for Rejection	 	 	134985
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STJ	St. Johns			48	48	No for Rejection	 	 	83108
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STL	St. Lucie			64	64	No for Rejection	 	 	78315
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUM	Sumter			26	26	No for Rejection	 	 	41687
@@ -3019,7 +3019,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PUT	Putnam			35	35	Yes for Approval	 	 	25000
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAN	Santa Rosa			41	41	Yes for Approval	 	 	75169
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAR	Sarasota			101	101	Yes for Approval	 	 	198052
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SEM	Seminole			91	91	Yes for Approval	 	 	175306
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SEM	Seminole			91	79	Yes for Approval	 	 	175306
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STJ	St. Johns			48	48	Yes for Approval	 	 	118465
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STL	St. Lucie			64	64	Yes for Approval	 	 	122279
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUM	Sumter			26	26	Yes for Approval	 	 	60852
@@ -3086,7 +3086,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	PUT	Putnam			35	35	No for Rejection	 	 	9078
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAN	Santa Rosa			41	41	No for Rejection	 	 	25144
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SAR	Sarasota			101	101	No for Rejection	 	 	52327
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SEM	Seminole			91	91	No for Rejection	 	 	60141
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SEM	Seminole			91	79	No for Rejection	 	 	60141
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STJ	St. Johns			48	48	No for Rejection	 	 	44875
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STL	St. Lucie			64	64	No for Rejection	 	 	37867
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUM	Sumter			26	26	No for Rejection	 	 	23118
@@ -3153,7 +3153,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PUT	Putnam			35	35	Yes for Approval	 	 	31059
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAN	Santa Rosa			41	41	Yes for Approval	 	 	93298
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAR	Sarasota			101	101	Yes for Approval	 	 	236003
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SEM	Seminole			91	91	Yes for Approval	 	 	219607
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SEM	Seminole			91	79	Yes for Approval	 	 	219607
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STJ	St. Johns			48	48	Yes for Approval	 	 	150981
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STL	St. Lucie			64	64	Yes for Approval	 	 	144576
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUM	Sumter			26	26	Yes for Approval	 	 	76136
@@ -3220,7 +3220,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	PUT	Putnam			35	35	No for Rejection	 	 	3519
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAN	Santa Rosa			41	41	No for Rejection	 	 	9135
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SAR	Sarasota			101	101	No for Rejection	 	 	19509
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SEM	Seminole			91	91	No for Rejection	 	 	23735
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SEM	Seminole			91	79	No for Rejection	 	 	23735
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STJ	St. Johns			48	48	No for Rejection	 	 	15465
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STL	St. Lucie			64	64	No for Rejection	 	 	17857
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUM	Sumter			26	26	No for Rejection	 	 	9242
