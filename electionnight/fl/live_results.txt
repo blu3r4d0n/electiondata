@@ -35,7 +35,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Pence	Trump	 / 	3126
 11/03/2020	REP	Republican Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Pence	Trump	 / 	125687
 11/03/2020	REP	Republican Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Pence	Trump	 / 	232075
-11/03/2020	REP	Republican Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Pence	Trump	 / 	57384
+11/03/2020	REP	Republican Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Pence	Trump	 / 	57384
 11/03/2020	REP	Republican Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Pence	Trump	 / 	16721
 11/03/2020	REP	Republican Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Pence	Trump	 / 	2846
 11/03/2020	REP	Republican Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Pence	Trump	 / 	5576
@@ -102,7 +102,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Harris	Biden	 / 	507
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Harris	Biden	 / 	83273
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Harris	Biden	 / 	156957
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Harris	Biden	 / 	103364
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Harris	Biden	 / 	103364
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Harris	Biden	 / 	6189
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Harris	Biden	 / 	693
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Harris	Biden	 / 	3747
@@ -169,7 +169,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Cohen	Jorgensen	 / 	14
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Cohen	Jorgensen	 / 	1381
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Cohen	Jorgensen	 / 	1990
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Cohen	Jorgensen	 / 	1340
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Cohen	Jorgensen	 / 	1340
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Cohen	Jorgensen	 / 	130
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Cohen	Jorgensen	 / 	14
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Cohen	Jorgensen	 / 	32
@@ -236,7 +236,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Richardson	De La Fuente	 / 	1
 11/03/2020	REF	Reform Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Richardson	De La Fuente	 / 	120
 11/03/2020	REF	Reform Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Richardson	De La Fuente	 / 	186
-11/03/2020	REF	Reform Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Richardson	De La Fuente	 / 	98
+11/03/2020	REF	Reform Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Richardson	De La Fuente	 / 	98
 11/03/2020	REF	Reform Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Richardson	De La Fuente	 / 	14
 11/03/2020	REF	Reform Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Richardson	De La Fuente	 / 	2
 11/03/2020	REF	Reform Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Richardson	De La Fuente	 / 	3
@@ -303,7 +303,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Freeman	La Riva	 / 	1
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LAK	Lake	   	 	104	104	Freeman	La Riva	 / 	96
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LEE	Lee	   	 	127	127	Freeman	La Riva	 / 	174
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LEO	Leon	   	 	156	156	Freeman	La Riva	 / 	122
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LEO	Leon	   	 	156	151	Freeman	La Riva	 / 	122
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LEV	Levy	   	 	13	13	Freeman	La Riva	 / 	7
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	LIB	Liberty	   	 	8	8	Freeman	La Riva	 / 	2
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	MAD	Madison	   	 	11	11	Freeman	La Riva	 / 	4
@@ -370,7 +370,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Walker	Hawkins	 / 	2
 11/03/2020	GRE	Green Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Walker	Hawkins	 / 	254
 11/03/2020	GRE	Green Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Walker	Hawkins	 / 	434
-11/03/2020	GRE	Green Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Walker	Hawkins	 / 	271
+11/03/2020	GRE	Green Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Walker	Hawkins	 / 	271
 11/03/2020	GRE	Green Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Walker	Hawkins	 / 	25
 11/03/2020	GRE	Green Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Walker	Hawkins	 / 	2
 11/03/2020	GRE	Green Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Walker	Hawkins	 / 	13
@@ -437,7 +437,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Mohr	Blankenship	 / 	2
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LAK	Lake	   	 	104	104	Mohr	Blankenship	 / 	79
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LEE	Lee	   	 	127	127	Mohr	Blankenship	 / 	118
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	LEO	Leon	   	 	156	156	Mohr	Blankenship	 / 	71
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	LEO	Leon	   	 	156	151	Mohr	Blankenship	 / 	71
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LEV	Levy	   	 	13	13	Mohr	Blankenship	 / 	13
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	LIB	Liberty	   	 	8	8	Mohr	Blankenship	 / 	1
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	MAD	Madison	   	 	11	11	Mohr	Blankenship	 / 	5
@@ -504,7 +504,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Patel	Carroll	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Patel	Carroll	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Patel	Carroll	 / 	0
@@ -571,7 +571,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Howard	Howard	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Howard	Howard	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Howard	Howard	 / 	0
@@ -638,7 +638,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Pope	Laboch	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Pope	Laboch	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Pope	Laboch	 / 	0
@@ -705,7 +705,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Nixon	Simmons	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Nixon	Simmons	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Nixon	Simmons	 / 	0
@@ -772,7 +772,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Tolbert	Walls-Windhauser	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Tolbert	Walls-Windhauser	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Tolbert	Walls-Windhauser	 / 	0
@@ -839,7 +839,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAF	Lafayette	   	 	5	5	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LAK	Lake	   	 	104	104	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEE	Lee	   	 	127	127	Wells	Wells	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	156	Wells	Wells	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	LEO	Leon	   	 	156	151	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LEV	Levy	   	 	13	13	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	LIB	Liberty	   	 	8	8	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	MAD	Madison	   	 	11	11	Wells	Wells	 / 	0
@@ -896,7 +896,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	JAC	Jackson	002	 	14	14	Dunn	Neal		18232
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	JEF	Jefferson	002	 	3	3	Dunn	Neal		586
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LAF	Lafayette	002	 	5	5	Dunn	Neal		3304
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LEO	Leon	002	 	66	66	Dunn	Neal		47244
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LEO	Leon	002	 	66	64	Dunn	Neal		47244
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LEV	Levy	002	 	13	13	Dunn	Neal		18926
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LIB	Liberty	002	 	8	8	Dunn	Neal		2973
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	MRN	Marion	002	 	21	21	Dunn	Neal		24876
@@ -915,7 +915,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	JAC	Jackson	002	 	14	14	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	JEF	Jefferson	002	 	3	3	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LAF	Lafayette	002	 	5	5	O'Connor	Kim		0
-11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LEO	Leon	002	 	66	66	O'Connor	Kim		0
+11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LEO	Leon	002	 	66	64	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LEV	Levy	002	 	13	13	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LIB	Liberty	002	 	8	8	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	MRN	Marion	002	 	21	21	O'Connor	Kim		0
@@ -950,7 +950,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	GAD	Gadsden	005	 	25	25	Adler	Gary		6872
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	HAM	Hamilton	005	 	8	8	Adler	Gary		3576
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	JEF	Jefferson	005	 	16	16	Adler	Gary		3836
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	LEO	Leon	005	 	90	90	Adler	Gary		21644
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	LEO	Leon	005	 	90	87	Adler	Gary		21644
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 5	MAD	Madison	005	 	11	11	Adler	Gary		5261
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	BAK	Baker	005	 	9	9	Lawson	Al		2476
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	CLM	Columbia	005	 	9	9	Lawson	Al		2029
@@ -958,7 +958,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	GAD	Gadsden	005	 	25	25	Lawson	Al		16770
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	HAM	Hamilton	005	 	8	8	Lawson	Al		2128
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	JEF	Jefferson	005	 	16	16	Lawson	Al		3796
-11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	LEO	Leon	005	 	90	90	Lawson	Al		60833
+11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	LEO	Leon	005	 	90	87	Lawson	Al		60833
 11/03/2020	DEM	Democratic Party	USR	Representative in Congress, District 5	MAD	Madison	005	 	11	11	Lawson	Al		3990
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 6	FLA	Flagler	006	 	26	26	Waltz	Michael		43294
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 6	LAK	Lake	006	 	26	26	Waltz	Michael		32262
@@ -1151,7 +1151,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	GUL	Gulf	003	 	10	10	Preston	Marva	Harris	5994
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	HAM	Hamilton	003	 	8	8	Preston	Marva	Harris	3822
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	JEF	Jefferson	003	 	16	16	Preston	Marva	Harris	4519
-11/03/2020	REP	Republican Party	STS	State Senator, District 3	LEO	Leon	003	 	156	156	Preston	Marva	Harris	59866
+11/03/2020	REP	Republican Party	STS	State Senator, District 3	LEO	Leon	003	 	156	151	Preston	Marva	Harris	59866
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	LIB	Liberty	003	 	8	8	Preston	Marva	Harris	2521
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	MAD	Madison	003	 	11	11	Preston	Marva	Harris	5527
 11/03/2020	REP	Republican Party	STS	State Senator, District 3	TAY	Taylor	003	 	14	14	Preston	Marva	Harris	7544
@@ -1162,7 +1162,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	GUL	Gulf	003	 	10	10	Ausley	Loranne		1911
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	HAM	Hamilton	003	 	8	8	Ausley	Loranne		1858
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	JEF	Jefferson	003	 	16	16	Ausley	Loranne		3822
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	LEO	Leon	003	 	156	156	Ausley	Loranne		99260
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	LEO	Leon	003	 	156	151	Ausley	Loranne		99260
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	LIB	Liberty	003	 	8	8	Ausley	Loranne		850
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	MAD	Madison	003	 	11	11	Ausley	Loranne		3647
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 3	TAY	Taylor	003	 	14	14	Ausley	Loranne		2348
@@ -1287,7 +1287,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	GUL	Gulf	007	 	10	10	Shoaf	Jason		6339
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	JEF	Jefferson	007	 	16	16	Shoaf	Jason		4669
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	LAF	Lafayette	007	 	5	5	Shoaf	Jason		3090
-11/03/2020	REP	Republican Party	STR	State Representative, District 7	LEO	Leon	007	 	5	5	Shoaf	Jason		2723
+11/03/2020	REP	Republican Party	STR	State Representative, District 7	LEO	Leon	007	 	5	4	Shoaf	Jason		2723
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	LIB	Liberty	007	 	8	8	Shoaf	Jason		2680
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	MAD	Madison	007	 	11	11	Shoaf	Jason		5583
 11/03/2020	REP	Republican Party	STR	State Representative, District 7	TAY	Taylor	007	 	14	14	Shoaf	Jason		7787
@@ -1297,13 +1297,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	GUL	Gulf	007	 	10	10	Khan	Taymour		1587
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	JEF	Jefferson	007	 	16	16	Khan	Taymour		3567
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	LAF	Lafayette	007	 	5	5	Khan	Taymour		456
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	LEO	Leon	007	 	5	5	Khan	Taymour		1488
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	LEO	Leon	007	 	5	4	Khan	Taymour		1488
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	LIB	Liberty	007	 	8	8	Khan	Taymour		607
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	MAD	Madison	007	 	11	11	Khan	Taymour		3471
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	TAY	Taylor	007	 	14	14	Khan	Taymour		2026
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 7	WAK	Wakulla	007	 	12	12	Khan	Taymour		4607
-11/03/2020	REP	Republican Party	STR	State Representative, District 9	LEO	Leon	009	 	99	99	Kallinger	Jim		42863
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 9	LEO	Leon	009	 	99	99	Tant	Allison		58808
+11/03/2020	REP	Republican Party	STR	State Representative, District 9	LEO	Leon	009	 	99	96	Kallinger	Jim		42863
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 9	LEO	Leon	009	 	99	96	Tant	Allison		58808
 11/03/2020	REP	Republican Party	STR	State Representative, District 10	ALA	Alachua	010	 	2	2	Brannan	Chuck		2363
 11/03/2020	REP	Republican Party	STR	State Representative, District 10	BAK	Baker	010	 	9	9	Brannan	Chuck		12001
 11/03/2020	REP	Republican Party	STR	State Representative, District 10	CLM	Columbia	010	 	22	22	Brannan	Chuck		24220
@@ -1607,7 +1607,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LAF	Lafayette	   	1	5	5	Yes	Carlos	G.	2134
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LAK	Lake	   	1	103	103	Yes	Carlos	G.	122971
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEE	Lee	   	1	127	127	Yes	Carlos	G.	228164
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEO	Leon	   	1	156	156	Yes	Carlos	G.	82102
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEO	Leon	   	1	156	151	Yes	Carlos	G.	82102
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEV	Levy	   	1	13	13	Yes	Carlos	G.	13367
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LIB	Liberty	   	1	8	8	Yes	Carlos	G.	1877
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAD	Madison	   	1	11	11	Yes	Carlos	G.	5221
@@ -1674,7 +1674,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LAF	Lafayette	   	1	5	5	No	Carlos	G.	1165
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LAK	Lake	   	1	103	103	No	Carlos	G.	56361
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEE	Lee	   	1	127	127	No	Carlos	G.	85973
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEO	Leon	   	1	156	156	No	Carlos	G.	59356
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEO	Leon	   	1	156	151	No	Carlos	G.	59356
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LEV	Levy	   	1	13	13	No	Carlos	G.	6966
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	LIB	Liberty	   	1	8	8	No	Carlos	G.	1138
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	MAD	Madison	   	1	11	11	No	Carlos	G.	3221
@@ -1724,7 +1724,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	JAC	Jackson	001	1	14	14	Yes	Joseph		13743
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	JEF	Jefferson	001	1	16	16	Yes	Joseph		5369
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LAF	Lafayette	001	1	5	5	Yes	Joseph		2118
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEO	Leon	001	1	156	156	Yes	Joseph		98788
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEO	Leon	001	1	156	151	Yes	Joseph		98788
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEV	Levy	001	1	13	13	Yes	Joseph		13643
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LIB	Liberty	001	1	8	8	Yes	Joseph		1923
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	MAD	Madison	001	1	11	11	Yes	Joseph		5607
@@ -1756,7 +1756,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	JAC	Jackson	001	1	14	14	No	Joseph		6573
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	JEF	Jefferson	001	1	16	16	No	Joseph		2191
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LAF	Lafayette	001	1	5	5	No	Joseph		1168
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEO	Leon	001	1	156	156	No	Joseph		41350
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEO	Leon	001	1	156	151	No	Joseph		41350
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LEV	Levy	001	1	13	13	No	Joseph		6574
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	LIB	Liberty	001	1	8	8	No	Joseph		1078
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	MAD	Madison	001	1	11	11	No	Joseph		2880
@@ -1788,7 +1788,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	JAC	Jackson	001	2	14	14	Yes	Scott		13271
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	JEF	Jefferson	001	2	16	16	Yes	Scott		5061
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LAF	Lafayette	001	2	5	5	Yes	Scott		2129
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEO	Leon	001	2	156	156	Yes	Scott		85076
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEO	Leon	001	2	156	151	Yes	Scott		85076
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEV	Levy	001	2	13	13	Yes	Scott		13838
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LIB	Liberty	001	2	8	8	Yes	Scott		1881
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	MAD	Madison	001	2	11	11	Yes	Scott		5200
@@ -1820,7 +1820,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	JAC	Jackson	001	2	14	14	No	Scott		6881
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	JEF	Jefferson	001	2	16	16	No	Scott		2441
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LAF	Lafayette	001	2	5	5	No	Scott		1121
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEO	Leon	001	2	156	156	No	Scott		53590
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEO	Leon	001	2	156	151	No	Scott		53590
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LEV	Levy	001	2	13	13	No	Scott		6306
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	LIB	Liberty	001	2	8	8	No	Scott		1082
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	MAD	Madison	001	2	11	11	No	Scott		3165
@@ -1852,7 +1852,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	JAC	Jackson	001	3	14	14	Yes	Rachel		13364
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	JEF	Jefferson	001	3	16	16	Yes	Rachel		5073
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LAF	Lafayette	001	3	5	5	Yes	Rachel		2142
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEO	Leon	001	3	156	156	Yes	Rachel		85509
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEO	Leon	001	3	156	151	Yes	Rachel		85509
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEV	Levy	001	3	13	13	Yes	Rachel		14016
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LIB	Liberty	001	3	8	8	Yes	Rachel		1927
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	MAD	Madison	001	3	11	11	Yes	Rachel		5267
@@ -1884,7 +1884,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	JAC	Jackson	001	3	14	14	No	Rachel		6745
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	JEF	Jefferson	001	3	16	16	No	Rachel		2430
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LAF	Lafayette	001	3	5	5	No	Rachel		1112
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEO	Leon	001	3	156	156	No	Rachel		52804
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEO	Leon	001	3	156	151	No	Rachel		52804
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LEV	Levy	001	3	13	13	No	Rachel		6120
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	LIB	Liberty	001	3	8	8	No	Rachel		1059
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	MAD	Madison	001	3	11	11	No	Rachel		3132
@@ -1916,7 +1916,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	JAC	Jackson	001	4	14	14	Yes	Tim		12940
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	JEF	Jefferson	001	4	16	16	Yes	Tim		4976
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LAF	Lafayette	001	4	5	5	Yes	Tim		2073
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEO	Leon	001	4	156	156	Yes	Tim		81053
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEO	Leon	001	4	156	151	Yes	Tim		81053
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEV	Levy	001	4	13	13	Yes	Tim		13310
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LIB	Liberty	001	4	8	8	Yes	Tim		1877
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	MAD	Madison	001	4	11	11	Yes	Tim		5194
@@ -1948,7 +1948,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	JAC	Jackson	001	4	14	14	No	Tim		7131
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	JEF	Jefferson	001	4	16	16	No	Tim		2528
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LAF	Lafayette	001	4	5	5	No	Tim		1191
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEO	Leon	001	4	156	156	No	Tim		56474
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEO	Leon	001	4	156	151	No	Tim		56474
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LEV	Levy	001	4	13	13	No	Tim		6669
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	LIB	Liberty	001	4	8	8	No	Tim		1095
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	MAD	Madison	001	4	11	11	No	Tim		3153
@@ -1980,7 +1980,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	JAC	Jackson	001	5	14	14	Yes	Clay		13818
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	JEF	Jefferson	001	5	16	16	Yes	Clay		5188
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LAF	Lafayette	001	5	5	5	Yes	Clay		2120
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEO	Leon	001	5	156	156	Yes	Clay		88531
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEO	Leon	001	5	156	151	Yes	Clay		88531
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEV	Levy	001	5	13	13	Yes	Clay		13264
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LIB	Liberty	001	5	8	8	Yes	Clay		1944
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	MAD	Madison	001	5	11	11	Yes	Clay		5421
@@ -2012,7 +2012,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	JAC	Jackson	001	5	14	14	No	Clay		6373
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	JEF	Jefferson	001	5	16	16	No	Clay		2308
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LAF	Lafayette	001	5	5	5	No	Clay		1142
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEO	Leon	001	5	156	156	No	Clay		49050
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEO	Leon	001	5	156	151	No	Clay		49050
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LEV	Levy	001	5	13	13	No	Clay		6583
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	LIB	Liberty	001	5	8	8	No	Clay		1023
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	MAD	Madison	001	5	11	11	No	Clay		2970
@@ -2044,7 +2044,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	JAC	Jackson	001	6	14	14	Yes	Adam	S.	13281
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	JEF	Jefferson	001	6	16	16	Yes	Adam	S.	4985
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LAF	Lafayette	001	6	5	5	Yes	Adam	S.	2149
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEO	Leon	001	6	156	156	Yes	Adam	S.	81572
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEO	Leon	001	6	156	151	Yes	Adam	S.	81572
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEV	Levy	001	6	13	13	Yes	Adam	S.	13461
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LIB	Liberty	001	6	8	8	Yes	Adam	S.	1903
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	MAD	Madison	001	6	11	11	Yes	Adam	S.	5284
@@ -2076,7 +2076,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	JAC	Jackson	001	6	14	14	No	Adam	S.	6849
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	JEF	Jefferson	001	6	16	16	No	Adam	S.	2509
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LAF	Lafayette	001	6	5	5	No	Adam	S.	1124
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEO	Leon	001	6	156	156	No	Adam	S.	55627
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEO	Leon	001	6	156	151	No	Adam	S.	55627
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LEV	Levy	001	6	13	13	No	Adam	S.	6458
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	LIB	Liberty	001	6	8	8	No	Adam	S.	1056
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	MAD	Madison	001	6	11	11	No	Adam	S.	3137
@@ -2390,13 +2390,13 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	FRA	Franklin	002	004	8	8	Baker	Tiffany		2776
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	GAD	Gadsden	002	004	25	25	Baker	Tiffany		15182
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	JEF	Jefferson	002	004	16	16	Baker	Tiffany		4225
-11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LEO	Leon	002	004	156	156	Baker	Tiffany		82523
+11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LEO	Leon	002	004	156	151	Baker	Tiffany		82523
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LIB	Liberty	002	004	8	8	Baker	Tiffany		1344
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	WAK	Wakulla	002	004	12	12	Baker	Tiffany		6886
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	FRA	Franklin	002	004	8	8	Wall	Amanda	P.	2938
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	GAD	Gadsden	002	004	25	25	Wall	Amanda	P.	6766
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	JEF	Jefferson	002	004	16	16	Wall	Amanda	P.	3344
-11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LEO	Leon	002	004	156	156	Wall	Amanda	P.	55701
+11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LEO	Leon	002	004	156	151	Wall	Amanda	P.	55701
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	LIB	Liberty	002	004	8	8	Wall	Amanda	P.	1589
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 2nd Judicial Circuit, Group 4	WAK	Wakulla	002	004	12	12	Wall	Amanda	P.	8910
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 7th Judicial Circuit, Group 14	FLA	Flagler	007	014	25	25	Anthony	Joan		34369
@@ -2463,7 +2463,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LAF	Lafayette			5	5	Yes for Approval	 	 	3164
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LAK	Lake			103	103	Yes for Approval	 	 	171076
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEE	Lee			127	127	Yes for Approval	 	 	302918
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEO	Leon			156	156	Yes for Approval	 	 	100080
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEO	Leon			156	151	Yes for Approval	 	 	100080
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEV	Levy			13	13	Yes for Approval	 	 	18972
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LIB	Liberty			8	8	Yes for Approval	 	 	2979
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAD	Madison			11	11	Yes for Approval	 	 	7750
@@ -2530,7 +2530,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LAF	Lafayette			5	5	No for Rejection	 	 	404
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LAK	Lake			103	103	No for Rejection	 	 	31785
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEE	Lee			127	127	No for Rejection	 	 	57147
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEO	Leon			156	156	No for Rejection	 	 	56987
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEO	Leon			156	151	No for Rejection	 	 	56987
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LEV	Levy			13	13	No for Rejection	 	 	2961
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	LIB	Liberty			8	8	No for Rejection	 	 	414
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	MAD	Madison			11	11	No for Rejection	 	 	1298
@@ -2597,7 +2597,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LAF	Lafayette			5	5	Yes for Approval	 	 	1196
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LAK	Lake			103	103	Yes for Approval	 	 	114792
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEE	Lee			127	127	Yes for Approval	 	 	210778
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEO	Leon			156	156	Yes for Approval	 	 	95572
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEO	Leon			156	151	Yes for Approval	 	 	95572
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEV	Levy			13	13	Yes for Approval	 	 	9922
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LIB	Liberty			8	8	Yes for Approval	 	 	1201
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAD	Madison			11	11	Yes for Approval	 	 	4371
@@ -2664,7 +2664,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LAF	Lafayette			5	5	No for Rejection	 	 	2388
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LAK	Lake			103	103	No for Rejection	 	 	88808
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEE	Lee			127	127	No for Rejection	 	 	154106
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEO	Leon			156	156	No for Rejection	 	 	63471
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEO	Leon			156	151	No for Rejection	 	 	63471
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LEV	Levy			13	13	No for Rejection	 	 	12331
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	LIB	Liberty			8	8	No for Rejection	 	 	2240
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	MAD	Madison			11	11	No for Rejection	 	 	4756
@@ -2731,7 +2731,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LAF	Lafayette			5	5	Yes for Approval	 	 	1718
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LAK	Lake			103	103	Yes for Approval	 	 	116364
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEE	Lee			127	127	Yes for Approval	 	 	207081
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEO	Leon			156	156	Yes for Approval	 	 	78607
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEO	Leon			156	151	Yes for Approval	 	 	78607
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEV	Levy			13	13	Yes for Approval	 	 	11567
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LIB	Liberty			8	8	Yes for Approval	 	 	1794
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAD	Madison			11	11	Yes for Approval	 	 	4892
@@ -2798,7 +2798,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LAF	Lafayette			5	5	No for Rejection	 	 	1762
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LAK	Lake			103	103	No for Rejection	 	 	84157
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEE	Lee			127	127	No for Rejection	 	 	149105
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEO	Leon			156	156	No for Rejection	 	 	75893
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEO	Leon			156	151	No for Rejection	 	 	75893
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LEV	Levy			13	13	No for Rejection	 	 	10124
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	LIB	Liberty			8	8	No for Rejection	 	 	1476
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	MAD	Madison			11	11	No for Rejection	 	 	4027
@@ -2865,7 +2865,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LAF	Lafayette			5	5	Yes for Approval	 	 	1845
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LAK	Lake			103	103	Yes for Approval	 	 	97918
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEE	Lee			127	127	Yes for Approval	 	 	166910
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEO	Leon			156	156	Yes for Approval	 	 	62219
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEO	Leon			156	151	Yes for Approval	 	 	62219
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEV	Levy			13	13	Yes for Approval	 	 	11264
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LIB	Liberty			8	8	Yes for Approval	 	 	1678
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAD	Madison			11	11	Yes for Approval	 	 	4775
@@ -2932,7 +2932,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LAF	Lafayette			5	5	No for Rejection	 	 	1600
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LAK	Lake			103	103	No for Rejection	 	 	101178
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEE	Lee			127	127	No for Rejection	 	 	186009
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEO	Leon			156	156	No for Rejection	 	 	90038
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEO	Leon			156	151	No for Rejection	 	 	90038
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LEV	Levy			13	13	No for Rejection	 	 	10250
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	LIB	Liberty			8	8	No for Rejection	 	 	1531
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	MAD	Madison			11	11	No for Rejection	 	 	4011
@@ -2999,7 +2999,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LAF	Lafayette			5	5	Yes for Approval	 	 	2246
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LAK	Lake			103	103	Yes for Approval	 	 	145715
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEE	Lee			127	127	Yes for Approval	 	 	264305
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEO	Leon			156	156	Yes for Approval	 	 	92920
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEO	Leon			156	151	Yes for Approval	 	 	92920
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEV	Levy			13	13	Yes for Approval	 	 	14332
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LIB	Liberty			8	8	Yes for Approval	 	 	2098
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAD	Madison			11	11	Yes for Approval	 	 	6296
@@ -3066,7 +3066,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LAF	Lafayette			5	5	No for Rejection	 	 	1129
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LAK	Lake			103	103	No for Rejection	 	 	49887
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEE	Lee			127	127	No for Rejection	 	 	80534
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEO	Leon			156	156	No for Rejection	 	 	57153
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEO	Leon			156	151	No for Rejection	 	 	57153
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LEV	Levy			13	13	No for Rejection	 	 	7109
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	LIB	Liberty			8	8	No for Rejection	 	 	1079
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	MAD	Madison			11	11	No for Rejection	 	 	2513
@@ -3133,7 +3133,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LAF	Lafayette			5	5	Yes for Approval	 	 	3003
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LAK	Lake			103	103	Yes for Approval	 	 	180398
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEE	Lee			127	127	Yes for Approval	 	 	327767
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEO	Leon			156	156	Yes for Approval	 	 	131172
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEO	Leon			156	151	Yes for Approval	 	 	131172
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEV	Levy			13	13	Yes for Approval	 	 	19451
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LIB	Liberty			8	8	Yes for Approval	 	 	2787
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAD	Madison			11	11	Yes for Approval	 	 	7846
@@ -3200,7 +3200,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LAF	Lafayette			5	5	No for Rejection	 	 	511
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LAK	Lake			103	103	No for Rejection	 	 	18516
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEE	Lee			127	127	No for Rejection	 	 	31539
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEO	Leon			156	156	No for Rejection	 	 	22656
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEO	Leon			156	151	No for Rejection	 	 	22656
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LEV	Levy			13	13	No for Rejection	 	 	2403
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	LIB	Liberty			8	8	No for Rejection	 	 	480
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	MAD	Madison			11	11	No for Rejection	 	 	1097
