@@ -1258,9 +1258,9 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 35	DAD	Miami-Dade	035	 	77	77	Jones	Shevrin	"Shev"	90851
 11/03/2020	WRI	Write-in	STS	State Senator, District 35	BRO	Broward	035	 	58	58	Hill	Darien		0
 11/03/2020	WRI	Write-in	STS	State Senator, District 35	DAD	Miami-Dade	035	 	77	77	Hill	Darien		251
-11/03/2020	REP	Republican Party	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Garcia	Ileana		104616
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Rodriguez	Jose	Javier	104585
-11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Rodriguez	Alex		6377
+11/03/2020	REP	Republican Party	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Garcia	Ileana		104597
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Rodriguez	Jose	Javier	104569
+11/03/2020	NPA	No Party Affiliation	STS	State Senator, District 37	DAD	Miami-Dade	037	 	183	183	Rodriguez	Alex		6376
 11/03/2020	REP	Republican Party	STS	State Senator, District 39	DAD	Miami-Dade	039	 	160	160	Rodriguez	Ana	Maria	97439
 11/03/2020	REP	Republican Party	STS	State Senator, District 39	MON	Monroe	039	 	33	33	Rodriguez	Ana	Maria	26111
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 39	DAD	Miami-Dade	039	 	160	160	Fernandez	Javier	E.	75749
@@ -2409,8 +2409,8 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 7th Judicial Circuit, Group 14	VOL	Volusia	007	014	125	125	Hilbert	Dan		106718
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 15th Judicial Circuit, Group 30	PAL	Palm Beach	015	030	871	871	Goodman	Jaimie		365742
 11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 15th Judicial Circuit, Group 30	PAL	Palm Beach	015	030	871	871	Myron	Adam		252403
-11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 17th Judicial Circuit, Group 16	BRO	Broward	017	016	577	577	Bailey	Dennis	Daniel	393008
-11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 17th Judicial Circuit, Group 16	BRO	Broward	017	016	577	577	Odom	George		394224
+11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 17th Judicial Circuit, Group 16	BRO	Broward	017	016	577	577	Bailey	Dennis	Daniel	392953
+11/03/2020	NOP	Non-Partisan	CTJ	Circuit Judge, 17th Judicial Circuit, Group 16	BRO	Broward	017	016	577	577	Odom	George		394170
 11/03/2020	NOP	Non-Partisan	ECW	Lehigh Acres Municipal Services Improvement District, Seat 1	HEN	Hendry	   	001	1	1	Hollingsworth	Julie		41
 11/03/2020	NOP	Non-Partisan	ECW	Lehigh Acres Municipal Services Improvement District, Seat 1	LEE	Lee	   	001	15	15	Hollingsworth	Julie		14705
 11/03/2020	NOP	Non-Partisan	ECW	Lehigh Acres Municipal Services Improvement District, Seat 1	HEN	Hendry	   	001	1	1	Welch	Michael	J. "Mike"	46
