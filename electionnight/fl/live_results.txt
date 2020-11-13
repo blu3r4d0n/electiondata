@@ -59,7 +59,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Pence	Trump	 / 	110931
 11/03/2020	REP	Republican Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Pence	Trump	 / 	86825
 11/03/2020	REP	Republican Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Pence	Trump	 / 	62757
-11/03/2020	REP	Republican Party	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Pence	Trump	 / 	16410
+11/03/2020	REP	Republican Party	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Pence	Trump	 / 	16410
 11/03/2020	REP	Republican Party	PRE	President of the United States	TAY	Taylor	   	 	14	14	Pence	Trump	 / 	7748
 11/03/2020	REP	Republican Party	PRE	President of the United States	UNI	Union	   	 	8	2	Pence	Trump	 / 	5133
 11/03/2020	REP	Republican Party	PRE	President of the United States	VOL	Volusia	   	 	125	125	Pence	Trump	 / 	173797
@@ -126,7 +126,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Harris	Biden	 / 	63834
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Harris	Biden	 / 	84115
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Harris	Biden	 / 	29331
-11/03/2020	DEM	Democratic Party	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Harris	Biden	 / 	4485
+11/03/2020	DEM	Democratic Party	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Harris	Biden	 / 	4485
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	TAY	Taylor	   	 	14	14	Harris	Biden	 / 	2299
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	UNI	Union	   	 	8	2	Harris	Biden	 / 	1053
 11/03/2020	DEM	Democratic Party	PRE	President of the United States	VOL	Volusia	   	 	125	125	Harris	Biden	 / 	130541
@@ -193,7 +193,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Cohen	Jorgensen	 / 	1412
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Cohen	Jorgensen	 / 	767
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Cohen	Jorgensen	 / 	268
-11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Cohen	Jorgensen	 / 	119
+11/03/2020	LPF	Libertarian Party	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Cohen	Jorgensen	 / 	119
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	TAY	Taylor	   	 	14	14	Cohen	Jorgensen	 / 	52
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	UNI	Union	   	 	8	2	Cohen	Jorgensen	 / 	42
 11/03/2020	LPF	Libertarian Party	PRE	President of the United States	VOL	Volusia	   	 	125	125	Cohen	Jorgensen	 / 	2153
@@ -260,7 +260,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REF	Reform Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Richardson	De La Fuente	 / 	101
 11/03/2020	REF	Reform Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Richardson	De La Fuente	 / 	71
 11/03/2020	REF	Reform Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Richardson	De La Fuente	 / 	25
-11/03/2020	REF	Reform Party	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Richardson	De La Fuente	 / 	6
+11/03/2020	REF	Reform Party	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Richardson	De La Fuente	 / 	6
 11/03/2020	REF	Reform Party	PRE	President of the United States	TAY	Taylor	   	 	14	14	Richardson	De La Fuente	 / 	3
 11/03/2020	REF	Reform Party	PRE	President of the United States	UNI	Union	   	 	8	2	Richardson	De La Fuente	 / 	4
 11/03/2020	REF	Reform Party	PRE	President of the United States	VOL	Volusia	   	 	125	125	Richardson	De La Fuente	 / 	160
@@ -327,7 +327,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Freeman	La Riva	 / 	54
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Freeman	La Riva	 / 	82
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	SUM	Sumter	   	 	26	26	Freeman	La Riva	 / 	20
-11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Freeman	La Riva	 / 	8
+11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Freeman	La Riva	 / 	8
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	TAY	Taylor	   	 	14	14	Freeman	La Riva	 / 	6
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	UNI	Union	   	 	8	2	Freeman	La Riva	 / 	3
 11/03/2020	PSL	Party for Socialism and Liberation	PRE	President of the United States	VOL	Volusia	   	 	125	125	Freeman	La Riva	 / 	173
@@ -394,7 +394,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	GRE	Green Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Walker	Hawkins	 / 	210
 11/03/2020	GRE	Green Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Walker	Hawkins	 / 	209
 11/03/2020	GRE	Green Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Walker	Hawkins	 / 	39
-11/03/2020	GRE	Green Party	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Walker	Hawkins	 / 	23
+11/03/2020	GRE	Green Party	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Walker	Hawkins	 / 	23
 11/03/2020	GRE	Green Party	PRE	President of the United States	TAY	Taylor	   	 	14	14	Walker	Hawkins	 / 	11
 11/03/2020	GRE	Green Party	PRE	President of the United States	UNI	Union	   	 	8	2	Walker	Hawkins	 / 	5
 11/03/2020	GRE	Green Party	PRE	President of the United States	VOL	Volusia	   	 	125	125	Walker	Hawkins	 / 	390
@@ -461,7 +461,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Mohr	Blankenship	 / 	44
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Mohr	Blankenship	 / 	61
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	SUM	Sumter	   	 	26	26	Mohr	Blankenship	 / 	29
-11/03/2020	CPF	Constitution Party	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Mohr	Blankenship	 / 	6
+11/03/2020	CPF	Constitution Party	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Mohr	Blankenship	 / 	6
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	TAY	Taylor	   	 	14	14	Mohr	Blankenship	 / 	3
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	UNI	Union	   	 	8	2	Mohr	Blankenship	 / 	5
 11/03/2020	CPF	Constitution Party	PRE	President of the United States	VOL	Volusia	   	 	125	125	Mohr	Blankenship	 / 	141
@@ -528,7 +528,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Patel	Carroll	 / 	4
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Patel	Carroll	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Patel	Carroll	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	TAY	Taylor	   	 	14	14	Patel	Carroll	 / 	2
 11/03/2020	WRI	Write-in	PRE	President of the United States	UNI	Union	   	 	8	2	Patel	Carroll	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	VOL	Volusia	   	 	125	125	Patel	Carroll	 / 	19
@@ -595,7 +595,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Howard	Howard	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Howard	Howard	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	TAY	Taylor	   	 	14	14	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	UNI	Union	   	 	8	2	Howard	Howard	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	VOL	Volusia	   	 	125	125	Howard	Howard	 / 	0
@@ -662,7 +662,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Pope	Laboch	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Pope	Laboch	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	TAY	Taylor	   	 	14	14	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	UNI	Union	   	 	8	2	Pope	Laboch	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	VOL	Volusia	   	 	125	125	Pope	Laboch	 / 	0
@@ -729,7 +729,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Nixon	Simmons	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Nixon	Simmons	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	TAY	Taylor	   	 	14	14	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	UNI	Union	   	 	8	2	Nixon	Simmons	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	VOL	Volusia	   	 	125	125	Nixon	Simmons	 / 	4
@@ -796,7 +796,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Tolbert	Walls-Windhauser	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Tolbert	Walls-Windhauser	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	TAY	Taylor	   	 	14	14	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	UNI	Union	   	 	8	2	Tolbert	Walls-Windhauser	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	VOL	Volusia	   	 	125	125	Tolbert	Walls-Windhauser	 / 	0
@@ -863,7 +863,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	PRE	President of the United States	STJ	St. Johns	   	 	48	48	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	STL	St. Lucie	   	 	64	64	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	SUM	Sumter	   	 	26	26	Wells	Wells	 / 	0
-11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	0	Wells	Wells	 / 	0
+11/03/2020	WRI	Write-in	PRE	President of the United States	SUW	Suwannee	   	 	16	16	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	TAY	Taylor	   	 	14	14	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	UNI	Union	   	 	8	2	Wells	Wells	 / 	0
 11/03/2020	WRI	Write-in	PRE	President of the United States	VOL	Volusia	   	 	125	125	Wells	Wells	 / 	0
@@ -900,7 +900,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LEV	Levy	002	 	13	13	Dunn	Neal		18956
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	LIB	Liberty	002	 	8	8	Dunn	Neal		2973
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	MRN	Marion	002	 	21	21	Dunn	Neal		24888
-11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	SUW	Suwannee	002	 	16	0	Dunn	Neal		17971
+11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	SUW	Suwannee	002	 	16	16	Dunn	Neal		17971
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	TAY	Taylor	002	 	14	14	Dunn	Neal		8539
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	WAK	Wakulla	002	 	12	12	Dunn	Neal		14514
 11/03/2020	REP	Republican Party	USR	Representative in Congress, District 2	WAS	Washington	002	 	12	12	Dunn	Neal		10619
@@ -919,7 +919,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LEV	Levy	002	 	13	13	O'Connor	Kim		182
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	LIB	Liberty	002	 	8	8	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	MRN	Marion	002	 	21	21	O'Connor	Kim		379
-11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	SUW	Suwannee	002	 	16	0	O'Connor	Kim		0
+11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	SUW	Suwannee	002	 	16	16	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	TAY	Taylor	002	 	14	14	O'Connor	Kim		67
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	WAK	Wakulla	002	 	12	12	O'Connor	Kim		0
 11/03/2020	WRI	Write-in	USR	Representative in Congress, District 2	WAS	Washington	002	 	12	12	O'Connor	Kim		0
@@ -1176,7 +1176,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	STS	State Senator, District 5	LAF	Lafayette	005	 	5	5	Bradley	Jennifer		3055
 11/03/2020	REP	Republican Party	STS	State Senator, District 5	LEV	Levy	005	 	13	13	Bradley	Jennifer		16513
 11/03/2020	REP	Republican Party	STS	State Senator, District 5	MRN	Marion	005	 	7	7	Bradley	Jennifer		7281
-11/03/2020	REP	Republican Party	STS	State Senator, District 5	SUW	Suwannee	005	 	16	0	Bradley	Jennifer		16260
+11/03/2020	REP	Republican Party	STS	State Senator, District 5	SUW	Suwannee	005	 	16	16	Bradley	Jennifer		16260
 11/03/2020	REP	Republican Party	STS	State Senator, District 5	UNI	Union	005	 	8	2	Bradley	Jennifer		5025
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 5	BAK	Baker	005	 	9	9	Peters	Stacey	L.	2017
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 5	BRA	Bradford	005	 	14	14	Peters	Stacey	L.	3007
@@ -1187,7 +1187,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 5	LAF	Lafayette	005	 	5	5	Peters	Stacey	L.	500
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 5	LEV	Levy	005	 	13	13	Peters	Stacey	L.	5804
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 5	MRN	Marion	005	 	7	7	Peters	Stacey	L.	3199
-11/03/2020	DEM	Democratic Party	STS	State Senator, District 5	SUW	Suwannee	005	 	16	0	Peters	Stacey	L.	4166
+11/03/2020	DEM	Democratic Party	STS	State Senator, District 5	SUW	Suwannee	005	 	16	16	Peters	Stacey	L.	4166
 11/03/2020	DEM	Democratic Party	STS	State Senator, District 5	UNI	Union	005	 	8	2	Peters	Stacey	L.	1022
 11/03/2020	REP	Republican Party	STS	State Senator, District 7	FLA	Flagler	007	 	25	25	Hutson	Travis	J.	41813
 11/03/2020	REP	Republican Party	STS	State Senator, District 7	STJ	St. Johns	007	 	48	48	Hutson	Travis	J.	112276
@@ -1308,12 +1308,12 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	REP	Republican Party	STR	State Representative, District 10	BAK	Baker	010	 	9	9	Brannan	Chuck		12001
 11/03/2020	REP	Republican Party	STR	State Representative, District 10	CLM	Columbia	010	 	22	22	Brannan	Chuck		24236
 11/03/2020	REP	Republican Party	STR	State Representative, District 10	HAM	Hamilton	010	 	8	8	Brannan	Chuck		3842
-11/03/2020	REP	Republican Party	STR	State Representative, District 10	SUW	Suwannee	010	 	16	0	Brannan	Chuck		16426
+11/03/2020	REP	Republican Party	STR	State Representative, District 10	SUW	Suwannee	010	 	16	16	Brannan	Chuck		16426
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	ALA	Alachua	010	 	2	2	Aboujaoude	Rock		1284
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	BAK	Baker	010	 	9	9	Aboujaoude	Rock		1830
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	CLM	Columbia	010	 	22	22	Aboujaoude	Rock		7683
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	HAM	Hamilton	010	 	8	8	Aboujaoude	Rock		1772
-11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	SUW	Suwannee	010	 	16	0	Aboujaoude	Rock		3887
+11/03/2020	DEM	Democratic Party	STR	State Representative, District 10	SUW	Suwannee	010	 	16	16	Aboujaoude	Rock		3887
 11/03/2020	REP	Republican Party	STR	State Representative, District 11	DUV	Duval	011	 	24	24	Byrd	Cord		34190
 11/03/2020	REP	Republican Party	STR	State Representative, District 11	NAS	Nassau	011	 	15	15	Byrd	Cord		42224
 11/03/2020	DEM	Democratic Party	STR	State Representative, District 11	DUV	Duval	011	 	24	24	Hicks	Joshua		20572
@@ -1631,7 +1631,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STJ	St. Johns	   	1	48	48	Yes	Carlos	G.	109775
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STL	St. Lucie	   	1	64	64	Yes	Carlos	G.	99363
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUM	Sumter	   	1	26	26	Yes	Carlos	G.	60326
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUW	Suwannee	   	1	16	0	Yes	Carlos	G.	12462
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUW	Suwannee	   	1	16	16	Yes	Carlos	G.	12462
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	TAY	Taylor	   	1	14	14	Yes	Carlos	G.	5920
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	UNI	Union	   	1	8	2	Yes	Carlos	G.	3653
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	VOL	Volusia	   	1	125	125	Yes	Carlos	G.	176179
@@ -1698,7 +1698,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STJ	St. Johns	   	1	48	48	No	Carlos	G.	38259
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	STL	St. Lucie	   	1	64	64	No	Carlos	G.	50438
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUM	Sumter	   	1	26	26	No	Carlos	G.	17991
-11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUW	Suwannee	   	1	16	0	No	Carlos	G.	6360
+11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	SUW	Suwannee	   	1	16	16	No	Carlos	G.	6360
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	TAY	Taylor	   	1	14	14	No	Carlos	G.	3140
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	UNI	Union	   	1	8	2	No	Carlos	G.	1984
 11/03/2020	NOP	Non-Partisan	SCJ	Shall Justice Carlos G. Muñiz be retained in Office?	VOL	Volusia	   	1	125	125	No	Carlos	G.	79472
@@ -1731,7 +1731,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	NAS	Nassau	001	1	15	15	Yes	Joseph		37901
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	OKA	Okaloosa	001	1	52	52	Yes	Joseph		72547
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SAN	Santa Rosa	001	1	41	41	Yes	Joseph		68440
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SUW	Suwannee	001	1	16	0	Yes	Joseph		12562
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SUW	Suwannee	001	1	16	16	Yes	Joseph		12562
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	TAY	Taylor	001	1	14	14	Yes	Joseph		6436
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	UNI	Union	001	1	8	2	Yes	Joseph		3662
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	WAK	Wakulla	001	1	12	12	Yes	Joseph		11700
@@ -1763,7 +1763,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	NAS	Nassau	001	1	15	15	No	Joseph		12987
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	OKA	Okaloosa	001	1	52	52	No	Joseph		27928
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SAN	Santa Rosa	001	1	41	41	No	Joseph		24537
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SUW	Suwannee	001	1	16	0	No	Joseph		6125
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	SUW	Suwannee	001	1	16	16	No	Joseph		6125
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	TAY	Taylor	001	1	14	14	No	Joseph		2694
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	UNI	Union	001	1	8	2	No	Joseph		1937
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Joseph Lewis Jr be retained in Office?	WAK	Wakulla	001	1	12	12	No	Joseph		4511
@@ -1795,7 +1795,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	NAS	Nassau	001	2	15	15	Yes	Scott		37322
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	OKA	Okaloosa	001	2	52	52	Yes	Scott		70615
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SAN	Santa Rosa	001	2	41	41	Yes	Scott		67366
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SUW	Suwannee	001	2	16	0	Yes	Scott		12417
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SUW	Suwannee	001	2	16	16	Yes	Scott		12417
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	TAY	Taylor	001	2	14	14	Yes	Scott		6152
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	UNI	Union	001	2	8	2	Yes	Scott		3674
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	WAK	Wakulla	001	2	12	12	Yes	Scott		11195
@@ -1827,7 +1827,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	NAS	Nassau	001	2	15	15	No	Scott		13122
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	OKA	Okaloosa	001	2	52	52	No	Scott		29437
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SAN	Santa Rosa	001	2	41	41	No	Scott		25154
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SUW	Suwannee	001	2	16	0	No	Scott		6130
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	SUW	Suwannee	001	2	16	16	No	Scott		6130
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	TAY	Taylor	001	2	14	14	No	Scott		2927
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	UNI	Union	001	2	8	2	No	Scott		1884
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Scott Makar be retained in Office?	WAK	Wakulla	001	2	12	12	No	Scott		4899
@@ -1859,7 +1859,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	NAS	Nassau	001	3	15	15	Yes	Rachel		37122
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	OKA	Okaloosa	001	3	52	52	Yes	Rachel		71066
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SAN	Santa Rosa	001	3	41	41	Yes	Rachel		67974
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SUW	Suwannee	001	3	16	0	Yes	Rachel		12498
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SUW	Suwannee	001	3	16	16	Yes	Rachel		12498
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	TAY	Taylor	001	3	14	14	Yes	Rachel		6005
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	UNI	Union	001	3	8	2	Yes	Rachel		3696
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	WAK	Wakulla	001	3	12	12	Yes	Rachel		11251
@@ -1891,7 +1891,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	NAS	Nassau	001	3	15	15	No	Rachel		13157
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	OKA	Okaloosa	001	3	52	52	No	Rachel		29102
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SAN	Santa Rosa	001	3	41	41	No	Rachel		24535
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SUW	Suwannee	001	3	16	0	No	Rachel		6038
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	SUW	Suwannee	001	3	16	16	No	Rachel		6038
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	TAY	Taylor	001	3	14	14	No	Rachel		2897
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	UNI	Union	001	3	8	2	No	Rachel		1877
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Rachel Nordby be retained in Office?	WAK	Wakulla	001	3	12	12	No	Rachel		4844
@@ -1923,7 +1923,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	NAS	Nassau	001	4	15	15	Yes	Tim		36114
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	OKA	Okaloosa	001	4	52	52	Yes	Tim		68142
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SAN	Santa Rosa	001	4	41	41	Yes	Tim		66003
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SUW	Suwannee	001	4	16	0	Yes	Tim		12176
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SUW	Suwannee	001	4	16	16	Yes	Tim		12176
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	TAY	Taylor	001	4	14	14	Yes	Tim		5860
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	UNI	Union	001	4	8	2	Yes	Tim		3634
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	WAK	Wakulla	001	4	12	12	Yes	Tim		10912
@@ -1955,7 +1955,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	NAS	Nassau	001	4	15	15	No	Tim		14162
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	OKA	Okaloosa	001	4	52	52	No	Tim		31484
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SAN	Santa Rosa	001	4	41	41	No	Tim		26191
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SUW	Suwannee	001	4	16	0	No	Tim		6353
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	SUW	Suwannee	001	4	16	16	No	Tim		6353
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	TAY	Taylor	001	4	14	14	No	Tim		3056
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	UNI	Union	001	4	8	2	No	Tim		1940
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Tim Osterhaus be retained in Office?	WAK	Wakulla	001	4	12	12	No	Tim		5139
@@ -1987,7 +1987,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	NAS	Nassau	001	5	15	15	Yes	Clay		35600
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	OKA	Okaloosa	001	5	52	52	Yes	Clay		68317
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SAN	Santa Rosa	001	5	41	41	Yes	Clay		66396
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SUW	Suwannee	001	5	16	0	Yes	Clay		12269
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SUW	Suwannee	001	5	16	16	Yes	Clay		12269
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	TAY	Taylor	001	5	14	14	Yes	Clay		6108
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	UNI	Union	001	5	8	2	Yes	Clay		3688
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	WAK	Wakulla	001	5	12	12	Yes	Clay		11300
@@ -2019,7 +2019,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	NAS	Nassau	001	5	15	15	No	Clay		14689
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	OKA	Okaloosa	001	5	52	52	No	Clay		30367
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SAN	Santa Rosa	001	5	41	41	No	Clay		25716
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SUW	Suwannee	001	5	16	0	No	Clay		6261
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	SUW	Suwannee	001	5	16	16	No	Clay		6261
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	TAY	Taylor	001	5	14	14	No	Clay		2697
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	UNI	Union	001	5	8	2	No	Clay		1895
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Clay Roberts be retained in Office?	WAK	Wakulla	001	5	12	12	No	Clay		4764
@@ -2051,7 +2051,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	NAS	Nassau	001	6	15	15	Yes	Adam	S.	36265
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	OKA	Okaloosa	001	6	52	52	Yes	Adam	S.	68512
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SAN	Santa Rosa	001	6	41	41	Yes	Adam	S.	66290
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SUW	Suwannee	001	6	16	0	Yes	Adam	S.	12480
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SUW	Suwannee	001	6	16	16	Yes	Adam	S.	12480
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	TAY	Taylor	001	6	14	14	Yes	Adam	S.	5936
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	UNI	Union	001	6	8	2	Yes	Adam	S.	3698
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	WAK	Wakulla	001	6	12	12	Yes	Adam	S.	11064
@@ -2083,7 +2083,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	NAS	Nassau	001	6	15	15	No	Adam	S.	13699
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	OKA	Okaloosa	001	6	52	52	No	Adam	S.	31008
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SAN	Santa Rosa	001	6	41	41	No	Adam	S.	25807
-11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SUW	Suwannee	001	6	16	0	No	Adam	S.	6146
+11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	SUW	Suwannee	001	6	16	16	No	Adam	S.	6146
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	TAY	Taylor	001	6	14	14	No	Adam	S.	2961
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	UNI	Union	001	6	8	2	No	Adam	S.	1883
 11/03/2020	NOP	Non-Partisan	DCA	Shall Judge Adam S. Tanenbaum be retained in Office?	WAK	Wakulla	001	6	12	12	No	Adam	S.	4961
@@ -2487,7 +2487,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STJ	St. Johns			48	48	Yes for Approval	 	 	136486
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STL	St. Lucie			64	64	Yes for Approval	 	 	137232
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUM	Sumter			26	26	Yes for Approval	 	 	76302
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUW	Suwannee			16	0	Yes for Approval	 	 	18388
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUW	Suwannee			16	16	Yes for Approval	 	 	18388
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	TAY	Taylor			14	14	Yes for Approval	 	 	8574
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	UNI	Union			8	2	Yes for Approval	 	 	5572
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	VOL	Volusia			125	125	Yes for Approval	 	 	235064
@@ -2554,7 +2554,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STJ	St. Johns			48	48	No for Rejection	 	 	31300
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	STL	St. Lucie			64	64	No for Rejection	 	 	28670
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUM	Sumter			26	26	No for Rejection	 	 	12267
-11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUW	Suwannee			16	0	No for Rejection	 	 	2146
+11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	SUW	Suwannee			16	16	No for Rejection	 	 	2146
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	TAY	Taylor			14	14	No for Rejection	 	 	1127
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	UNI	Union			8	2	No for Rejection	 	 	544
 11/03/2020	NOP	Non-Partisan	AMD	Citizenship Requirement to Vote in Florida Elections	VOL	Volusia			125	125	No for Rejection	 	 	56795
@@ -2621,7 +2621,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STJ	St. Johns			48	48	Yes for Approval	 	 	84122
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STL	St. Lucie			64	64	Yes for Approval	 	 	97865
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUM	Sumter			26	26	Yes for Approval	 	 	50095
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUW	Suwannee			16	0	Yes for Approval	 	 	7755
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUW	Suwannee			16	16	Yes for Approval	 	 	7755
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	TAY	Taylor			14	14	Yes for Approval	 	 	4296
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	UNI	Union			8	2	Yes for Approval	 	 	2147
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	VOL	Volusia			125	125	Yes for Approval	 	 	166134
@@ -2688,7 +2688,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STJ	St. Johns			48	48	No for Rejection	 	 	85319
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	STL	St. Lucie			64	64	No for Rejection	 	 	69675
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUM	Sumter			26	26	No for Rejection	 	 	38516
-11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUW	Suwannee			16	0	No for Rejection	 	 	12798
+11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	SUW	Suwannee			16	16	No for Rejection	 	 	12798
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	TAY	Taylor			14	14	No for Rejection	 	 	5473
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	UNI	Union			8	2	No for Rejection	 	 	3989
 11/03/2020	NOP	Non-Partisan	AMD	Raising Florida’s Minimum Wage	VOL	Volusia			125	125	No for Rejection	 	 	126921
@@ -2755,7 +2755,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STJ	St. Johns			48	48	Yes for Approval	 	 	84229
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STL	St. Lucie			64	64	Yes for Approval	 	 	89256
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUM	Sumter			26	26	Yes for Approval	 	 	44509
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUW	Suwannee			16	0	Yes for Approval	 	 	10021
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUW	Suwannee			16	16	Yes for Approval	 	 	10021
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	TAY	Taylor			14	14	Yes for Approval	 	 	5274
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	UNI	Union			8	2	Yes for Approval	 	 	3162
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	VOL	Volusia			125	125	Yes for Approval	 	 	144235
@@ -2822,7 +2822,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STJ	St. Johns			48	48	No for Rejection	 	 	82680
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	STL	St. Lucie			64	64	No for Rejection	 	 	71008
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUM	Sumter			26	26	No for Rejection	 	 	40462
-11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUW	Suwannee			16	0	No for Rejection	 	 	9976
+11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	SUW	Suwannee			16	16	No for Rejection	 	 	9976
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	TAY	Taylor			14	14	No for Rejection	 	 	4312
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	UNI	Union			8	2	No for Rejection	 	 	2762
 11/03/2020	NOP	Non-Partisan	AMD	All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	VOL	Volusia			125	125	No for Rejection	 	 	140123
@@ -2889,7 +2889,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STJ	St. Johns			48	48	Yes for Approval	 	 	82210
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STL	St. Lucie			64	64	Yes for Approval	 	 	80421
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUM	Sumter			26	26	Yes for Approval	 	 	42476
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUW	Suwannee			16	0	Yes for Approval	 	 	10185
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUW	Suwannee			16	16	Yes for Approval	 	 	10185
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	TAY	Taylor			14	14	Yes for Approval	 	 	5315
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	UNI	Union			8	2	Yes for Approval	 	 	3102
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	VOL	Volusia			125	125	Yes for Approval	 	 	139519
@@ -2956,7 +2956,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STJ	St. Johns			48	48	No for Rejection	 	 	83135
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	STL	St. Lucie			64	64	No for Rejection	 	 	78379
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUM	Sumter			26	26	No for Rejection	 	 	41690
-11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUW	Suwannee			16	0	No for Rejection	 	 	9679
+11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	SUW	Suwannee			16	16	No for Rejection	 	 	9679
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	TAY	Taylor			14	14	No for Rejection	 	 	4147
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	UNI	Union			8	2	No for Rejection	 	 	2733
 11/03/2020	NOP	Non-Partisan	AMD	Voter Approval of Constitutional Amendments	VOL	Volusia			125	125	No for Rejection	 	 	140400
@@ -3023,7 +3023,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STJ	St. Johns			48	48	Yes for Approval	 	 	118516
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STL	St. Lucie			64	64	Yes for Approval	 	 	122406
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUM	Sumter			26	26	Yes for Approval	 	 	60857
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUW	Suwannee			16	0	Yes for Approval	 	 	13635
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUW	Suwannee			16	16	Yes for Approval	 	 	13635
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	TAY	Taylor			14	14	Yes for Approval	 	 	6734
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	UNI	Union			8	2	Yes for Approval	 	 	3976
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	VOL	Volusia			125	125	Yes for Approval	 	 	193928
@@ -3090,7 +3090,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STJ	St. Johns			48	48	No for Rejection	 	 	44886
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	STL	St. Lucie			64	64	No for Rejection	 	 	37907
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUM	Sumter			26	26	No for Rejection	 	 	23120
-11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUW	Suwannee			16	0	No for Rejection	 	 	5893
+11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	SUW	Suwannee			16	16	No for Rejection	 	 	5893
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	TAY	Taylor			14	14	No for Rejection	 	 	2508
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	UNI	Union			8	2	No for Rejection	 	 	1831
 11/03/2020	NOP	Non-Partisan	AMD	Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	VOL	Volusia			125	125	No for Rejection	 	 	82268
@@ -3157,7 +3157,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STJ	St. Johns			48	48	Yes for Approval	 	 	151040
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STL	St. Lucie			64	64	Yes for Approval	 	 	144720
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUM	Sumter			26	26	Yes for Approval	 	 	76144
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUW	Suwannee			16	0	Yes for Approval	 	 	17942
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUW	Suwannee			16	16	Yes for Approval	 	 	17942
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	TAY	Taylor			14	14	Yes for Approval	 	 	8659
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	UNI	Union			8	2	Yes for Approval	 	 	5250
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	VOL	Volusia			125	125	Yes for Approval	 	 	239421
@@ -3224,7 +3224,7 @@ ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1n
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STJ	St. Johns			48	48	No for Rejection	 	 	15469
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	STL	St. Lucie			64	64	No for Rejection	 	 	17881
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUM	Sumter			26	26	No for Rejection	 	 	9242
-11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUW	Suwannee			16	0	No for Rejection	 	 	2312
+11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	SUW	Suwannee			16	16	No for Rejection	 	 	2312
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	TAY	Taylor			14	14	No for Rejection	 	 	957
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	UNI	Union			8	2	No for Rejection	 	 	698
 11/03/2020	NOP	Non-Partisan	AMD	Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	VOL	Volusia			125	125	No for Rejection	 	 	44531
