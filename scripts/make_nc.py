@@ -35,7 +35,7 @@ else:
 
 statewide = pd.DataFrame([["STATEWIDE", results["ballotscast_2020"].sum(), results["registered_2020"].sum(), results["ballotscast_2020"].sum()/results["registered_2020"].sum(), results["beasley_2020"].sum(), results["ncssvotes_2020"].sum(), statewide_beasleypct_2020, results["newby_2020"].sum(), statewide_newbypct_2020]], columns = ['county', 'ballotscast_2020', 'registered_2020', 'turnout_2020', 'beasley_2020', 'ncssvotes_2020', 'beasleypct_2020', 'newby_2020', 'newbypct_2020'])
 
-results.append(statewide).fillna(0).set_index('county')
+results=results.append(statewide).fillna(0).set_index('county')
 
 results = results.astype({"ballotscast_2020":int,"registered_2020":int,"turnout_2020":float,"beasley_2020":int,"ncssvotes_2020":int,"beasleypct_2020":float,"newby_2020":int,"newbypct_2020":float})
 
