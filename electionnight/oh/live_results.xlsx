@@ -319,6 +319,6 @@
 	<script src="/Static/js/lib/require.js?version=5" data-main="/Static/js-built/OSS/main"></script>
 	
 	
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6163781ccf7bf331","version":"2021.1.1","si":10}'></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"61637f702ef8f355","si":10,"version":"2021.1.1"}'></script>
 </body>
 </html>
